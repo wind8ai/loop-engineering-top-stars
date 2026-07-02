@@ -17,9 +17,21 @@
 06. [Fission-AI/OpenSpec (58k ⭐)](#6-fission-aiopenspec-58k-)
 07. [Leonxlnx/taste-skill (55k ⭐)](#7-leonxlnxtaste-skill-55k-)
 08. [bmad-code-org/BMAD-METHOD (50k ⭐)](#8-bmad-code-orgbmad-method-50k-)
-09. [snarktank/ralph (21k ⭐)](#9-snarktankralph-21k-)
-10. [hardikpandya/stop-slop (13k ⭐)](#10-hardikpandyastop-slop-13k-)
-11. [open-gsd/gsd-core (5.7k ⭐)](#11-open-gsdgsd-core-57k-)
+09. [OthmanAdi/planning-with-files (24k ⭐)](#9-othmanadiplanning-with-files-24k-)
+10. [snarktank/ralph (21k ⭐)](#10-snarktankralph-21k-)
+11. [hardikpandya/stop-slop (13k ⭐)](#11-hardikpandyastop-slop-13k-)
+12. [mindfold-ai/Trellis (12k ⭐)](#12-mindfold-aitrellis-12k-)
+13. [frankbria/ralph-claude-code (9.5k ⭐)](#13-frankbriaralph-claude-code-95k-)
+14. [gsd-build/gsd-2 (7.8k ⭐)](#14-gsd-buildgsd-2-78k-)
+15. [open-gsd/gsd-core (5.7k ⭐)](#15-open-gsdgsd-core-57k-)
+16. [gotalab/cc-sdd (3.5k ⭐)](#16-gotalabcc-sdd-35k-)
+17. [michaelshimeles/ralphy (2.9k ⭐)](#17-michaelshimelesralphy-29k-)
+18. [maxritter/pilot-shell (1.8k ⭐)](#18-maxritterpilot-shell-18k-)
+19. [Priivacy-ai/spec-kitty (1.4k ⭐)](#19-priivacy-aispec-kitty-14k-)
+20. [AnandChowdhary/continuous-claude (1.4k ⭐)](#20-anandchowdharycontinuous-claude-14k-)
+21. [modu-ai/moai-adk (1.1k ⭐)](#21-modu-aimoai-adk-11k-)
+22. [open-gsd/gsd-pi (803 ⭐)](#22-open-gsdgsd-pi-803-)
+23. [shotgun-sh/shotgun (683 ⭐)](#23-shotgun-shshotgun-683-)
 
 → [Overflow list (0 entries)](./README.en.overflow.md)
 
@@ -121,7 +133,19 @@
 
 ---
 
-## 9. snarktank/ralph (21k ⭐)
+## 9. OthmanAdi/planning-with-files (24k ⭐)
+
+**🔗** https://github.com/OthmanAdi/planning-with-files  
+**🍴** Forks 2.1k | **🔄** Updated 2026-06-16  
+**👤** Ahmad Othman Adi (OthmanAdi) — educator at migRaven and author of planning-with-files
+
+> Persistent file-based planning for AI coding agents — crash-proof markdown plans that survive context loss, with completion gates and multi-agent shared state.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
+
+## 10. snarktank/ralph (21k ⭐)
 
 **🔗** https://github.com/snarktank/ralph  
 **🍴** Forks 2k | **🔄** Updated 2026-02-02  
@@ -133,7 +157,7 @@
 
 ---
 
-## 10. hardikpandya/stop-slop (13k ⭐)
+## 11. hardikpandya/stop-slop (13k ⭐)
 
 **🔗** https://github.com/hardikpandya/stop-slop  
 **🍴** Forks 919 | **🔄** Updated 2026-03-17  
@@ -145,7 +169,43 @@
 
 ---
 
-## 11. open-gsd/gsd-core (5.7k ⭐)
+## 12. mindfold-ai/Trellis (12k ⭐)
+
+**🔗** https://github.com/mindfold-ai/Trellis  
+**🍴** Forks 654 | **🔄** Updated 2026-07-02  
+**👤** mindfold-ai — Trellis agent harness team
+
+> High-performance agent harness runtime for complete agentic workflows and multi-tool integration.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
+
+## 13. frankbria/ralph-claude-code (9.5k ⭐)
+
+**🔗** https://github.com/frankbria/ralph-claude-code  
+**🍴** Forks 725 | **🔄** Updated 2026-06-20  
+**👤** Frank Bria — author of the ralph-claude-code autonomous dev loop
+
+> Autonomous AI development loop for Claude Code with intelligent exit detection.
+
+**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration
+
+---
+
+## 14. gsd-build/gsd-2 (7.8k ⭐)
+
+**🔗** https://github.com/gsd-build/gsd-2  
+**🍴** Forks 776 | **🔄** Updated 2026-05-22  
+**👤** TÂCHES / gsd-build — creators of the GSD methodology
+
+> Lightweight meta-prompting and spec-driven development system for long-running autonomous agents.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
+
+## 15. open-gsd/gsd-core (5.7k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
 **🍴** Forks 353 | **🔄** Updated 2026-07-02  
@@ -156,6 +216,102 @@
 **Matched Capabilities**: 🤖 Agent Integration · 📋 Spec-Driven
 
 ---
+
+## 16. gotalab/cc-sdd (3.5k ⭐)
+
+**🔗** https://github.com/gotalab/cc-sdd  
+**🍴** Forks 266 | **🔄** Updated 2026-05-20  
+**👤** gotalab — cc-sdd spec-driven development harness team
+
+> Minimal SDD harness that turns approved specs into long-running autonomous implementation across major coding agents.
+
+**Matched Capabilities**: 🤖 Agent Integration · 📋 Spec-Driven
+
+---
+
+## 17. michaelshimeles/ralphy (2.9k ⭐)
+
+**🔗** https://github.com/michaelshimeles/ralphy  
+**🍴** Forks 363 | **🔄** Updated 2026-02-05  
+**👤** Michael Shimeles — author of the ralphy multi-agent autonomous loop
+
+> Ralph Wiggum-style autonomous bash loop running Claude Code, Codex, Cursor and more until your PRD is complete.
+
+**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration
+
+---
+
+## 18. maxritter/pilot-shell (1.8k ⭐)
+
+**🔗** https://github.com/maxritter/pilot-shell  
+**🍴** Forks 148 | **🔄** Updated 2026-07-01  
+**👤** Max Ritter — author of pilot-shell production agent workflows
+
+> Spec-driven planning, enforced TDD, persistent memory, and quality gates for production-ready Claude Code and Codex agents.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
+
+## 19. Priivacy-ai/spec-kitty (1.4k ⭐)
+
+**🔗** https://github.com/Priivacy-ai/spec-kitty  
+**🍴** Forks 120 | **🔄** Updated 2026-07-01  
+**👤** Priivacy-ai — spec-kitty SDD tooling team
+
+> Spec-driven development for serious software developers — Kanban dashboard, git worktrees, auto-merge across major agents.
+
+**Matched Capabilities**: 🤖 Agent Integration · 📋 Spec-Driven
+
+---
+
+## 20. AnandChowdhary/continuous-claude (1.4k ⭐)
+
+**🔗** https://github.com/AnandChowdhary/continuous-claude  
+**🍴** Forks 93 | **🔄** Updated 2026-06-06  
+**👤** Anand Chowdhary — Pabio cofounder and author of continuous-claude
+
+> Ralph loop with PRs — run Claude Code continuously, autonomously creating PRs, waiting for checks, and merging.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
+
+## 21. modu-ai/moai-adk (1.1k ⭐)
+
+**🔗** https://github.com/modu-ai/moai-adk  
+**🍴** Forks 203 | **🔄** Updated 2026-07-02  
+**👤** modu-ai — moai-adk agentic development kit team
+
+> SPEC-first agentic development kit — 24 AI agents, 52 skills, TDD/DDD quality gates, Go CLI with zero deps.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
+
+## 22. open-gsd/gsd-pi (803 ⭐)
+
+**🔗** https://github.com/open-gsd/gsd-pi  
+**🍴** Forks 74 | **🔄** Updated 2026-07-02  
+**👤** open-gsd — GSD-Pi maintainers
+
+> GSD meta-prompting and spec-driven development (Pi edition) for long-running autonomous agents with big-picture awareness.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
+
+## 23. shotgun-sh/shotgun (683 ⭐)
+
+**🔗** https://github.com/shotgun-sh/shotgun  
+**🍴** Forks 35 | **🔄** Updated 2026-06-02  
+**👤** shotgun-sh — Shotgun SDD tooling team
+
+> Spec-driven development — write codebase-aware specs so AI coding agents don't derail.
+
+**Matched Capabilities**: 🤖 Agent Integration
+
+---
 ## Category Index
 
 ### 📋 Spec-Driven Development
@@ -164,12 +320,24 @@
 - [spec-kit](#4-githubspec-kit-117k-) — Toolkit to help you get started with Spec-Driven Development
 - [OpenSpec](#6-fission-aiopenspec-58k-) — Spec-driven development (SDD) for AI coding assistants
 - [BMAD-METHOD](#8-bmad-code-orgbmad-method-50k-) — Breakthrough Method for Agile AI Driven Development
-- [gsd-core](#11-open-gsdgsd-core-57k-) — Git
+- [gsd-2](#14-gsd-buildgsd-2-78k-) — Lightweight meta-prompting and spec-driven development syste…
+- [gsd-core](#15-open-gsdgsd-core-57k-) — Git
+- [cc-sdd](#16-gotalabcc-sdd-35k-) — Minimal SDD harness that turns approved specs into long-runn…
+- [pilot-shell](#18-maxritterpilot-shell-18k-) — Spec-driven planning, enforced TDD, persistent memory, and q…
+- [spec-kitty](#19-priivacy-aispec-kitty-14k-) — Spec-driven development for serious software developers — Ka…
+- [gsd-pi](#22-open-gsdgsd-pi-803-) — GSD meta-prompting and spec-driven development (Pi edition) …
+- [shotgun](#23-shotgun-shshotgun-683-) — Spec-driven development — write codebase-aware specs so AI c…
 
 ### 🔁 Agent Iteration Loops
 
 - [superpowers](#1-obrasuperpowers-244k-) — Agentic skills framework and software development methodolog…
-- [ralph](#9-snarktankralph-21k-) — Autonomous AI agent loop that runs repeatedly until all PRD …
+- [ralph](#10-snarktankralph-21k-) — Autonomous AI agent loop that runs repeatedly until all PRD …
+- [ralph-claude-code](#13-frankbriaralph-claude-code-95k-) — Autonomous AI development loop for Claude Code with intellig…
+- [gsd-2](#14-gsd-buildgsd-2-78k-) — Lightweight meta-prompting and spec-driven development syste…
+- [cc-sdd](#16-gotalabcc-sdd-35k-) — Minimal SDD harness that turns approved specs into long-runn…
+- [ralphy](#17-michaelshimelesralphy-29k-) — Ralph Wiggum-style autonomous bash loop running Claude Code,…
+- [continuous-claude](#20-anandchowdharycontinuous-claude-14k-) — Ralph loop with PRs — run Claude Code continuously, autonomo…
+- [gsd-pi](#22-open-gsdgsd-pi-803-) — GSD meta-prompting and spec-driven development (Pi edition) …
 
 ### 🤖 Skills & Workflows
 
@@ -178,13 +346,17 @@
 - [skills](#3-mattpocockskills-153k-) — Matt Pocock's personal skills collection, straight from his
 - [agent-skills](#5-addyosmaniagent-skills-68k-) — Production-grade engineering skills for AI coding agents
 - [taste-skill](#7-leonxlnxtaste-skill-55k-) — Design taste skill that stops AI from generating boring, gen…
-- [stop-slop](#10-hardikpandyastop-slop-13k-) — A skill file for removing AI tells from prose
+- [stop-slop](#11-hardikpandyastop-slop-13k-) — A skill file for removing AI tells from prose
+- [moai-adk](#21-modu-aimoai-adk-11k-) — SPEC-first agentic development kit — 24 AI agents, 52 skills…
 
 ### ⚡ Optimization & Methodology
 
 - [superpowers](#1-obrasuperpowers-244k-) — Agentic skills framework and software development methodolog…
 - [ECC](#2-affaan-mecc-225k-) — Agent harness performance optimization system — skills, inst…
-- [gsd-core](#11-open-gsdgsd-core-57k-) — Git
+- [planning-with-files](#9-othmanadiplanning-with-files-24k-) — Persistent file-based planning for AI coding agents — crash-…
+- [Trellis](#12-mindfold-aitrellis-12k-) — High-performance agent harness runtime for complete agentic …
+- [gsd-core](#15-open-gsdgsd-core-57k-) — Git
+- [cc-sdd](#16-gotalabcc-sdd-35k-) — Minimal SDD harness that turns approved specs into long-runn…
 
 
 ---
