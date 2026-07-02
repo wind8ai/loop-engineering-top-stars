@@ -1,6 +1,6 @@
 # loop-engineering-top-stars
 
-[中文](./README.md) | **English** · [Overflow](./README.en.overflow.md)
+[中文](./README.md) | **English**
 
 > Curated Loop Engineering Projects — Spec-Driven Loops, Agent Iteration & SDD Workflows  
 > Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-07-02
@@ -30,10 +30,8 @@
 19. [Priivacy-ai/spec-kitty (1.4k ⭐)](#19-priivacy-aispec-kitty-14k-)
 20. [AnandChowdhary/continuous-claude (1.4k ⭐)](#20-anandchowdharycontinuous-claude-14k-)
 21. [modu-ai/moai-adk (1.1k ⭐)](#21-modu-aimoai-adk-11k-)
-22. [open-gsd/gsd-pi (803 ⭐)](#22-open-gsdgsd-pi-803-)
+22. [open-gsd/gsd-pi (804 ⭐)](#22-open-gsdgsd-pi-804-)
 23. [shotgun-sh/shotgun (683 ⭐)](#23-shotgun-shshotgun-683-)
-
-→ [Overflow list (0 entries)](./README.en.overflow.md)
 
 ---
 
@@ -208,7 +206,7 @@
 ## 15. open-gsd/gsd-core (5.7k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Forks 353 | **🔄** Updated 2026-07-02  
+**🍴** Forks 354 | **🔄** Updated 2026-07-02  
 **👤** open-gsd — maintainers of the GSD workflow harness
 
 > Git. Ship. Done — core spec-driven agentic delivery harness.
@@ -289,7 +287,7 @@
 
 ---
 
-## 22. open-gsd/gsd-pi (803 ⭐)
+## 22. open-gsd/gsd-pi (804 ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
 **🍴** Forks 74 | **🔄** Updated 2026-07-02  
@@ -325,7 +323,7 @@
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — Minimal SDD harness that turns approved specs into long-runn…
 - [pilot-shell](#18-maxritterpilot-shell-18k-) — Spec-driven planning, enforced TDD, persistent memory, and q…
 - [spec-kitty](#19-priivacy-aispec-kitty-14k-) — Spec-driven development for serious software developers — Ka…
-- [gsd-pi](#22-open-gsdgsd-pi-803-) — GSD meta-prompting and spec-driven development (Pi edition) …
+- [gsd-pi](#22-open-gsdgsd-pi-804-) — GSD meta-prompting and spec-driven development (Pi edition) …
 - [shotgun](#23-shotgun-shshotgun-683-) — Spec-driven development — write codebase-aware specs so AI c…
 
 ### 🔁 Agent Iteration Loops
@@ -337,7 +335,7 @@
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — Minimal SDD harness that turns approved specs into long-runn…
 - [ralphy](#17-michaelshimelesralphy-29k-) — Ralph Wiggum-style autonomous bash loop running Claude Code,…
 - [continuous-claude](#20-anandchowdharycontinuous-claude-14k-) — Ralph loop with PRs — run Claude Code continuously, autonomo…
-- [gsd-pi](#22-open-gsdgsd-pi-803-) — GSD meta-prompting and spec-driven development (Pi edition) …
+- [gsd-pi](#22-open-gsdgsd-pi-804-) — GSD meta-prompting and spec-driven development (Pi edition) …
 
 ### 🤖 Skills & Workflows
 
@@ -364,7 +362,7 @@
 ## Collection Rules
 
 - Inclusion: wind8ai has starred the repo and it appears in this category's Star List; ranked by total GitHub Stars
-- Formal list cap: **42**, minimum **500** stars; eligible overflow entries are in [Overflow](./README.en.overflow.md)
+- Formal list cap: **42**, minimum **500** stars
 - Source: wind8ai [Star List `loop-engineering`](https://github.com/stars/wind8ai/lists/loop-engineering)
 
 ---

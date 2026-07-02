@@ -1,6 +1,6 @@
 # loop-engineering-top-stars
 
-**中文** | [English](./README.en.md) · [备选榜](./README.overflow.md)
+**中文** | [English](./README.en.md)
 
 > GitHub 高星 Loop Engineering 项目精选 — Spec 驱动 · Agent 迭代循环 · SDD 工作流  
 > 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-07-02
@@ -30,10 +30,8 @@
 19. [Priivacy-ai/spec-kitty (1.4k ⭐)](#19-priivacy-aispec-kitty-14k-)
 20. [AnandChowdhary/continuous-claude (1.4k ⭐)](#20-anandchowdharycontinuous-claude-14k-)
 21. [modu-ai/moai-adk (1.1k ⭐)](#21-modu-aimoai-adk-11k-)
-22. [open-gsd/gsd-pi (803 ⭐)](#22-open-gsdgsd-pi-803-)
+22. [open-gsd/gsd-pi (804 ⭐)](#22-open-gsdgsd-pi-804-)
 23. [shotgun-sh/shotgun (683 ⭐)](#23-shotgun-shshotgun-683-)
-
-→ [备选榜（0 条）](./README.overflow.md)
 
 ---
 
@@ -208,7 +206,7 @@
 ## 15. open-gsd/gsd-core (5.7k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Fork 353 | **🔄** Updated 2026-07-02  
+**🍴** Fork 354 | **🔄** Updated 2026-07-02  
 **👤** open-gsd — GSD 工作流开源团队
 
 > Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环。
@@ -289,7 +287,7 @@
 
 ---
 
-## 22. open-gsd/gsd-pi (803 ⭐)
+## 22. open-gsd/gsd-pi (804 ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
 **🍴** Fork 74 | **🔄** Updated 2026-07-02  
@@ -323,7 +321,7 @@
 - [gsd-core](#15-open-gsdgsd-core-57k-) — Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude…
 - [spec-kitty](#19-priivacy-aispec-kitty-14k-) — 面向严肃开发者的 Spec 驱动开发工具：Kanban 看板、git worktree、自动合并，支持 Claude、C…
-- [gsd-pi](#22-open-gsdgsd-pi-803-) — GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局…
+- [gsd-pi](#22-open-gsdgsd-pi-804-) — GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局…
 
 ### 🔁 Agent 迭代循环
 
@@ -359,7 +357,7 @@
 ## 收录规则
 
 - 收录标准：wind8ai 已 star 且在该类目 Star List 中即收录，按 GitHub Star 总数降序
-- 正式榜上限 **42** 个，最低门槛 Star ≥ 500；超出上限的 eligible 条目见 [备选榜](./README.overflow.md)
+- 正式榜上限 **42** 个，最低门槛 Star ≥ 500
 - 数据来源：wind8ai [Star List `loop-engineering`](https://github.com/stars/wind8ai/lists/loop-engineering)
 
 ---
