@@ -11,9 +11,9 @@
 
 01. [obra/superpowers (244k ⭐)](#1-obrasuperpowers-244k-)
 02. [affaan-m/ECC (225k ⭐)](#2-affaan-mecc-225k-)
-03. [mattpocock/skills (153k ⭐)](#3-mattpocockskills-153k-)
+03. [mattpocock/skills (154k ⭐)](#3-mattpocockskills-154k-)
 04. [github/spec-kit (117k ⭐)](#4-githubspec-kit-117k-)
-05. [addyosmani/agent-skills (68k ⭐)](#5-addyosmaniagent-skills-68k-)
+05. [addyosmani/agent-skills (69k ⭐)](#5-addyosmaniagent-skills-69k-)
 06. [Fission-AI/OpenSpec (58k ⭐)](#6-fission-aiopenspec-58k-)
 07. [Leonxlnx/taste-skill (55k ⭐)](#7-leonxlnxtaste-skill-55k-)
 08. [bmad-code-org/BMAD-METHOD (50k ⭐)](#8-bmad-code-orgbmad-method-50k-)
@@ -30,7 +30,7 @@
 19. [Priivacy-ai/spec-kitty (1.4k ⭐)](#19-priivacy-aispec-kitty-14k-)
 20. [AnandChowdhary/continuous-claude (1.4k ⭐)](#20-anandchowdharycontinuous-claude-14k-)
 21. [modu-ai/moai-adk (1.1k ⭐)](#21-modu-aimoai-adk-11k-)
-22. [open-gsd/gsd-pi (804 ⭐)](#22-open-gsdgsd-pi-804-)
+22. [open-gsd/gsd-pi (807 ⭐)](#22-open-gsdgsd-pi-807-)
 23. [shotgun-sh/shotgun (683 ⭐)](#23-shotgun-shshotgun-683-)
 
 ---
@@ -59,10 +59,10 @@
 
 ---
 
-## 3. mattpocock/skills (153k ⭐)
+## 3. mattpocock/skills (154k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Fork 13k | **🔄** Updated 2026-07-01  
+**🍴** Fork 13k | **🔄** Updated 2026-07-02  
 **👤** Matt Pocock — TypeScript 教育 KOL，Total TypeScript 创始人
 
 > Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师。
@@ -74,7 +74,7 @@
 ## 4. github/spec-kit (117k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Fork 10k | **🔄** Updated 2026-07-01  
+**🍴** Fork 10k | **🔄** Updated 2026-07-02  
 **👤** GitHub 官方团队 — Spec-Driven Development 工具链维护方
 
 > Spec-Driven Development 入门工具包，帮助开发者快速上手 spec 驱动开发方法论。
@@ -83,7 +83,7 @@
 
 ---
 
-## 5. addyosmani/agent-skills (68k ⭐)
+## 5. addyosmani/agent-skills (69k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
 **🍴** Fork 7.4k | **🔄** Updated 2026-06-28  
@@ -98,7 +98,7 @@
 ## 6. Fission-AI/OpenSpec (58k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Fork 4k | **🔄** Updated 2026-06-28  
+**🍴** Fork 4.1k | **🔄** Updated 2026-06-28  
 **👤** Fission-AI — SDD 框架开源团队
 
 > 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架。
@@ -110,7 +110,7 @@
 ## 7. Leonxlnx/taste-skill (55k ⭐)
 
 **🔗** https://github.com/Leonxlnx/taste-skill  
-**🍴** Fork 3.7k | **🔄** Updated 2026-06-20  
+**🍴** Fork 3.8k | **🔄** Updated 2026-06-20  
 **👤** Leon Lin — Taste Skill 创始人
 
 > 开源设计品味 Skill，为 AI coding agent 提供更好的布局、排版、间距与动效审美。
@@ -158,7 +158,7 @@
 ## 11. hardikpandya/stop-slop (13k ⭐)
 
 **🔗** https://github.com/hardikpandya/stop-slop  
-**🍴** Fork 919 | **🔄** Updated 2026-03-17  
+**🍴** Fork 924 | **🔄** Updated 2026-03-17  
 **👤** Hardik Pandya — 独立开发者，专注去除 AI 写作痕迹
 
 > 去除 AI 写作痕迹的技能文件，识别并移除 LLM 可预测的写作模式。
@@ -170,7 +170,7 @@
 ## 12. mindfold-ai/Trellis (12k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Fork 654 | **🔄** Updated 2026-07-02  
+**🍴** Fork 657 | **🔄** Updated 2026-07-02  
 **👤** mindfold-ai — Trellis agent harness 团队
 
 > 高性能 Agent Harness 运行时，提供完整 agentic 工作流与多工具集成，文档见 docs.trytrellis.app。
@@ -182,7 +182,7 @@
 ## 13. frankbria/ralph-claude-code (9.5k ⭐)
 
 **🔗** https://github.com/frankbria/ralph-claude-code  
-**🍴** Fork 725 | **🔄** Updated 2026-06-20  
+**🍴** Fork 724 | **🔄** Updated 2026-06-20  
 **👤** Frank Bria — ralph-claude-code 自主开发循环作者
 
 > 面向 Claude Code 的自主 AI 开发循环，含智能退出检测，可持续运行直至任务完成。
@@ -206,7 +206,7 @@
 ## 15. open-gsd/gsd-core (5.7k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Fork 354 | **🔄** Updated 2026-07-02  
+**🍴** Fork 357 | **🔄** Updated 2026-07-02  
 **👤** open-gsd — GSD 工作流开源团队
 
 > Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环。
@@ -242,7 +242,7 @@
 ## 18. maxritter/pilot-shell (1.8k ⭐)
 
 **🔗** https://github.com/maxritter/pilot-shell  
-**🍴** Fork 148 | **🔄** Updated 2026-07-01  
+**🍴** Fork 148 | **🔄** Updated 2026-07-02  
 **👤** Max Ritter — pilot-shell 生产级 agent 工作流作者
 
 > 工程师向 Claude Code/Codex 工作流 Shell：Spec 规划、强制 TDD、持久记忆与多层质量门禁，让 agent 达到生产就绪。
@@ -254,7 +254,7 @@
 ## 19. Priivacy-ai/spec-kitty (1.4k ⭐)
 
 **🔗** https://github.com/Priivacy-ai/spec-kitty  
-**🍴** Fork 120 | **🔄** Updated 2026-07-01  
+**🍴** Fork 120 | **🔄** Updated 2026-07-02  
 **👤** Priivacy-ai — spec-kitty SDD 工具团队
 
 > 面向严肃开发者的 Spec 驱动开发工具：Kanban 看板、git worktree、自动合并，支持 Claude、Cursor、Gemini、Codex。
@@ -287,7 +287,7 @@
 
 ---
 
-## 22. open-gsd/gsd-pi (804 ⭐)
+## 22. open-gsd/gsd-pi (807 ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
 **🍴** Fork 74 | **🔄** Updated 2026-07-02  
@@ -321,7 +321,7 @@
 - [gsd-core](#15-open-gsdgsd-core-57k-) — Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude…
 - [spec-kitty](#19-priivacy-aispec-kitty-14k-) — 面向严肃开发者的 Spec 驱动开发工具：Kanban 看板、git worktree、自动合并，支持 Claude、C…
-- [gsd-pi](#22-open-gsdgsd-pi-804-) — GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局…
+- [gsd-pi](#22-open-gsdgsd-pi-807-) — GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局…
 
 ### 🔁 Agent 迭代循环
 
@@ -334,8 +334,8 @@
 ### 🤖 Skills 与工作流
 
 - [ECC](#2-affaan-mecc-225k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
-- [skills](#3-mattpocockskills-153k-) — Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师
-- [agent-skills](#5-addyosmaniagent-skills-68k-) — 生产级 AI coding agent 工程技能集合，覆盖现代工程实践关键场景
+- [skills](#3-mattpocockskills-154k-) — Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师
+- [agent-skills](#5-addyosmaniagent-skills-69k-) — 生产级 AI coding agent 工程技能集合，覆盖现代工程实践关键场景
 - [taste-skill](#7-leonxlnxtaste-skill-55k-) — 开源设计品味 Skill，为 AI coding agent 提供更好的布局、排版、间距与动效审美
 - [stop-slop](#11-hardikpandyastop-slop-13k-) — 去除 AI 写作痕迹的技能文件，识别并移除 LLM 可预测的写作模式
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude…

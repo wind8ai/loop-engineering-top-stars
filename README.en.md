@@ -11,9 +11,9 @@
 
 01. [obra/superpowers (244k ⭐)](#1-obrasuperpowers-244k-)
 02. [affaan-m/ECC (225k ⭐)](#2-affaan-mecc-225k-)
-03. [mattpocock/skills (153k ⭐)](#3-mattpocockskills-153k-)
+03. [mattpocock/skills (154k ⭐)](#3-mattpocockskills-154k-)
 04. [github/spec-kit (117k ⭐)](#4-githubspec-kit-117k-)
-05. [addyosmani/agent-skills (68k ⭐)](#5-addyosmaniagent-skills-68k-)
+05. [addyosmani/agent-skills (69k ⭐)](#5-addyosmaniagent-skills-69k-)
 06. [Fission-AI/OpenSpec (58k ⭐)](#6-fission-aiopenspec-58k-)
 07. [Leonxlnx/taste-skill (55k ⭐)](#7-leonxlnxtaste-skill-55k-)
 08. [bmad-code-org/BMAD-METHOD (50k ⭐)](#8-bmad-code-orgbmad-method-50k-)
@@ -30,7 +30,7 @@
 19. [Priivacy-ai/spec-kitty (1.4k ⭐)](#19-priivacy-aispec-kitty-14k-)
 20. [AnandChowdhary/continuous-claude (1.4k ⭐)](#20-anandchowdharycontinuous-claude-14k-)
 21. [modu-ai/moai-adk (1.1k ⭐)](#21-modu-aimoai-adk-11k-)
-22. [open-gsd/gsd-pi (804 ⭐)](#22-open-gsdgsd-pi-804-)
+22. [open-gsd/gsd-pi (807 ⭐)](#22-open-gsdgsd-pi-807-)
 23. [shotgun-sh/shotgun (683 ⭐)](#23-shotgun-shshotgun-683-)
 
 ---
@@ -59,10 +59,10 @@
 
 ---
 
-## 3. mattpocock/skills (153k ⭐)
+## 3. mattpocock/skills (154k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Forks 13k | **🔄** Updated 2026-07-01  
+**🍴** Forks 13k | **🔄** Updated 2026-07-02  
 **👤** Matt Pocock — TypeScript educator and Total TypeScript founder
 
 > Matt Pocock's personal skills collection, straight from his .claude directory for real engineers.
@@ -74,7 +74,7 @@
 ## 4. github/spec-kit (117k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Forks 10k | **🔄** Updated 2026-07-01  
+**🍴** Forks 10k | **🔄** Updated 2026-07-02  
 **👤** GitHub official team — maintainers of the Spec-Driven Development toolkit
 
 > Toolkit to help you get started with Spec-Driven Development.
@@ -83,7 +83,7 @@
 
 ---
 
-## 5. addyosmani/agent-skills (68k ⭐)
+## 5. addyosmani/agent-skills (69k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
 **🍴** Forks 7.4k | **🔄** Updated 2026-06-28  
@@ -98,7 +98,7 @@
 ## 6. Fission-AI/OpenSpec (58k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Forks 4k | **🔄** Updated 2026-06-28  
+**🍴** Forks 4.1k | **🔄** Updated 2026-06-28  
 **👤** Fission-AI — open-source SDD framework team
 
 > Spec-driven development (SDD) for AI coding assistants.
@@ -110,7 +110,7 @@
 ## 7. Leonxlnx/taste-skill (55k ⭐)
 
 **🔗** https://github.com/Leonxlnx/taste-skill  
-**🍴** Forks 3.7k | **🔄** Updated 2026-06-20  
+**🍴** Forks 3.8k | **🔄** Updated 2026-06-20  
 **👤** Leon Lin — founder of Taste Skill
 
 > Design taste skill that stops AI from generating boring, generic UI slop.
@@ -158,7 +158,7 @@
 ## 11. hardikpandya/stop-slop (13k ⭐)
 
 **🔗** https://github.com/hardikpandya/stop-slop  
-**🍴** Forks 919 | **🔄** Updated 2026-03-17  
+**🍴** Forks 924 | **🔄** Updated 2026-03-17  
 **👤** Hardik Pandya — independent developer focused on de-slopping AI prose
 
 > A skill file for removing AI tells from prose.
@@ -170,7 +170,7 @@
 ## 12. mindfold-ai/Trellis (12k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Forks 654 | **🔄** Updated 2026-07-02  
+**🍴** Forks 657 | **🔄** Updated 2026-07-02  
 **👤** mindfold-ai — Trellis agent harness team
 
 > High-performance agent harness runtime for complete agentic workflows and multi-tool integration.
@@ -182,7 +182,7 @@
 ## 13. frankbria/ralph-claude-code (9.5k ⭐)
 
 **🔗** https://github.com/frankbria/ralph-claude-code  
-**🍴** Forks 725 | **🔄** Updated 2026-06-20  
+**🍴** Forks 724 | **🔄** Updated 2026-06-20  
 **👤** Frank Bria — author of the ralph-claude-code autonomous dev loop
 
 > Autonomous AI development loop for Claude Code with intelligent exit detection.
@@ -206,7 +206,7 @@
 ## 15. open-gsd/gsd-core (5.7k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Forks 354 | **🔄** Updated 2026-07-02  
+**🍴** Forks 357 | **🔄** Updated 2026-07-02  
 **👤** open-gsd — maintainers of the GSD workflow harness
 
 > Git. Ship. Done — core spec-driven agentic delivery harness.
@@ -242,7 +242,7 @@
 ## 18. maxritter/pilot-shell (1.8k ⭐)
 
 **🔗** https://github.com/maxritter/pilot-shell  
-**🍴** Forks 148 | **🔄** Updated 2026-07-01  
+**🍴** Forks 148 | **🔄** Updated 2026-07-02  
 **👤** Max Ritter — author of pilot-shell production agent workflows
 
 > Spec-driven planning, enforced TDD, persistent memory, and quality gates for production-ready Claude Code and Codex agents.
@@ -254,7 +254,7 @@
 ## 19. Priivacy-ai/spec-kitty (1.4k ⭐)
 
 **🔗** https://github.com/Priivacy-ai/spec-kitty  
-**🍴** Forks 120 | **🔄** Updated 2026-07-01  
+**🍴** Forks 120 | **🔄** Updated 2026-07-02  
 **👤** Priivacy-ai — spec-kitty SDD tooling team
 
 > Spec-driven development for serious software developers — Kanban dashboard, git worktrees, auto-merge across major agents.
@@ -287,7 +287,7 @@
 
 ---
 
-## 22. open-gsd/gsd-pi (804 ⭐)
+## 22. open-gsd/gsd-pi (807 ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
 **🍴** Forks 74 | **🔄** Updated 2026-07-02  
@@ -323,7 +323,7 @@
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — Minimal SDD harness that turns approved specs into long-runn…
 - [pilot-shell](#18-maxritterpilot-shell-18k-) — Spec-driven planning, enforced TDD, persistent memory, and q…
 - [spec-kitty](#19-priivacy-aispec-kitty-14k-) — Spec-driven development for serious software developers — Ka…
-- [gsd-pi](#22-open-gsdgsd-pi-804-) — GSD meta-prompting and spec-driven development (Pi edition) …
+- [gsd-pi](#22-open-gsdgsd-pi-807-) — GSD meta-prompting and spec-driven development (Pi edition) …
 - [shotgun](#23-shotgun-shshotgun-683-) — Spec-driven development — write codebase-aware specs so AI c…
 
 ### 🔁 Agent Iteration Loops
@@ -335,14 +335,14 @@
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — Minimal SDD harness that turns approved specs into long-runn…
 - [ralphy](#17-michaelshimelesralphy-29k-) — Ralph Wiggum-style autonomous bash loop running Claude Code,…
 - [continuous-claude](#20-anandchowdharycontinuous-claude-14k-) — Ralph loop with PRs — run Claude Code continuously, autonomo…
-- [gsd-pi](#22-open-gsdgsd-pi-804-) — GSD meta-prompting and spec-driven development (Pi edition) …
+- [gsd-pi](#22-open-gsdgsd-pi-807-) — GSD meta-prompting and spec-driven development (Pi edition) …
 
 ### 🤖 Skills & Workflows
 
 - [superpowers](#1-obrasuperpowers-244k-) — Agentic skills framework and software development methodolog…
 - [ECC](#2-affaan-mecc-225k-) — Agent harness performance optimization system — skills, inst…
-- [skills](#3-mattpocockskills-153k-) — Matt Pocock's personal skills collection, straight from his
-- [agent-skills](#5-addyosmaniagent-skills-68k-) — Production-grade engineering skills for AI coding agents
+- [skills](#3-mattpocockskills-154k-) — Matt Pocock's personal skills collection, straight from his
+- [agent-skills](#5-addyosmaniagent-skills-69k-) — Production-grade engineering skills for AI coding agents
 - [taste-skill](#7-leonxlnxtaste-skill-55k-) — Design taste skill that stops AI from generating boring, gen…
 - [stop-slop](#11-hardikpandyastop-slop-13k-) — A skill file for removing AI tells from prose
 - [moai-adk](#21-modu-aimoai-adk-11k-) — SPEC-first agentic development kit — 24 AI agents, 52 skills…
