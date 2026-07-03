@@ -3,16 +3,16 @@
 **中文** | [English](./README.en.md)
 
 > GitHub 高星 Loop Engineering 项目精选 — Spec 驱动 · Agent 迭代循环 · SDD 工作流  
-> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-07-02
+> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-07-03
 
 ---
 
 ## Contents
 
-01. [obra/superpowers (244k ⭐)](#1-obrasuperpowers-244k-)
+01. [obra/superpowers (245k ⭐)](#1-obrasuperpowers-245k-)
 02. [affaan-m/ECC (225k ⭐)](#2-affaan-mecc-225k-)
-03. [mattpocock/skills (154k ⭐)](#3-mattpocockskills-154k-)
-04. [github/spec-kit (117k ⭐)](#4-githubspec-kit-117k-)
+03. [mattpocock/skills (155k ⭐)](#3-mattpocockskills-155k-)
+04. [github/spec-kit (118k ⭐)](#4-githubspec-kit-118k-)
 05. [addyosmani/agent-skills (69k ⭐)](#5-addyosmaniagent-skills-69k-)
 06. [Fission-AI/OpenSpec (58k ⭐)](#6-fission-aiopenspec-58k-)
 07. [Leonxlnx/taste-skill (55k ⭐)](#7-leonxlnxtaste-skill-55k-)
@@ -23,22 +23,33 @@
 12. [mindfold-ai/Trellis (12k ⭐)](#12-mindfold-aitrellis-12k-)
 13. [frankbria/ralph-claude-code (9.5k ⭐)](#13-frankbriaralph-claude-code-95k-)
 14. [gsd-build/gsd-2 (7.8k ⭐)](#14-gsd-buildgsd-2-78k-)
-15. [open-gsd/gsd-core (5.7k ⭐)](#15-open-gsdgsd-core-57k-)
+15. [open-gsd/gsd-core (5.8k ⭐)](#15-open-gsdgsd-core-58k-)
 16. [gotalab/cc-sdd (3.5k ⭐)](#16-gotalabcc-sdd-35k-)
-17. [michaelshimeles/ralphy (2.9k ⭐)](#17-michaelshimelesralphy-29k-)
-18. [maxritter/pilot-shell (1.8k ⭐)](#18-maxritterpilot-shell-18k-)
-19. [Priivacy-ai/spec-kitty (1.4k ⭐)](#19-priivacy-aispec-kitty-14k-)
-20. [AnandChowdhary/continuous-claude (1.4k ⭐)](#20-anandchowdharycontinuous-claude-14k-)
-21. [modu-ai/moai-adk (1.1k ⭐)](#21-modu-aimoai-adk-11k-)
-22. [open-gsd/gsd-pi (807 ⭐)](#22-open-gsdgsd-pi-807-)
-23. [shotgun-sh/shotgun (683 ⭐)](#23-shotgun-shshotgun-683-)
+17. [mikeyobrien/ralph-orchestrator (3k ⭐)](#17-mikeyobrienralph-orchestrator-3k-)
+18. [michaelshimeles/ralphy (2.9k ⭐)](#18-michaelshimelesralphy-29k-)
+19. [subsy/ralph-tui (2.4k ⭐)](#19-subsyralph-tui-24k-)
+20. [Th0rgal/open-ralph-wiggum (1.8k ⭐)](#20-th0rgalopen-ralph-wiggum-18k-)
+21. [maxritter/pilot-shell (1.8k ⭐)](#21-maxritterpilot-shell-18k-)
+22. [humanlayer/advanced-context-engineering-for-coding-agents (1.7k ⭐)](#22-humanlayeradvanced-context-engineering-for-coding-agents-17k-)
+23. [ghuntley/how-to-ralph-wiggum (1.7k ⭐)](#23-ghuntleyhow-to-ralph-wiggum-17k-)
+24. [Priivacy-ai/spec-kitty (1.4k ⭐)](#24-priivacy-aispec-kitty-14k-)
+25. [AnandChowdhary/continuous-claude (1.4k ⭐)](#25-anandchowdharycontinuous-claude-14k-)
+26. [umputun/ralphex (1.3k ⭐)](#26-umputunralphex-13k-)
+27. [modu-ai/moai-adk (1.1k ⭐)](#27-modu-aimoai-adk-11k-)
+28. [ClaytonFarr/ralph-playbook (998 ⭐)](#28-claytonfarrralph-playbook-998-)
+29. [iannuttall/ralph (930 ⭐)](#29-iannuttallralph-930-)
+30. [snwfdhmp/awesome-ralph (910 ⭐)](#30-snwfdhmpawesome-ralph-910-)
+31. [open-gsd/gsd-pi (812 ⭐)](#31-open-gsdgsd-pi-812-)
+32. [vercel-labs/ralph-loop-agent (809 ⭐)](#32-vercel-labsralph-loop-agent-809-)
+33. [shotgun-sh/shotgun (683 ⭐)](#33-shotgun-shshotgun-683-)
+34. [breezewish/CodexPotter (581 ⭐)](#34-breezewishcodexpotter-581-)
 
 ---
 
-## 1. obra/superpowers (244k ⭐)
+## 1. obra/superpowers (245k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
-**🍴** Fork 22k | **🔄** Updated 2026-07-01  
+**🍴** Fork 22k | **🔄** Updated 2026-07-02  
 **👤** Jesse Vincent — Keyboardio 创始人，开源社区资深贡献者
 
 > 完整的 coding agent 软件开发方法论与技能框架。先推导 spec，再以 subagent 驱动 TDD 开发循环，让 agent 自主高效工作数小时。
@@ -50,7 +61,7 @@
 ## 2. affaan-m/ECC (225k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Fork 34k | **🔄** Updated 2026-07-01  
+**🍴** Fork 34k | **🔄** Updated 2026-07-03  
 **👤** Affaan Mustafa — Anthropic 黑客松冠军，PMX 创始工程师
 
 > Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude Code / Codex / Cursor 等。
@@ -59,7 +70,7 @@
 
 ---
 
-## 3. mattpocock/skills (154k ⭐)
+## 3. mattpocock/skills (155k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
 **🍴** Fork 13k | **🔄** Updated 2026-07-02  
@@ -71,7 +82,7 @@
 
 ---
 
-## 4. github/spec-kit (117k ⭐)
+## 4. github/spec-kit (118k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
 **🍴** Fork 10k | **🔄** Updated 2026-07-02  
@@ -86,7 +97,7 @@
 ## 5. addyosmani/agent-skills (69k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
-**🍴** Fork 7.4k | **🔄** Updated 2026-06-28  
+**🍴** Fork 7.4k | **🔄** Updated 2026-07-03  
 **👤** Addy Osmani — Google Chrome 工程总监，《Learning JavaScript Design Patterns》作者
 
 > 生产级 AI coding agent 工程技能集合，覆盖现代工程实践关键场景。
@@ -98,7 +109,7 @@
 ## 6. Fission-AI/OpenSpec (58k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Fork 4.1k | **🔄** Updated 2026-06-28  
+**🍴** Fork 4.1k | **🔄** Updated 2026-07-02  
 **👤** Fission-AI — SDD 框架开源团队
 
 > 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架。
@@ -122,7 +133,7 @@
 ## 8. bmad-code-org/BMAD-METHOD (50k ⭐)
 
 **🔗** https://github.com/bmad-code-org/BMAD-METHOD  
-**🍴** Fork 5.8k | **🔄** Updated 2026-07-01  
+**🍴** Fork 5.8k | **🔄** Updated 2026-07-03  
 **👤** BMAD 团队 — AI 驱动敏捷开发方法论开源组织
 
 > Breakthrough Method for Agile AI Driven Development，AI 驱动敏捷开发的突破性方法论。
@@ -158,7 +169,7 @@
 ## 11. hardikpandya/stop-slop (13k ⭐)
 
 **🔗** https://github.com/hardikpandya/stop-slop  
-**🍴** Fork 924 | **🔄** Updated 2026-03-17  
+**🍴** Fork 928 | **🔄** Updated 2026-03-17  
 **👤** Hardik Pandya — 独立开发者，专注去除 AI 写作痕迹
 
 > 去除 AI 写作痕迹的技能文件，识别并移除 LLM 可预测的写作模式。
@@ -170,7 +181,7 @@
 ## 12. mindfold-ai/Trellis (12k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Fork 657 | **🔄** Updated 2026-07-02  
+**🍴** Fork 661 | **🔄** Updated 2026-07-02  
 **👤** mindfold-ai — Trellis agent harness 团队
 
 > 高性能 Agent Harness 运行时，提供完整 agentic 工作流与多工具集成，文档见 docs.trytrellis.app。
@@ -182,7 +193,7 @@
 ## 13. frankbria/ralph-claude-code (9.5k ⭐)
 
 **🔗** https://github.com/frankbria/ralph-claude-code  
-**🍴** Fork 724 | **🔄** Updated 2026-06-20  
+**🍴** Fork 725 | **🔄** Updated 2026-06-20  
 **👤** Frank Bria — ralph-claude-code 自主开发循环作者
 
 > 面向 Claude Code 的自主 AI 开发循环，含智能退出检测，可持续运行直至任务完成。
@@ -203,10 +214,10 @@
 
 ---
 
-## 15. open-gsd/gsd-core (5.7k ⭐)
+## 15. open-gsd/gsd-core (5.8k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Fork 357 | **🔄** Updated 2026-07-02  
+**🍴** Fork 360 | **🔄** Updated 2026-07-03  
 **👤** open-gsd — GSD 工作流开源团队
 
 > Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环。
@@ -218,7 +229,7 @@
 ## 16. gotalab/cc-sdd (3.5k ⭐)
 
 **🔗** https://github.com/gotalab/cc-sdd  
-**🍴** Fork 266 | **🔄** Updated 2026-05-20  
+**🍴** Fork 268 | **🔄** Updated 2026-05-20  
 **👤** gotalab — cc-sdd Spec 驱动开发 Harness 团队
 
 > 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude Code、Codex、Cursor 等。
@@ -227,7 +238,19 @@
 
 ---
 
-## 17. michaelshimeles/ralphy (2.9k ⭐)
+## 17. mikeyobrien/ralph-orchestrator (3k ⭐)
+
+**🔗** https://github.com/mikeyobrien/ralph-orchestrator  
+**🍴** Fork 280 | **🔄** Updated 2026-06-23  
+**👤** Mike O'Brien — ralph-orchestrator 自主 agent 编排作者
+
+> Ralph Wiggum 自主 AI agent 编排的改进实现，支持多后端与长周期任务循环直至 spec 完成。
+
+**匹配能力**：📋 Spec 驱动 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 18. michaelshimeles/ralphy (2.9k ⭐)
 
 **🔗** https://github.com/michaelshimeles/ralphy  
 **🍴** Fork 363 | **🔄** Updated 2026-02-05  
@@ -239,7 +262,31 @@
 
 ---
 
-## 18. maxritter/pilot-shell (1.8k ⭐)
+## 19. subsy/ralph-tui (2.4k ⭐)
+
+**🔗** https://github.com/subsy/ralph-tui  
+**🍴** Fork 235 | **🔄** Updated 2026-05-13  
+**👤** subsy — Ralph TUI agent 循环编排工具作者
+
+> AI Agent 循环编排 TUI：连接 Claude Code、OpenCode、Cursor CLI 等 agent 与任务列表，逐条自主执行并可视化进度。
+
+**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 20. Th0rgal/open-ralph-wiggum (1.8k ⭐)
+
+**🔗** https://github.com/Th0rgal/open-ralph-wiggum  
+**🍴** Fork 142 | **🔄** Updated 2026-06-02  
+**👤** Th0rgal — open-ralph-wiggum Ralph 循环 CLI 作者
+
+> OpenCode / Claude Code / Codex 上的 Ralph 循环 CLI：`ralph "prompt"` 启动迭代，支持 prompt 文件与状态检查。
+
+**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 21. maxritter/pilot-shell (1.8k ⭐)
 
 **🔗** https://github.com/maxritter/pilot-shell  
 **🍴** Fork 148 | **🔄** Updated 2026-07-02  
@@ -251,10 +298,34 @@
 
 ---
 
-## 19. Priivacy-ai/spec-kitty (1.4k ⭐)
+## 22. humanlayer/advanced-context-engineering-for-coding-agents (1.7k ⭐)
+
+**🔗** https://github.com/humanlayer/advanced-context-engineering-for-coding-agents  
+**🍴** Fork 133 | **🔄** Updated 2025-12-03  
+**👤** HumanLayer — ACE for coding agents 维护团队
+
+> Advanced Context Engineering（ACE）for coding agents：长上下文窗口下的检索、压缩与编排策略，提升自主开发可靠性。
+
+**匹配能力**：🤖 Agent 集成
+
+---
+
+## 23. ghuntley/how-to-ralph-wiggum (1.7k ⭐)
+
+**🔗** https://github.com/ghuntley/how-to-ralph-wiggum  
+**🍴** Fork 144 | **🔄** Updated 2026-01-11  
+**👤** Geoffrey Huntley — Ralph Wiggum 方法论提出者
+
+> Ralph Wiggum 方法论主文档：从 idea → spec → IMPLEMENTATION_PLAN → 自主循环，强调磁盘状态与 backpressure 验证。
+
+**匹配能力**：📋 Spec 驱动 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 24. Priivacy-ai/spec-kitty (1.4k ⭐)
 
 **🔗** https://github.com/Priivacy-ai/spec-kitty  
-**🍴** Fork 120 | **🔄** Updated 2026-07-02  
+**🍴** Fork 120 | **🔄** Updated 2026-07-03  
 **👤** Priivacy-ai — spec-kitty SDD 工具团队
 
 > 面向严肃开发者的 Spec 驱动开发工具：Kanban 看板、git worktree、自动合并，支持 Claude、Cursor、Gemini、Codex。
@@ -263,7 +334,7 @@
 
 ---
 
-## 20. AnandChowdhary/continuous-claude (1.4k ⭐)
+## 25. AnandChowdhary/continuous-claude (1.4k ⭐)
 
 **🔗** https://github.com/AnandChowdhary/continuous-claude  
 **🍴** Fork 93 | **🔄** Updated 2026-06-06  
@@ -275,7 +346,19 @@
 
 ---
 
-## 21. modu-ai/moai-adk (1.1k ⭐)
+## 26. umputun/ralphex (1.3k ⭐)
+
+**🔗** https://github.com/umputun/ralphex  
+**🍴** Fork 106 | **🔄** Updated 2026-06-26  
+**👤** Umputun — ralphex 扩展 Ralph 循环作者
+
+> 扩展版 Ralph 循环 CLI，面向自主 AI 驱动的 plan 执行，支持多 agent 后端与完成信号检测。
+
+**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 27. modu-ai/moai-adk (1.1k ⭐)
 
 **🔗** https://github.com/modu-ai/moai-adk  
 **🍴** Fork 203 | **🔄** Updated 2026-07-02  
@@ -287,10 +370,46 @@
 
 ---
 
-## 22. open-gsd/gsd-pi (807 ⭐)
+## 28. ClaytonFarr/ralph-playbook (998 ⭐)
+
+**🔗** https://github.com/ClaytonFarr/ralph-playbook  
+**🍴** Fork 260 | **🔄** Updated 2026-03-06  
+**👤** Clayton Farr — Ralph playbook 作者
+
+> 基于 Geoff Huntley Ralph 方法论的自主 AI coding 循环实操 playbook，覆盖 spec、plan 与 loop 运行要点。
+
+**匹配能力**：📋 Spec 驱动 · 🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 29. iannuttall/ralph (930 ⭐)
+
+**🔗** https://github.com/iannuttall/ralph  
+**🍴** Fork 90 | **🔄** Updated 2026-02-04  
+**👤** Ian Nuttall — 极简 Ralph agent loop 作者
+
+> 极简文件驱动 agent loop，用磁盘上的 spec/plan 文件驱动自主 coding，适合轻量 Ralph 实践。
+
+**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 30. snwfdhmp/awesome-ralph (910 ⭐)
+
+**🔗** https://github.com/snwfdhmp/awesome-ralph  
+**🍴** Fork 71 | **🔄** Updated 2026-02-03  
+**👤** snwfdhmp — awesome-ralph 策展维护者
+
+> Ralph / Ralph Wiggum AI coding 循环生态 curated list，收录工具、教程与实现参考。
+
+**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 31. open-gsd/gsd-pi (812 ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
-**🍴** Fork 74 | **🔄** Updated 2026-07-02  
+**🍴** Fork 74 | **🔄** Updated 2026-07-03  
 **👤** open-gsd — GSD-Pi 维护团队
 
 > GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局上下文。
@@ -299,7 +418,19 @@
 
 ---
 
-## 23. shotgun-sh/shotgun (683 ⭐)
+## 32. vercel-labs/ralph-loop-agent (809 ⭐)
+
+**🔗** https://github.com/vercel-labs/ralph-loop-agent  
+**🍴** Fork 82 | **🔄** Updated 2026-01-08  
+**👤** Vercel Labs — ralph-loop-agent 维护团队
+
+> Vercel AI SDK 上的 Ralph loop agent 封装，提供持续自主运行与验证回调。
+
+**匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
+
+---
+
+## 33. shotgun-sh/shotgun (683 ⭐)
 
 **🔗** https://github.com/shotgun-sh/shotgun  
 **🍴** Fork 35 | **🔄** Updated 2026-06-02  
@@ -310,46 +441,69 @@
 **匹配能力**：🤖 Agent 集成
 
 ---
+
+## 34. breezewish/CodexPotter (581 ⭐)
+
+**🔗** https://github.com/breezewish/CodexPotter  
+**🍴** Fork 55 | **🔄** Updated 2026-06-26  
+**👤** breezewish — CodexPotter /goal 增强工具作者
+
+> 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐。
+
+**匹配能力**：📋 Spec 驱动 · 🤖 Agent 集成
+
+---
 ## 分类索引
 
 ### 📋 Spec 驱动开发
 
-- [spec-kit](#4-githubspec-kit-117k-) — Spec-Driven Development 入门工具包，帮助开发者快速上手 spec 驱动开发方法论
+- [spec-kit](#4-githubspec-kit-118k-) — Spec-Driven Development 入门工具包，帮助开发者快速上手 spec 驱动开发方法论
 - [OpenSpec](#6-fission-aiopenspec-58k-) — 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架
 - [BMAD-METHOD](#8-bmad-code-orgbmad-method-50k-) — Breakthrough Method for Agile AI Driven Development，AI 驱动敏捷开…
 - [gsd-2](#14-gsd-buildgsd-2-78k-) — 轻量 meta-prompting 与 Spec 驱动开发系统，支持 agent 长时间自主工作而不丢失全局视角
-- [gsd-core](#15-open-gsdgsd-core-57k-) — Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环
+- [gsd-core](#15-open-gsdgsd-core-58k-) — Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude…
-- [spec-kitty](#19-priivacy-aispec-kitty-14k-) — 面向严肃开发者的 Spec 驱动开发工具：Kanban 看板、git worktree、自动合并，支持 Claude、C…
-- [gsd-pi](#22-open-gsdgsd-pi-807-) — GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局…
+- [spec-kitty](#24-priivacy-aispec-kitty-14k-) — 面向严肃开发者的 Spec 驱动开发工具：Kanban 看板、git worktree、自动合并，支持 Claude、C…
+- [gsd-pi](#31-open-gsdgsd-pi-812-) — GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局…
 
 ### 🔁 Agent 迭代循环
 
-- [superpowers](#1-obrasuperpowers-244k-) — 完整的 coding agent 软件开发方法论与技能框架
+- [superpowers](#1-obrasuperpowers-245k-) — 完整的 coding agent 软件开发方法论与技能框架
 - [ralph](#10-snarktankralph-21k-) — 自主 Agent 循环框架：按 PRD 条目反复执行直至全部完成，适合长周期无人值守 feature 交付
 - [ralph-claude-code](#13-frankbriaralph-claude-code-95k-) — 面向 Claude Code 的自主 AI 开发循环，含智能退出检测，可持续运行直至任务完成
-- [ralphy](#17-michaelshimelesralphy-29k-) — Ralph Wiggum 式自主 bash 循环，可驱动 Claude Code、Codex、Cursor 等 agen…
-- [continuous-claude](#20-anandchowdharycontinuous-claude-14k-) — 带 PR 的 Ralph 循环：Claude Code 持续自主运行、创建 PR、等待 CI 检查并合并
+- [ralph-orchestrator](#17-mikeyobrienralph-orchestrator-3k-) — Ralph Wiggum 自主 AI agent 编排的改进实现，支持多后端与长周期任务循环直至 spec 完成
+- [ralphy](#18-michaelshimelesralphy-29k-) — Ralph Wiggum 式自主 bash 循环，可驱动 Claude Code、Codex、Cursor 等 agen…
+- [ralph-tui](#19-subsyralph-tui-24k-) — AI Agent 循环编排 TUI：连接 Claude Code、OpenCode、Cursor CLI 等 agent…
+- [open-ralph-wiggum](#20-th0rgalopen-ralph-wiggum-18k-) — OpenCode / Claude Code / Codex 上的 Ralph 循环 CLI：`ralph "promp…
+- [how-to-ralph-wiggum](#23-ghuntleyhow-to-ralph-wiggum-17k-) — Ralph Wiggum 方法论主文档：从 idea → spec → IMPLEMENTATION_PLAN → 自主…
+- [continuous-claude](#25-anandchowdharycontinuous-claude-14k-) — 带 PR 的 Ralph 循环：Claude Code 持续自主运行、创建 PR、等待 CI 检查并合并
+- [ralphex](#26-umputunralphex-13k-) — 扩展版 Ralph 循环 CLI，面向自主 AI 驱动的 plan 执行，支持多 agent 后端与完成信号检测
+- [ralph-playbook](#28-claytonfarrralph-playbook-998-) — 基于 Geoff Huntley Ralph 方法论的自主 AI coding 循环实操 playbook，覆盖 spe…
+- [ralph](#29-iannuttallralph-930-) — 极简文件驱动 agent loop，用磁盘上的 spec/plan 文件驱动自主 coding，适合轻量 Ralph 实…
+- [awesome-ralph](#30-snwfdhmpawesome-ralph-910-) — Ralph / Ralph Wiggum AI coding 循环生态 curated list，收录工具、教程与实现参…
+- [ralph-loop-agent](#32-vercel-labsralph-loop-agent-809-) — Vercel AI SDK 上的 Ralph loop agent 封装，提供持续自主运行与验证回调
 
 ### 🤖 Skills 与工作流
 
 - [ECC](#2-affaan-mecc-225k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
-- [skills](#3-mattpocockskills-154k-) — Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师
+- [skills](#3-mattpocockskills-155k-) — Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师
 - [agent-skills](#5-addyosmaniagent-skills-69k-) — 生产级 AI coding agent 工程技能集合，覆盖现代工程实践关键场景
 - [taste-skill](#7-leonxlnxtaste-skill-55k-) — 开源设计品味 Skill，为 AI coding agent 提供更好的布局、排版、间距与动效审美
 - [stop-slop](#11-hardikpandyastop-slop-13k-) — 去除 AI 写作痕迹的技能文件，识别并移除 LLM 可预测的写作模式
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude…
-- [moai-adk](#21-modu-aimoai-adk-11k-) — SPEC 优先 Agentic 开发套件：24 个 AI agent + 52 个 skills，含 TDD/DDD 质…
+- [moai-adk](#27-modu-aimoai-adk-11k-) — SPEC 优先 Agentic 开发套件：24 个 AI agent + 52 个 skills，含 TDD/DDD 质…
 
 ### ⚡ 优化与方法论
 
 - [ECC](#2-affaan-mecc-225k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
 - [planning-with-files](#9-othmanadiplanning-with-files-24k-) — 面向 AI coding agent 的持久化文件规划 Skill
 - [Trellis](#12-mindfold-aitrellis-12k-) — 高性能 Agent Harness 运行时，提供完整 agentic 工作流与多工具集成，文档见 docs.trytre…
-- [gsd-core](#15-open-gsdgsd-core-57k-) — Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环
+- [gsd-core](#15-open-gsdgsd-core-58k-) — Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环
 - [cc-sdd](#16-gotalabcc-sdd-35k-) — 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude…
-- [pilot-shell](#18-maxritterpilot-shell-18k-) — 工程师向 Claude Code/Codex 工作流 Shell：Spec 规划、强制 TDD、持久记忆与多层质量门禁，…
-- [shotgun](#23-shotgun-shshotgun-683-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
+- [pilot-shell](#21-maxritterpilot-shell-18k-) — 工程师向 Claude Code/Codex 工作流 Shell：Spec 规划、强制 TDD、持久记忆与多层质量门禁，…
+- [advanced-context-engineering-for-coding-agents](#22-humanlayeradvanced-context-engineering-for-coding-agents-17k-) — Advanced Context Engineering（ACE）for coding agents：长上下文窗口下的检…
+- [shotgun](#33-shotgun-shshotgun-683-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
+- [CodexPotter](#34-breezewishcodexpotter-581-) — 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐
 
 
 ---
@@ -369,4 +523,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-07-02*
+*由 wind8 整理 | 2026-07-03*
