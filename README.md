@@ -232,9 +232,9 @@
 
 **🔗** https://github.com/cobusgreyling/loop-engineering  
 **🍴** Fork 797 | **🔄** Updated 2026-07-06  
-**👤** cobusgreyling — 开源开发者
+**👤** Cobus Greyling — AI 与语言技术博主，Loop Engineering 方法论作者
 
-> （待补充中文描述）
+> Loop Engineering 实践模式与 CLI 工具集，帮你设计「代替你反复 prompt agent」的自主循环系统（受 Addy Osmani、Boris Cherny 启发），含 loop-init / loop-audit / loop-cost 等脚手架与 Loop Ready 评分。
 
 **匹配能力**：🔀 多 Agent 编排 · 🤖 Agent 集成
 
@@ -497,7 +497,7 @@
 - [superpowers](#1-obrasuperpowers-248k-) — 完整的 coding agent 软件开发方法论与技能框架
 - [ralph](#11-snarktankralph-21k-) — 自主 Agent 循环框架：按 PRD 条目反复执行直至全部完成，适合长周期无人值守 feature 交付
 - [ralph-claude-code](#14-frankbriaralph-claude-code-95k-) — 面向 Claude Code 的自主 AI 开发循环，含智能退出检测，可持续运行直至任务完成
-- [loop-engineering](#16-cobusgreylingloop-engineering-62k-) — （待补充中文描述）
+- [loop-engineering](#16-cobusgreylingloop-engineering-62k-) — Loop Engineering 实践模式与 CLI 工具集，帮你设计「代替你反复 prompt agent」的自主循环…
 - [ralph-orchestrator](#19-mikeyobrienralph-orchestrator-3k-) — Ralph Wiggum 自主 AI agent 编排的改进实现，支持多后端与长周期任务循环直至 spec 完成
 - [ralphy](#20-michaelshimelesralphy-29k-) — Ralph Wiggum 式自主 bash 循环，可驱动 Claude Code、Codex、Cursor 等 agen…
 - [ralph-tui](#21-subsyralph-tui-24k-) — AI Agent 循环编排 TUI：连接 Claude Code、OpenCode、Cursor CLI 等 agent…
