@@ -76,9 +76,9 @@
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
 **🍴** Forks 19k | **🔄** Updated 2026-04-20  
-**👤** multica-ai — open-source developer
+**👤** multica-ai — maintainers of Multica and Karpathy-inspired Claude Code guidelines
 
-> A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+> A single CLAUDE.md guide from Andrej Karpathy's observations on LLM coding pitfalls — four principles to curb wrong assumptions, over-engineering, and surgical drift.
 
 **Matched Capabilities**: 🤖 Agent Integration · 🧪 TDD Workflow
 

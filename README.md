@@ -76,9 +76,9 @@
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
 **🍴** Fork 19k | **🔄** Updated 2026-04-20  
-**👤** multica-ai — 开源开发者
+**👤** multica-ai — Multica coding agent 平台维护方，Karpathy 式 Claude Code 指南作者
 
-> （待补充中文描述）
+> 基于 Andrej Karpathy 对 LLM 编程陷阱的观察整理的单文件 CLAUDE.md 指南，以「先思考再编码、简单优先、精准修改、目标驱动」四条原则改善 Claude Code 行为。
 
 **匹配能力**：🧪 TDD 工作流 · 🤖 Agent 集成
 
@@ -513,7 +513,7 @@
 ### 🤖 Skills 与工作流
 
 - [ECC](#2-affaan-mecc-227k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
-- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-189k-) — （待补充中文描述）
+- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-189k-) — 基于 Andrej Karpathy 对 LLM 编程陷阱的观察整理的单文件 CLAUDE.md 指南，以「先思考再编码…
 - [skills](#4-mattpocockskills-159k-) — Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师
 - [agent-skills](#6-addyosmaniagent-skills-71k-) — 生产级 AI coding agent 工程技能集合，覆盖现代工程实践关键场景
 - [taste-skill](#7-leonxlnxtaste-skill-59k-) — 开源设计品味 Skill，为 AI coding agent 提供更好的布局、排版、间距与动效审美
