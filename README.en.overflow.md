@@ -3,7 +3,7 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Eligible Star List entries beyond the formal cap of 42, ranked by total GitHub Stars (minimum 500 stars)  
-> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-07-08
+> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-07-11
 
 ---
 
@@ -34,4 +34,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-07-08*
+*Curated by wind8 | 2026-07-11*
