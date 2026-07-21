@@ -3,21 +3,21 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-07-17
+> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-07-21
 
 ---
 
 ## Contents
 
-01. [huangruiteng/loopx (113 ⭐)](#1-huangruitengloopx-113-)
-02. [ChaoYue0307/awesome-loop-engineering (26 ⭐)](#2-chaoyue0307awesome-loop-engineering-26-)
+01. [huangruiteng/loopx (141 ⭐)](#1-huangruitengloopx-141-)
+02. [ChaoYue0307/awesome-loop-engineering (37 ⭐)](#2-chaoyue0307awesome-loop-engineering-37-)
 
 ---
 
-## 1. huangruiteng/loopx (113 ⭐)
+## 1. huangruiteng/loopx (141 ⭐)
 
 **🔗** https://github.com/huangruiteng/loopx  
-**🍴** Fork 13 | **🔄** Updated 2026-07-17  
+**🍴** Fork 20 | **🔄** Updated 2026-07-21  
 **👤** 黄睿腾（huangruiteng）— 字节跳动 AML 工程师，loopx 作者
 
 > 面向长周期 AI Agent 团队的轻量状态内核，提供持久目标、配额感知自动唤醒、可执行待办、证据日志与可验证交接，兼容 Codex、Claude Code 等多种 Agent Loop。
@@ -26,10 +26,10 @@
 
 ---
 
-## 2. ChaoYue0307/awesome-loop-engineering (26 ⭐)
+## 2. ChaoYue0307/awesome-loop-engineering (37 ⭐)
 
 **🔗** https://github.com/ChaoYue0307/awesome-loop-engineering  
-**🍴** Fork 4 | **🔄** Updated 2026-07-16  
+**🍴** Fork 7 | **🔄** Updated 2026-07-21  
 **👤** Chaoyue He — 南洋理工大学开发者，awesome-loop-engineering 策展维护者
 
 > 经审计的 Loop Engineering 资源图谱，整理 509 项资源、15 种运行模式、可复用 loop contract、可运行模板与交互式 Resource Atlas。
@@ -41,8 +41,8 @@
 
 ### 🔁 Agent 迭代循环
 
-- [loopx](#1-huangruitengloopx-113-) — 面向长周期 AI Agent 团队的轻量状态内核，提供持久目标、配额感知自动唤醒、可执行待办、证据日志与可验证交接，兼容…
-- [awesome-loop-engineering](#2-chaoyue0307awesome-loop-engineering-26-) — 经审计的 Loop Engineering 资源图谱，整理 509 项资源、15 种运行模式、可复用 loop cont…
+- [loopx](#1-huangruitengloopx-141-) — 面向长周期 AI Agent 团队的轻量状态内核，提供持久目标、配额感知自动唤醒、可执行待办、证据日志与可验证交接，兼容…
+- [awesome-loop-engineering](#2-chaoyue0307awesome-loop-engineering-37-) — 经审计的 Loop Engineering 资源图谱，整理 509 项资源、15 种运行模式、可复用 loop cont…
 
 
 ---
@@ -62,4 +62,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-07-17*
+*由 wind8 整理 | 2026-07-21*

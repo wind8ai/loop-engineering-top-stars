@@ -3,41 +3,41 @@
 [中文](./README.md) | **English** · [Overflow](./README.en.overflow.md)
 
 > Curated Loop Engineering Projects — Spec-Driven Loops, Agent Iteration & SDD Workflows  
-> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-07-17
+> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-07-21
 
 ---
 
 ## Contents
 
-01. [obra/superpowers (256k ⭐)](#1-obrasuperpowers-256k-)
-02. [affaan-m/ECC (230k ⭐)](#2-affaan-mecc-230k-)
-03. [multica-ai/andrej-karpathy-skills (193k ⭐)](#3-multica-aiandrej-karpathy-skills-193k-)
-04. [mattpocock/skills (174k ⭐)](#4-mattpocockskills-174k-)
-05. [github/spec-kit (122k ⭐)](#5-githubspec-kit-122k-)
-06. [karpathy/autoresearch (91k ⭐)](#6-karpathyautoresearch-91k-)
-07. [addyosmani/agent-skills (79k ⭐)](#7-addyosmaniagent-skills-79k-)
-08. [Leonxlnx/taste-skill (64k ⭐)](#8-leonxlnxtaste-skill-64k-)
-09. [Fission-AI/OpenSpec (61k ⭐)](#9-fission-aiopenspec-61k-)
+01. [obra/superpowers (258k ⭐)](#1-obrasuperpowers-258k-)
+02. [affaan-m/ECC (232k ⭐)](#2-affaan-mecc-232k-)
+03. [multica-ai/andrej-karpathy-skills (195k ⭐)](#3-multica-aiandrej-karpathy-skills-195k-)
+04. [mattpocock/skills (180k ⭐)](#4-mattpocockskills-180k-)
+05. [github/spec-kit (123k ⭐)](#5-githubspec-kit-123k-)
+06. [karpathy/autoresearch (92k ⭐)](#6-karpathyautoresearch-92k-)
+07. [addyosmani/agent-skills (80k ⭐)](#7-addyosmaniagent-skills-80k-)
+08. [Leonxlnx/taste-skill (66k ⭐)](#8-leonxlnxtaste-skill-66k-)
+09. [Fission-AI/OpenSpec (62k ⭐)](#9-fission-aiopenspec-62k-)
 10. [bmad-code-org/BMAD-METHOD (51k ⭐)](#10-bmad-code-orgbmad-method-51k-)
-11. [OthmanAdi/planning-with-files (25k ⭐)](#11-othmanadiplanning-with-files-25k-)
+11. [OthmanAdi/planning-with-files (26k ⭐)](#11-othmanadiplanning-with-files-26k-)
 12. [snarktank/ralph (21k ⭐)](#12-snarktankralph-21k-)
 13. [hardikpandya/stop-slop (14k ⭐)](#13-hardikpandyastop-slop-14k-)
 14. [mindfold-ai/Trellis (13k ⭐)](#14-mindfold-aitrellis-13k-)
-15. [frankbria/ralph-claude-code (9.5k ⭐)](#15-frankbriaralph-claude-code-95k-)
-16. [cobusgreyling/loop-engineering (8.2k ⭐)](#16-cobusgreylingloop-engineering-82k-)
+15. [frankbria/ralph-claude-code (9.6k ⭐)](#15-frankbriaralph-claude-code-96k-)
+16. [cobusgreyling/loop-engineering (8.9k ⭐)](#16-cobusgreylingloop-engineering-89k-)
 17. [gsd-build/gsd-2 (7.7k ⭐)](#17-gsd-buildgsd-2-77k-)
-18. [open-gsd/gsd-core (6.7k ⭐)](#18-open-gsdgsd-core-67k-)
+18. [open-gsd/gsd-core (6.9k ⭐)](#18-open-gsdgsd-core-69k-)
 19. [gotalab/cc-sdd (3.6k ⭐)](#19-gotalabcc-sdd-36k-)
-20. [mikeyobrien/ralph-orchestrator (3k ⭐)](#20-mikeyobrienralph-orchestrator-3k-)
+20. [mikeyobrien/ralph-orchestrator (3.1k ⭐)](#20-mikeyobrienralph-orchestrator-31k-)
 21. [michaelshimeles/ralphy (2.9k ⭐)](#21-michaelshimelesralphy-29k-)
-22. [Forward-Future/loopy (2.7k ⭐)](#22-forward-futureloopy-27k-)
+22. [Forward-Future/loopy (2.8k ⭐)](#22-forward-futureloopy-28k-)
 23. [subsy/ralph-tui (2.4k ⭐)](#23-subsyralph-tui-24k-)
-24. [rpamis/comet (2.3k ⭐)](#24-rpamiscomet-23k-)
-25. [Th0rgal/open-ralph-wiggum (1.8k ⭐)](#25-th0rgalopen-ralph-wiggum-18k-)
+24. [rpamis/comet (2.4k ⭐)](#24-rpamiscomet-24k-)
+25. [Th0rgal/open-ralph-wiggum (1.9k ⭐)](#25-th0rgalopen-ralph-wiggum-19k-)
 26. [maxritter/pilot-shell (1.8k ⭐)](#26-maxritterpilot-shell-18k-)
 27. [humanlayer/advanced-context-engineering-for-coding-agents (1.8k ⭐)](#27-humanlayeradvanced-context-engineering-for-coding-agents-18k-)
 28. [ghuntley/how-to-ralph-wiggum (1.7k ⭐)](#28-ghuntleyhow-to-ralph-wiggum-17k-)
-29. [the-open-engine/zeroshot (1.6k ⭐)](#29-the-open-enginezeroshot-16k-)
+29. [the-open-engine/zeroshot (1.7k ⭐)](#29-the-open-enginezeroshot-17k-)
 30. [777genius/agent-teams-ai (1.6k ⭐)](#30-777geniusagent-teams-ai-16k-)
 31. [Priivacy-ai/spec-kitty (1.4k ⭐)](#31-priivacy-aispec-kitty-14k-)
 32. [umputun/ralphex (1.4k ⭐)](#32-umputunralphex-14k-)
@@ -45,21 +45,21 @@
 34. [modu-ai/moai-adk (1.1k ⭐)](#34-modu-aimoai-adk-11k-)
 35. [alchaincyf/loop-engineering-orange-book (1k ⭐)](#35-alchaincyfloop-engineering-orange-book-1k-)
 36. [ClaytonFarr/ralph-playbook (999 ⭐)](#36-claytonfarrralph-playbook-999-)
-37. [iannuttall/ralph (932 ⭐)](#37-iannuttallralph-932-)
-38. [snwfdhmp/awesome-ralph (913 ⭐)](#38-snwfdhmpawesome-ralph-913-)
-39. [open-gsd/gsd-pi (904 ⭐)](#39-open-gsdgsd-pi-904-)
-40. [vercel-labs/ralph-loop-agent (821 ⭐)](#40-vercel-labsralph-loop-agent-821-)
-41. [shotgun-sh/shotgun (686 ⭐)](#41-shotgun-shshotgun-686-)
-42. [breezewish/CodexPotter (587 ⭐)](#42-breezewishcodexpotter-587-)
+37. [iannuttall/ralph (933 ⭐)](#37-iannuttallralph-933-)
+38. [open-gsd/gsd-pi (927 ⭐)](#38-open-gsdgsd-pi-927-)
+39. [snwfdhmp/awesome-ralph (914 ⭐)](#39-snwfdhmpawesome-ralph-914-)
+40. [vercel-labs/ralph-loop-agent (822 ⭐)](#40-vercel-labsralph-loop-agent-822-)
+41. [shotgun-sh/shotgun (687 ⭐)](#41-shotgun-shshotgun-687-)
+42. [breezewish/CodexPotter (586 ⭐)](#42-breezewishcodexpotter-586-)
 
 → [Overflow list (2 entries)](./README.en.overflow.md)
 
 ---
 
-## 1. obra/superpowers (256k ⭐)
+## 1. obra/superpowers (258k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
-**🍴** Forks 23k | **🔄** Updated 2026-07-17  
+**🍴** Forks 23k | **🔄** Updated 2026-07-21  
 **👤** Jesse Vincent — Keyboardio founder and long-time open-source contributor
 
 > Agentic skills framework and software development methodology — spec-first planning, TDD, and subagent-driven dev loops.
@@ -68,10 +68,10 @@
 
 ---
 
-## 2. affaan-m/ECC (230k ⭐)
+## 2. affaan-m/ECC (232k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Forks 35k | **🔄** Updated 2026-07-14  
+**🍴** Forks 35k | **🔄** Updated 2026-07-20  
 **👤** Affaan Mustafa — Anthropic hackathon winner and PMX founding engineer
 
 > Agent harness performance optimization system — skills, instincts, memory, security, and research-first development.
@@ -80,7 +80,7 @@
 
 ---
 
-## 3. multica-ai/andrej-karpathy-skills (193k ⭐)
+## 3. multica-ai/andrej-karpathy-skills (195k ⭐)
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
 **🍴** Forks 20k | **🔄** Updated 2026-04-20  
@@ -92,10 +92,10 @@
 
 ---
 
-## 4. mattpocock/skills (174k ⭐)
+## 4. mattpocock/skills (180k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Forks 15k | **🔄** Updated 2026-07-16  
+**🍴** Forks 15k | **🔄** Updated 2026-07-17  
 **👤** Matt Pocock — TypeScript educator and Total TypeScript founder
 
 > Matt Pocock's personal skills collection, straight from his .claude directory for real engineers.
@@ -104,10 +104,10 @@
 
 ---
 
-## 5. github/spec-kit (122k ⭐)
+## 5. github/spec-kit (123k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Forks 11k | **🔄** Updated 2026-07-16  
+**🍴** Forks 11k | **🔄** Updated 2026-07-20  
 **👤** GitHub official team — maintainers of the Spec-Driven Development toolkit
 
 > Toolkit to help you get started with Spec-Driven Development.
@@ -116,7 +116,7 @@
 
 ---
 
-## 6. karpathy/autoresearch (91k ⭐)
+## 6. karpathy/autoresearch (92k ⭐)
 
 **🔗** https://github.com/karpathy/autoresearch  
 **🍴** Forks 13k | **🔄** Updated 2026-03-26  
@@ -128,10 +128,10 @@
 
 ---
 
-## 7. addyosmani/agent-skills (79k ⭐)
+## 7. addyosmani/agent-skills (80k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
-**🍴** Forks 8.5k | **🔄** Updated 2026-07-16  
+**🍴** Forks 8.6k | **🔄** Updated 2026-07-18  
 **👤** Addy Osmani — Google Chrome engineering director and author
 
 > Production-grade engineering skills for AI coding agents.
@@ -140,10 +140,10 @@
 
 ---
 
-## 8. Leonxlnx/taste-skill (64k ⭐)
+## 8. Leonxlnx/taste-skill (66k ⭐)
 
 **🔗** https://github.com/Leonxlnx/taste-skill  
-**🍴** Forks 4.4k | **🔄** Updated 2026-07-16  
+**🍴** Forks 4.5k | **🔄** Updated 2026-07-20  
 **👤** Leon Lin — founder of Taste Skill
 
 > Design taste skill that stops AI from generating boring, generic UI slop.
@@ -152,10 +152,10 @@
 
 ---
 
-## 9. Fission-AI/OpenSpec (61k ⭐)
+## 9. Fission-AI/OpenSpec (62k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Forks 4.2k | **🔄** Updated 2026-07-16  
+**🍴** Forks 4.3k | **🔄** Updated 2026-07-21  
 **👤** Fission-AI — open-source SDD framework team
 
 > Spec-driven development (SDD) for AI coding assistants.
@@ -167,7 +167,7 @@
 ## 10. bmad-code-org/BMAD-METHOD (51k ⭐)
 
 **🔗** https://github.com/bmad-code-org/BMAD-METHOD  
-**🍴** Forks 5.8k | **🔄** Updated 2026-07-17  
+**🍴** Forks 5.8k | **🔄** Updated 2026-07-19  
 **👤** BMAD team — open-source org for AI-driven agile development
 
 > Breakthrough Method for Agile AI Driven Development.
@@ -176,10 +176,10 @@
 
 ---
 
-## 11. OthmanAdi/planning-with-files (25k ⭐)
+## 11. OthmanAdi/planning-with-files (26k ⭐)
 
 **🔗** https://github.com/OthmanAdi/planning-with-files  
-**🍴** Forks 2.1k | **🔄** Updated 2026-07-14  
+**🍴** Forks 2.2k | **🔄** Updated 2026-07-18  
 **👤** Ahmad Othman Adi (OthmanAdi) — educator at migRaven and author of planning-with-files
 
 > Persistent file-based planning for AI coding agents — crash-proof markdown plans that survive context loss, with completion gates and multi-agent shared state.
@@ -191,7 +191,7 @@
 ## 12. snarktank/ralph (21k ⭐)
 
 **🔗** https://github.com/snarktank/ralph  
-**🍴** Forks 2k | **🔄** Updated 2026-02-02  
+**🍴** Forks 2.1k | **🔄** Updated 2026-02-02  
 **👤** snarktank — creator of the Ralph autonomous agent loop
 
 > Autonomous AI agent loop that runs repeatedly until all PRD items are complete.
@@ -203,7 +203,7 @@
 ## 13. hardikpandya/stop-slop (14k ⭐)
 
 **🔗** https://github.com/hardikpandya/stop-slop  
-**🍴** Forks 983 | **🔄** Updated 2026-03-17  
+**🍴** Forks 1k | **🔄** Updated 2026-03-17  
 **👤** Hardik Pandya — independent developer focused on de-slopping AI prose
 
 > A skill file for removing AI tells from prose.
@@ -215,7 +215,7 @@
 ## 14. mindfold-ai/Trellis (13k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Forks 713 | **🔄** Updated 2026-07-17  
+**🍴** Forks 721 | **🔄** Updated 2026-07-20  
 **👤** mindfold-ai — Trellis agent harness team
 
 > High-performance agent harness runtime for complete agentic workflows and multi-tool integration.
@@ -224,10 +224,10 @@
 
 ---
 
-## 15. frankbria/ralph-claude-code (9.5k ⭐)
+## 15. frankbria/ralph-claude-code (9.6k ⭐)
 
 **🔗** https://github.com/frankbria/ralph-claude-code  
-**🍴** Forks 727 | **🔄** Updated 2026-07-11  
+**🍴** Forks 730 | **🔄** Updated 2026-07-18  
 **👤** Frank Bria — author of the ralph-claude-code autonomous dev loop
 
 > Autonomous AI development loop for Claude Code with intelligent exit detection.
@@ -236,10 +236,10 @@
 
 ---
 
-## 16. cobusgreyling/loop-engineering (8.2k ⭐)
+## 16. cobusgreyling/loop-engineering (8.9k ⭐)
 
 **🔗** https://github.com/cobusgreyling/loop-engineering  
-**🍴** Forks 1.1k | **🔄** Updated 2026-07-16  
+**🍴** Forks 1.2k | **🔄** Updated 2026-07-21  
 **👤** Cobus Greyling — AI and language technology writer; creator of Loop Engineering
 
 > Practical patterns, starters and CLI tools for loop engineering with AI coding agents — design systems that prompt and orchestrate agents, with loop-init, loop-audit, loop-cost and Loop Ready scoring.
@@ -260,10 +260,10 @@
 
 ---
 
-## 18. open-gsd/gsd-core (6.7k ⭐)
+## 18. open-gsd/gsd-core (6.9k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Forks 442 | **🔄** Updated 2026-07-17  
+**🍴** Forks 467 | **🔄** Updated 2026-07-21  
 **👤** open-gsd — maintainers of the GSD workflow harness
 
 > Git. Ship. Done — core spec-driven agentic delivery harness.
@@ -275,7 +275,7 @@
 ## 19. gotalab/cc-sdd (3.6k ⭐)
 
 **🔗** https://github.com/gotalab/cc-sdd  
-**🍴** Forks 270 | **🔄** Updated 2026-05-20  
+**🍴** Forks 271 | **🔄** Updated 2026-05-20  
 **👤** gotalab — cc-sdd spec-driven development harness team
 
 > Minimal SDD harness that turns approved specs into long-running autonomous implementation across major coding agents.
@@ -284,10 +284,10 @@
 
 ---
 
-## 20. mikeyobrien/ralph-orchestrator (3k ⭐)
+## 20. mikeyobrien/ralph-orchestrator (3.1k ⭐)
 
 **🔗** https://github.com/mikeyobrien/ralph-orchestrator  
-**🍴** Forks 281 | **🔄** Updated 2026-07-10  
+**🍴** Forks 290 | **🔄** Updated 2026-07-18  
 **👤** Mike O'Brien — author of ralph-orchestrator autonomous agent orchestration
 
 > Improved Ralph Wiggum implementation for autonomous AI agent orchestration until specs are fulfilled.
@@ -299,7 +299,7 @@
 ## 21. michaelshimeles/ralphy (2.9k ⭐)
 
 **🔗** https://github.com/michaelshimeles/ralphy  
-**🍴** Forks 364 | **🔄** Updated 2026-02-05  
+**🍴** Forks 365 | **🔄** Updated 2026-02-05  
 **👤** Michael Shimeles — author of the ralphy multi-agent autonomous loop
 
 > Ralph Wiggum-style autonomous bash loop running Claude Code, Codex, Cursor and more until your PRD is complete.
@@ -308,10 +308,10 @@
 
 ---
 
-## 22. Forward-Future/loopy (2.7k ⭐)
+## 22. Forward-Future/loopy (2.8k ⭐)
 
 **🔗** https://github.com/Forward-Future/loopy  
-**🍴** Forks 236 | **🔄** Updated 2026-07-07  
+**🍴** Forks 249 | **🔄** Updated 2026-07-07  
 **👤** Forward Future — maintainers of Loop Library and the Loopy skill
 
 > Library and companion skill for discovering, auditing, designing, running, and debriefing reusable agent loops with explicit checks, next actions, and stop conditions.
@@ -323,7 +323,7 @@
 ## 23. subsy/ralph-tui (2.4k ⭐)
 
 **🔗** https://github.com/subsy/ralph-tui  
-**🍴** Forks 234 | **🔄** Updated 2026-05-13  
+**🍴** Forks 235 | **🔄** Updated 2026-05-13  
 **👤** subsy — author of Ralph TUI agent loop orchestrator
 
 > Terminal UI orchestrator connecting coding agents to task lists for autonomous one-by-one loop execution.
@@ -332,10 +332,10 @@
 
 ---
 
-## 24. rpamis/comet (2.3k ⭐)
+## 24. rpamis/comet (2.4k ⭐)
 
 **🔗** https://github.com/rpamis/comet  
-**🍴** Forks 230 | **🔄** Updated 2026-07-17  
+**🍴** Forks 236 | **🔄** Updated 2026-07-21  
 **👤** rpamis — maintainers of the Comet long-running agent workflow platform
 
 > Resumable long-running coding workflow and skill platform connecting OpenSpec, Superpowers, execution, verification, evaluation, and release through state machines and phase guards.
@@ -344,10 +344,10 @@
 
 ---
 
-## 25. Th0rgal/open-ralph-wiggum (1.8k ⭐)
+## 25. Th0rgal/open-ralph-wiggum (1.9k ⭐)
 
 **🔗** https://github.com/Th0rgal/open-ralph-wiggum  
-**🍴** Forks 141 | **🔄** Updated 2026-06-02  
+**🍴** Forks 142 | **🔄** Updated 2026-06-02  
 **👤** Th0rgal — author of open-ralph-wiggum Ralph loop CLI
 
 > Ralph loop CLI for OpenCode, Claude Code, and Codex — run `ralph "prompt"` with file-based prompts and status checks.
@@ -359,7 +359,7 @@
 ## 26. maxritter/pilot-shell (1.8k ⭐)
 
 **🔗** https://github.com/maxritter/pilot-shell  
-**🍴** Forks 150 | **🔄** Updated 2026-07-16  
+**🍴** Forks 151 | **🔄** Updated 2026-07-21  
 **👤** Max Ritter — author of pilot-shell production agent workflows
 
 > Spec-driven planning, enforced TDD, persistent memory, and quality gates for production-ready Claude Code and Codex agents.
@@ -371,7 +371,7 @@
 ## 27. humanlayer/advanced-context-engineering-for-coding-agents (1.8k ⭐)
 
 **🔗** https://github.com/humanlayer/advanced-context-engineering-for-coding-agents  
-**🍴** Forks 135 | **🔄** Updated 2025-12-03  
+**🍴** Forks 135 | **🔄** Updated 2026-07-21  
 **👤** HumanLayer — maintainers of ACE for coding agents
 
 > Advanced Context Engineering (ACE) for coding agents — retrieval, compaction, and orchestration for reliable autonomy.
@@ -383,7 +383,7 @@
 ## 28. ghuntley/how-to-ralph-wiggum (1.7k ⭐)
 
 **🔗** https://github.com/ghuntley/how-to-ralph-wiggum  
-**🍴** Forks 145 | **🔄** Updated 2026-01-11  
+**🍴** Forks 146 | **🔄** Updated 2026-01-11  
 **👤** Geoffrey Huntley — creator of the Ralph Wiggum methodology
 
 > Canonical Ralph Wiggum guide — idea to spec to implementation plan to autonomous loops with disk-backed state.
@@ -392,10 +392,10 @@
 
 ---
 
-## 29. the-open-engine/zeroshot (1.6k ⭐)
+## 29. the-open-engine/zeroshot (1.7k ⭐)
 
 **🔗** https://github.com/the-open-engine/zeroshot  
-**🍴** Forks 140 | **🔄** Updated 2026-07-17  
+**🍴** Forks 142 | **🔄** Updated 2026-07-21  
 **👤** The Open Engine Company — team behind Zeroshot autonomous engineering orchestration
 
 > Multi-agent orchestration CLI for autonomous software engineering, separating executors from independent verifiers and iterating on reproducible failures with a persistent run ledger.
@@ -407,7 +407,7 @@
 ## 30. 777genius/agent-teams-ai (1.6k ⭐)
 
 **🔗** https://github.com/777genius/agent-teams-ai  
-**🍴** Forks 283 | **🔄** Updated 2026-07-17  
+**🍴** Forks 286 | **🔄** Updated 2026-07-21  
 **👤** Ilya (777genius) — creator of Agent Teams AI and multi-agent collaboration tooling
 
 > Desktop app for autonomous multi-agent teams with task boards, inter-agent messaging, and peer review across Codex, Claude Code, OpenCode, Cursor, and other providers.
@@ -419,7 +419,7 @@
 ## 31. Priivacy-ai/spec-kitty (1.4k ⭐)
 
 **🔗** https://github.com/Priivacy-ai/spec-kitty  
-**🍴** Forks 124 | **🔄** Updated 2026-07-17  
+**🍴** Forks 127 | **🔄** Updated 2026-07-21  
 **👤** Priivacy-ai — spec-kitty SDD tooling team
 
 > Spec-driven development for serious software developers — Kanban dashboard, git worktrees, auto-merge across major agents.
@@ -431,7 +431,7 @@
 ## 32. umputun/ralphex (1.4k ⭐)
 
 **🔗** https://github.com/umputun/ralphex  
-**🍴** Forks 110 | **🔄** Updated 2026-07-13  
+**🍴** Forks 117 | **🔄** Updated 2026-07-21  
 **👤** Umputun — author of ralphex extended Ralph loop
 
 > Extended Ralph loop CLI for autonomous AI-driven plan execution with multi-agent backends.
@@ -455,7 +455,7 @@
 ## 34. modu-ai/moai-adk (1.1k ⭐)
 
 **🔗** https://github.com/modu-ai/moai-adk  
-**🍴** Forks 207 | **🔄** Updated 2026-07-16  
+**🍴** Forks 208 | **🔄** Updated 2026-07-21  
 **👤** modu-ai — moai-adk agentic development kit team
 
 > SPEC-first agentic development kit — 24 AI agents, 52 skills, TDD/DDD quality gates, Go CLI with zero deps.
@@ -467,7 +467,7 @@
 ## 35. alchaincyf/loop-engineering-orange-book (1k ⭐)
 
 **🔗** https://github.com/alchaincyf/loop-engineering-orange-book  
-**🍴** Forks 98 | **🔄** Updated 2026-06-15  
+**🍴** Forks 100 | **🔄** Updated 2026-06-15  
 **👤** Huashu (alchaincyf) — AI-native coder and author of the Loop Engineering Orange Book
 
 > Bilingual field guide to Loop Engineering, covering the prompt-context-harness-loop stack, loop design, verification, costs, and practical adoption.
@@ -479,7 +479,7 @@
 ## 36. ClaytonFarr/ralph-playbook (999 ⭐)
 
 **🔗** https://github.com/ClaytonFarr/ralph-playbook  
-**🍴** Forks 260 | **🔄** Updated 2026-03-06  
+**🍴** Forks 261 | **🔄** Updated 2026-03-06  
 **👤** Clayton Farr — author of the Ralph playbook
 
 > Practical playbook for autonomous AI coding loops using Geoff Huntley's Ralph methodology.
@@ -488,10 +488,10 @@
 
 ---
 
-## 37. iannuttall/ralph (932 ⭐)
+## 37. iannuttall/ralph (933 ⭐)
 
 **🔗** https://github.com/iannuttall/ralph  
-**🍴** Forks 90 | **🔄** Updated 2026-02-04  
+**🍴** Forks 91 | **🔄** Updated 2026-02-04  
 **👤** Ian Nuttall — author of minimal file-based Ralph agent loop
 
 > Minimal file-based agent loop for autonomous coding driven by on-disk specs and plans.
@@ -500,22 +500,10 @@
 
 ---
 
-## 38. snwfdhmp/awesome-ralph (913 ⭐)
-
-**🔗** https://github.com/snwfdhmp/awesome-ralph  
-**🍴** Forks 71 | **🔄** Updated 2026-02-03  
-**👤** snwfdhmp — curator of awesome-ralph
-
-> Curated list of Ralph / Ralph Wiggum AI coding loop tools, tutorials, and implementations.
-
-**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration
-
----
-
-## 39. open-gsd/gsd-pi (904 ⭐)
+## 38. open-gsd/gsd-pi (927 ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
-**🍴** Forks 81 | **🔄** Updated 2026-07-16  
+**🍴** Forks 82 | **🔄** Updated 2026-07-21  
 **👤** open-gsd — GSD-Pi maintainers
 
 > GSD meta-prompting and spec-driven development (Pi edition) for long-running autonomous agents with big-picture awareness.
@@ -524,10 +512,22 @@
 
 ---
 
-## 40. vercel-labs/ralph-loop-agent (821 ⭐)
+## 39. snwfdhmp/awesome-ralph (914 ⭐)
+
+**🔗** https://github.com/snwfdhmp/awesome-ralph  
+**🍴** Forks 72 | **🔄** Updated 2026-02-03  
+**👤** snwfdhmp — curator of awesome-ralph
+
+> Curated list of Ralph / Ralph Wiggum AI coding loop tools, tutorials, and implementations.
+
+**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration
+
+---
+
+## 40. vercel-labs/ralph-loop-agent (822 ⭐)
 
 **🔗** https://github.com/vercel-labs/ralph-loop-agent  
-**🍴** Forks 85 | **🔄** Updated 2026-01-08  
+**🍴** Forks 86 | **🔄** Updated 2026-01-08  
 **👤** Vercel Labs — maintainers of ralph-loop-agent
 
 > Ralph loop agent wrapper for the Vercel AI SDK with continuous autonomy and verification callbacks.
@@ -536,7 +536,7 @@
 
 ---
 
-## 41. shotgun-sh/shotgun (686 ⭐)
+## 41. shotgun-sh/shotgun (687 ⭐)
 
 **🔗** https://github.com/shotgun-sh/shotgun  
 **🍴** Forks 36 | **🔄** Updated 2026-06-02  
@@ -548,10 +548,10 @@
 
 ---
 
-## 42. breezewish/CodexPotter (587 ⭐)
+## 42. breezewish/CodexPotter (586 ⭐)
 
 **🔗** https://github.com/breezewish/CodexPotter  
-**🍴** Forks 55 | **🔄** Updated 2026-07-07  
+**🍴** Forks 54 | **🔄** Updated 2026-07-07  
 **👤** breezewish — author of CodexPotter enhanced /goal workflow
 
 > Enhanced Codex `/goal` workflow for spec/goal-driven development and long-horizon alignment.
@@ -563,68 +563,68 @@
 
 ### 📋 Spec-Driven Development
 
-- [superpowers](#1-obrasuperpowers-256k-) — Agentic skills framework and software development methodolog…
-- [spec-kit](#5-githubspec-kit-122k-) — Toolkit to help you get started with Spec-Driven Development
-- [OpenSpec](#9-fission-aiopenspec-61k-) — Spec-driven development (SDD) for AI coding assistants
+- [superpowers](#1-obrasuperpowers-258k-) — Agentic skills framework and software development methodolog…
+- [spec-kit](#5-githubspec-kit-123k-) — Toolkit to help you get started with Spec-Driven Development
+- [OpenSpec](#9-fission-aiopenspec-62k-) — Spec-driven development (SDD) for AI coding assistants
 - [BMAD-METHOD](#10-bmad-code-orgbmad-method-51k-) — Breakthrough Method for Agile AI Driven Development
 - [gsd-2](#17-gsd-buildgsd-2-77k-) — Lightweight meta-prompting and spec-driven development syste…
-- [gsd-core](#18-open-gsdgsd-core-67k-) — Git
+- [gsd-core](#18-open-gsdgsd-core-69k-) — Git
 - [cc-sdd](#19-gotalabcc-sdd-36k-) — Minimal SDD harness that turns approved specs into long-runn…
-- [ralph-orchestrator](#20-mikeyobrienralph-orchestrator-3k-) — Improved Ralph Wiggum implementation for autonomous AI agent…
-- [comet](#24-rpamiscomet-23k-) — Resumable long-running coding workflow and skill platform co…
+- [ralph-orchestrator](#20-mikeyobrienralph-orchestrator-31k-) — Improved Ralph Wiggum implementation for autonomous AI agent…
+- [comet](#24-rpamiscomet-24k-) — Resumable long-running coding workflow and skill platform co…
 - [pilot-shell](#26-maxritterpilot-shell-18k-) — Spec-driven planning, enforced TDD, persistent memory, and q…
 - [how-to-ralph-wiggum](#28-ghuntleyhow-to-ralph-wiggum-17k-) — Canonical Ralph Wiggum guide — idea to spec to implementatio…
 - [spec-kitty](#31-priivacy-aispec-kitty-14k-) — Spec-driven development for serious software developers — Ka…
 - [ralph-playbook](#36-claytonfarrralph-playbook-999-) — Practical playbook for autonomous AI coding loops using Geof…
-- [gsd-pi](#39-open-gsdgsd-pi-904-) — GSD meta-prompting and spec-driven development (Pi edition) …
-- [shotgun](#41-shotgun-shshotgun-686-) — Spec-driven development — write codebase-aware specs so AI c…
-- [CodexPotter](#42-breezewishcodexpotter-587-) — Enhanced Codex `/goal` workflow for spec/goal-driven develop…
+- [gsd-pi](#38-open-gsdgsd-pi-927-) — GSD meta-prompting and spec-driven development (Pi edition) …
+- [shotgun](#41-shotgun-shshotgun-687-) — Spec-driven development — write codebase-aware specs so AI c…
+- [CodexPotter](#42-breezewishcodexpotter-586-) — Enhanced Codex `/goal` workflow for spec/goal-driven develop…
 
 ### 🔁 Agent Iteration Loops
 
-- [superpowers](#1-obrasuperpowers-256k-) — Agentic skills framework and software development methodolog…
-- [autoresearch](#6-karpathyautoresearch-91k-) — Autonomous AI research loop for single-GPU nanochat training…
+- [superpowers](#1-obrasuperpowers-258k-) — Agentic skills framework and software development methodolog…
+- [autoresearch](#6-karpathyautoresearch-92k-) — Autonomous AI research loop for single-GPU nanochat training…
 - [ralph](#12-snarktankralph-21k-) — Autonomous AI agent loop that runs repeatedly until all PRD …
-- [ralph-claude-code](#15-frankbriaralph-claude-code-95k-) — Autonomous AI development loop for Claude Code with intellig…
-- [loop-engineering](#16-cobusgreylingloop-engineering-82k-) — Practical patterns, starters and CLI tools for loop engineer…
+- [ralph-claude-code](#15-frankbriaralph-claude-code-96k-) — Autonomous AI development loop for Claude Code with intellig…
+- [loop-engineering](#16-cobusgreylingloop-engineering-89k-) — Practical patterns, starters and CLI tools for loop engineer…
 - [gsd-2](#17-gsd-buildgsd-2-77k-) — Lightweight meta-prompting and spec-driven development syste…
 - [cc-sdd](#19-gotalabcc-sdd-36k-) — Minimal SDD harness that turns approved specs into long-runn…
-- [ralph-orchestrator](#20-mikeyobrienralph-orchestrator-3k-) — Improved Ralph Wiggum implementation for autonomous AI agent…
+- [ralph-orchestrator](#20-mikeyobrienralph-orchestrator-31k-) — Improved Ralph Wiggum implementation for autonomous AI agent…
 - [ralphy](#21-michaelshimelesralphy-29k-) — Ralph Wiggum-style autonomous bash loop running Claude Code,…
-- [loopy](#22-forward-futureloopy-27k-) — Library and companion skill for discovering, auditing, desig…
+- [loopy](#22-forward-futureloopy-28k-) — Library and companion skill for discovering, auditing, desig…
 - [ralph-tui](#23-subsyralph-tui-24k-) — Terminal UI orchestrator connecting coding agents to task li…
-- [comet](#24-rpamiscomet-23k-) — Resumable long-running coding workflow and skill platform co…
-- [open-ralph-wiggum](#25-th0rgalopen-ralph-wiggum-18k-) — Ralph loop CLI for OpenCode, Claude Code, and Codex — run `r…
+- [comet](#24-rpamiscomet-24k-) — Resumable long-running coding workflow and skill platform co…
+- [open-ralph-wiggum](#25-th0rgalopen-ralph-wiggum-19k-) — Ralph loop CLI for OpenCode, Claude Code, and Codex — run `r…
 - [how-to-ralph-wiggum](#28-ghuntleyhow-to-ralph-wiggum-17k-) — Canonical Ralph Wiggum guide — idea to spec to implementatio…
-- [zeroshot](#29-the-open-enginezeroshot-16k-) — Multi-agent orchestration CLI for autonomous software engine…
+- [zeroshot](#29-the-open-enginezeroshot-17k-) — Multi-agent orchestration CLI for autonomous software engine…
 - [agent-teams-ai](#30-777geniusagent-teams-ai-16k-) — Desktop app for autonomous multi-agent teams with task board…
 - [ralphex](#32-umputunralphex-14k-) — Extended Ralph loop CLI for autonomous AI-driven plan execut…
 - [continuous-claude](#33-anandchowdharycontinuous-claude-14k-) — Ralph loop with PRs — run Claude Code continuously, autonomo…
 - [loop-engineering-orange-book](#35-alchaincyfloop-engineering-orange-book-1k-) — Bilingual field guide to Loop Engineering, covering the prom…
 - [ralph-playbook](#36-claytonfarrralph-playbook-999-) — Practical playbook for autonomous AI coding loops using Geof…
-- [ralph](#37-iannuttallralph-932-) — Minimal file-based agent loop for autonomous coding driven b…
-- [awesome-ralph](#38-snwfdhmpawesome-ralph-913-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
-- [gsd-pi](#39-open-gsdgsd-pi-904-) — GSD meta-prompting and spec-driven development (Pi edition) …
-- [ralph-loop-agent](#40-vercel-labsralph-loop-agent-821-) — Ralph loop agent wrapper for the Vercel AI SDK with continuo…
+- [ralph](#37-iannuttallralph-933-) — Minimal file-based agent loop for autonomous coding driven b…
+- [gsd-pi](#38-open-gsdgsd-pi-927-) — GSD meta-prompting and spec-driven development (Pi edition) …
+- [awesome-ralph](#39-snwfdhmpawesome-ralph-914-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
+- [ralph-loop-agent](#40-vercel-labsralph-loop-agent-822-) — Ralph loop agent wrapper for the Vercel AI SDK with continuo…
 
 ### 🤖 Skills & Workflows
 
-- [superpowers](#1-obrasuperpowers-256k-) — Agentic skills framework and software development methodolog…
-- [ECC](#2-affaan-mecc-230k-) — Agent harness performance optimization system — skills, inst…
-- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-193k-) — A single CLAUDE
-- [skills](#4-mattpocockskills-174k-) — Matt Pocock's personal skills collection, straight from his
-- [agent-skills](#7-addyosmaniagent-skills-79k-) — Production-grade engineering skills for AI coding agents
-- [taste-skill](#8-leonxlnxtaste-skill-64k-) — Design taste skill that stops AI from generating boring, gen…
+- [superpowers](#1-obrasuperpowers-258k-) — Agentic skills framework and software development methodolog…
+- [ECC](#2-affaan-mecc-232k-) — Agent harness performance optimization system — skills, inst…
+- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-195k-) — A single CLAUDE
+- [skills](#4-mattpocockskills-180k-) — Matt Pocock's personal skills collection, straight from his
+- [agent-skills](#7-addyosmaniagent-skills-80k-) — Production-grade engineering skills for AI coding agents
+- [taste-skill](#8-leonxlnxtaste-skill-66k-) — Design taste skill that stops AI from generating boring, gen…
 - [stop-slop](#13-hardikpandyastop-slop-14k-) — A skill file for removing AI tells from prose
 - [moai-adk](#34-modu-aimoai-adk-11k-) — SPEC-first agentic development kit — 24 AI agents, 52 skills…
 
 ### ⚡ Optimization & Methodology
 
-- [superpowers](#1-obrasuperpowers-256k-) — Agentic skills framework and software development methodolog…
-- [ECC](#2-affaan-mecc-230k-) — Agent harness performance optimization system — skills, inst…
-- [planning-with-files](#11-othmanadiplanning-with-files-25k-) — Persistent file-based planning for AI coding agents — crash-…
+- [superpowers](#1-obrasuperpowers-258k-) — Agentic skills framework and software development methodolog…
+- [ECC](#2-affaan-mecc-232k-) — Agent harness performance optimization system — skills, inst…
+- [planning-with-files](#11-othmanadiplanning-with-files-26k-) — Persistent file-based planning for AI coding agents — crash-…
 - [Trellis](#14-mindfold-aitrellis-13k-) — High-performance agent harness runtime for complete agentic …
-- [gsd-core](#18-open-gsdgsd-core-67k-) — Git
+- [gsd-core](#18-open-gsdgsd-core-69k-) — Git
 - [cc-sdd](#19-gotalabcc-sdd-36k-) — Minimal SDD harness that turns approved specs into long-runn…
 - [advanced-context-engineering-for-coding-agents](#27-humanlayeradvanced-context-engineering-for-coding-agents-18k-) — Advanced Context Engineering (ACE) for coding agents — retri…
 - [loop-engineering-orange-book](#35-alchaincyfloop-engineering-orange-book-1k-) — Bilingual field guide to Loop Engineering, covering the prom…
@@ -648,4 +648,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-07-17*
+*Curated by wind8 | 2026-07-21*
