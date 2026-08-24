@@ -3,23 +3,24 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Star List entries beyond the formal cap of 42, ranked by total GitHub Stars  
-> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-08-20
+> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-08-24
 
 ---
 
 ## Contents
 
-01. [snwfdhmp/awesome-ralph (917 ⭐)](#1-snwfdhmpawesome-ralph-917-)
-02. [vercel-labs/ralph-loop-agent (826 ⭐)](#2-vercel-labsralph-loop-agent-826-)
-03. [shotgun-sh/shotgun (684 ⭐)](#3-shotgun-shshotgun-684-)
+01. [snwfdhmp/awesome-ralph (916 ⭐)](#1-snwfdhmpawesome-ralph-916-)
+02. [vercel-labs/ralph-loop-agent (827 ⭐)](#2-vercel-labsralph-loop-agent-827-)
+03. [shotgun-sh/shotgun (681 ⭐)](#3-shotgun-shshotgun-681-)
 04. [breezewish/CodexPotter (628 ⭐)](#4-breezewishcodexpotter-628-)
-05. [microsoft/Orchard (479 ⭐)](#5-microsoftorchard-479-)
-06. [ChaoYue0307/awesome-loop-engineering (53 ⭐)](#6-chaoyue0307awesome-loop-engineering-53-)
-07. [microsoft/Loopsbench (18 ⭐)](#7-microsoftloopsbench-18-)
+05. [microsoft/Orchard (486 ⭐)](#5-microsoftorchard-486-)
+06. [coleam00/skills (387 ⭐)](#6-coleam00skills-387-)
+07. [ChaoYue0307/awesome-loop-engineering (54 ⭐)](#7-chaoyue0307awesome-loop-engineering-54-)
+08. [microsoft/Loopsbench (21 ⭐)](#8-microsoftloopsbench-21-)
 
 ---
 
-## 1. snwfdhmp/awesome-ralph (917 ⭐)
+## 1. snwfdhmp/awesome-ralph (916 ⭐)
 
 **🔗** https://github.com/snwfdhmp/awesome-ralph  
 **🍴** Forks 74 | **🔄** Updated 2026-02-03  
@@ -31,7 +32,7 @@
 
 ---
 
-## 2. vercel-labs/ralph-loop-agent (826 ⭐)
+## 2. vercel-labs/ralph-loop-agent (827 ⭐)
 
 **🔗** https://github.com/vercel-labs/ralph-loop-agent  
 **🍴** Forks 85 | **🔄** Updated 2026-01-08  
@@ -43,7 +44,7 @@
 
 ---
 
-## 3. shotgun-sh/shotgun (684 ⭐)
+## 3. shotgun-sh/shotgun (681 ⭐)
 
 **🔗** https://github.com/shotgun-sh/shotgun  
 **🍴** Forks 36 | **🔄** Updated 2026-06-02  
@@ -67,7 +68,7 @@
 
 ---
 
-## 5. microsoft/Orchard (479 ⭐)
+## 5. microsoft/Orchard (486 ⭐)
 
 **🔗** https://github.com/microsoft/Orchard  
 **🍴** Forks 41 | **🔄** Updated 2026-07-31  
@@ -79,10 +80,22 @@
 
 ---
 
-## 6. ChaoYue0307/awesome-loop-engineering (53 ⭐)
+## 6. coleam00/skills (387 ⭐)
+
+**🔗** https://github.com/coleam00/skills  
+**🍴** Forks 123 | **🔄** Updated 2026-08-14  
+**👤** Cole Medin — generative AI specialist at Dynamous and creator of the Agentic Coding course
+
+> Cole Medin's practical software-delivery skills for coding agents, centered on the prime-plan-implement-validate-review-commit-PR PIV loop with worktree parallelism, review workflows, and meta-skills for building an AI layer.
+
+**Matched Capabilities**: 🤖 Agent Integration · 🧪 TDD Workflow
+
+---
+
+## 7. ChaoYue0307/awesome-loop-engineering (54 ⭐)
 
 **🔗** https://github.com/ChaoYue0307/awesome-loop-engineering  
-**🍴** Forks 8 | **🔄** Updated 2026-08-20  
+**🍴** Forks 8 | **🔄** Updated 2026-08-21  
 **👤** Chaoyue He — developer at Nanyang Technological University and curator of awesome-loop-engineering
 
 > Audited Loop Engineering resource map with 509 resources, 15 operational patterns, reusable loop contracts, runnable templates, and an interactive Resource Atlas.
@@ -91,7 +104,7 @@
 
 ---
 
-## 7. microsoft/Loopsbench (18 ⭐)
+## 8. microsoft/Loopsbench (21 ⭐)
 
 **🔗** https://github.com/microsoft/Loopsbench  
 **🍴** Forks 1 | **🔄** Updated 2026-08-12  
@@ -106,20 +119,25 @@
 
 ### 📋 Spec-Driven Development
 
-- [shotgun](#3-shotgun-shshotgun-684-) — Spec-driven development — write codebase-aware specs so AI c…
+- [shotgun](#3-shotgun-shshotgun-681-) — Spec-driven development — write codebase-aware specs so AI c…
 - [CodexPotter](#4-breezewishcodexpotter-628-) — Enhanced Codex `/goal` workflow for spec/goal-driven develop…
 
 ### 🔁 Agent Iteration Loops
 
-- [awesome-ralph](#1-snwfdhmpawesome-ralph-917-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
-- [ralph-loop-agent](#2-vercel-labsralph-loop-agent-826-) — Ralph loop agent wrapper for the Vercel AI SDK with continuo…
-- [awesome-loop-engineering](#6-chaoyue0307awesome-loop-engineering-53-) — Audited Loop Engineering resource map with 509 resources, 15…
-- [Loopsbench](#7-microsoftloopsbench-18-) — Microsoft's open-source benchmark and execution harness for …
+- [awesome-ralph](#1-snwfdhmpawesome-ralph-916-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
+- [ralph-loop-agent](#2-vercel-labsralph-loop-agent-827-) — Ralph loop agent wrapper for the Vercel AI SDK with continuo…
+- [skills](#6-coleam00skills-387-) — Cole Medin's practical software-delivery skills for coding a…
+- [awesome-loop-engineering](#7-chaoyue0307awesome-loop-engineering-54-) — Audited Loop Engineering resource map with 509 resources, 15…
+- [Loopsbench](#8-microsoftloopsbench-21-) — Microsoft's open-source benchmark and execution harness for …
+
+### 🤖 Skills & Workflows
+
+- [skills](#6-coleam00skills-387-) — Cole Medin's practical software-delivery skills for coding a…
 
 ### ⚡ Optimization & Methodology
 
-- [Orchard](#5-microsoftorchard-479-) — Microsoft's open-source agentic-modeling research framework,…
-- [Loopsbench](#7-microsoftloopsbench-18-) — Microsoft's open-source benchmark and execution harness for …
+- [Orchard](#5-microsoftorchard-486-) — Microsoft's open-source agentic-modeling research framework,…
+- [Loopsbench](#8-microsoftloopsbench-21-) — Microsoft's open-source benchmark and execution harness for …
 
 
 ---
@@ -139,4 +157,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-08-20*
+*Curated by wind8 | 2026-08-24*
