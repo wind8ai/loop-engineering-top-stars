@@ -3,7 +3,7 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Star List entries beyond the formal cap of 42, ranked by total GitHub Stars  
-> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-09-08
+> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-09-13
 
 ---
 
@@ -11,15 +11,14 @@
 
 01. [alchaincyf/loop-engineering-orange-book (1.1k ⭐)](#1-alchaincyfloop-engineering-orange-book-11k-)
 02. [ClaytonFarr/ralph-playbook (1k ⭐)](#2-claytonfarrralph-playbook-1k-)
-03. [iannuttall/ralph (953 ⭐)](#3-iannuttallralph-953-)
-04. [snwfdhmp/awesome-ralph (918 ⭐)](#4-snwfdhmpawesome-ralph-918-)
-05. [vercel-labs/ralph-loop-agent (830 ⭐)](#5-vercel-labsralph-loop-agent-830-)
-06. [shotgun-sh/shotgun (682 ⭐)](#6-shotgun-shshotgun-682-)
-07. [breezewish/CodexPotter (629 ⭐)](#7-breezewishcodexpotter-629-)
-08. [microsoft/Orchard (503 ⭐)](#8-microsoftorchard-503-)
-09. [coleam00/skills (488 ⭐)](#9-coleam00skills-488-)
-10. [ChaoYue0307/awesome-loop-engineering (57 ⭐)](#10-chaoyue0307awesome-loop-engineering-57-)
-11. [microsoft/Loopsbench (27 ⭐)](#11-microsoftloopsbench-27-)
+03. [snwfdhmp/awesome-ralph (918 ⭐)](#3-snwfdhmpawesome-ralph-918-)
+04. [vercel-labs/ralph-loop-agent (831 ⭐)](#4-vercel-labsralph-loop-agent-831-)
+05. [shotgun-sh/shotgun (682 ⭐)](#5-shotgun-shshotgun-682-)
+06. [breezewish/CodexPotter (629 ⭐)](#6-breezewishcodexpotter-629-)
+07. [microsoft/Orchard (511 ⭐)](#7-microsoftorchard-511-)
+08. [coleam00/skills (503 ⭐)](#8-coleam00skills-503-)
+09. [ChaoYue0307/awesome-loop-engineering (57 ⭐)](#9-chaoyue0307awesome-loop-engineering-57-)
+10. [microsoft/Loopsbench (30 ⭐)](#10-microsoftloopsbench-30-)
 
 ---
 
@@ -38,7 +37,7 @@
 ## 2. ClaytonFarr/ralph-playbook (1k ⭐)
 
 **🔗** https://github.com/ClaytonFarr/ralph-playbook  
-**🍴** Forks 266 | **🔄** Updated 2026-03-06  
+**🍴** Forks 265 | **🔄** Updated 2026-03-06  
 **👤** Clayton Farr — author of the Ralph playbook
 
 > Practical playbook for autonomous AI coding loops using Geoff Huntley's Ralph methodology.
@@ -47,19 +46,7 @@
 
 ---
 
-## 3. iannuttall/ralph (953 ⭐)
-
-**🔗** https://github.com/iannuttall/ralph  
-**🍴** Forks 93 | **🔄** Updated 2026-02-04  
-**👤** Ian Nuttall — author of minimal file-based Ralph agent loop
-
-> Minimal file-based agent loop for autonomous coding driven by on-disk specs and plans.
-
-**Matched Capabilities**: 🤖 Agent Integration · 🔀 Multi-Agent Orchestration
-
----
-
-## 4. snwfdhmp/awesome-ralph (918 ⭐)
+## 3. snwfdhmp/awesome-ralph (918 ⭐)
 
 **🔗** https://github.com/snwfdhmp/awesome-ralph  
 **🍴** Forks 74 | **🔄** Updated 2026-02-03  
@@ -71,7 +58,7 @@
 
 ---
 
-## 5. vercel-labs/ralph-loop-agent (830 ⭐)
+## 4. vercel-labs/ralph-loop-agent (831 ⭐)
 
 **🔗** https://github.com/vercel-labs/ralph-loop-agent  
 **🍴** Forks 85 | **🔄** Updated 2026-01-08  
@@ -83,7 +70,7 @@
 
 ---
 
-## 6. shotgun-sh/shotgun (682 ⭐)
+## 5. shotgun-sh/shotgun (682 ⭐)
 
 **🔗** https://github.com/shotgun-sh/shotgun  
 **🍴** Forks 37 | **🔄** Updated 2026-06-02  
@@ -95,7 +82,7 @@
 
 ---
 
-## 7. breezewish/CodexPotter (629 ⭐)
+## 6. breezewish/CodexPotter (629 ⭐)
 
 **🔗** https://github.com/breezewish/CodexPotter  
 **🍴** Forks 56 | **🔄** Updated 2026-09-01  
@@ -107,7 +94,7 @@
 
 ---
 
-## 8. microsoft/Orchard (503 ⭐)
+## 7. microsoft/Orchard (511 ⭐)
 
 **🔗** https://github.com/microsoft/Orchard  
 **🍴** Forks 42 | **🔄** Updated 2026-07-31  
@@ -119,10 +106,10 @@
 
 ---
 
-## 9. coleam00/skills (488 ⭐)
+## 8. coleam00/skills (503 ⭐)
 
 **🔗** https://github.com/coleam00/skills  
-**🍴** Forks 142 | **🔄** Updated 2026-08-26  
+**🍴** Forks 146 | **🔄** Updated 2026-09-11  
 **👤** Cole Medin — generative AI specialist at Dynamous and creator of the Agentic Coding course
 
 > Cole Medin's practical software-delivery skills for coding agents, centered on the prime-plan-implement-validate-review-commit-PR PIV loop with worktree parallelism, review workflows, and meta-skills for building an AI layer.
@@ -131,10 +118,10 @@
 
 ---
 
-## 10. ChaoYue0307/awesome-loop-engineering (57 ⭐)
+## 9. ChaoYue0307/awesome-loop-engineering (57 ⭐)
 
 **🔗** https://github.com/ChaoYue0307/awesome-loop-engineering  
-**🍴** Forks 8 | **🔄** Updated 2026-09-02  
+**🍴** Forks 8 | **🔄** Updated 2026-09-08  
 **👤** Chaoyue He — developer at Nanyang Technological University and curator of awesome-loop-engineering
 
 > Audited Loop Engineering resource map with 509 resources, 15 operational patterns, reusable loop contracts, runnable templates, and an interactive Resource Atlas.
@@ -143,10 +130,10 @@
 
 ---
 
-## 11. microsoft/Loopsbench (27 ⭐)
+## 10. microsoft/Loopsbench (30 ⭐)
 
 **🔗** https://github.com/microsoft/Loopsbench  
-**🍴** Forks 3 | **🔄** Updated 2026-09-01  
+**🍴** Forks 4 | **🔄** Updated 2026-09-09  
 **👤** Microsoft — team behind the LoopsBench long-horizon agent benchmark
 
 > Microsoft's open-source benchmark and execution harness for long-horizon terminal tasks, using module dependencies, unit acceptance criteria, Docker environments, and verifiers to evaluate coding agents across planning, implementation, testing, and recovery.
@@ -159,30 +146,29 @@
 ### 📋 Spec-Driven Development
 
 - [ralph-playbook](#2-claytonfarrralph-playbook-1k-) — Practical playbook for autonomous AI coding loops using Geof…
-- [shotgun](#6-shotgun-shshotgun-682-) — Spec-driven development — write codebase-aware specs so AI c…
-- [CodexPotter](#7-breezewishcodexpotter-629-) — Enhanced Codex `/goal` workflow for spec/goal-driven develop…
+- [shotgun](#5-shotgun-shshotgun-682-) — Spec-driven development — write codebase-aware specs so AI c…
+- [CodexPotter](#6-breezewishcodexpotter-629-) — Enhanced Codex `/goal` workflow for spec/goal-driven develop…
 
 ### 🔁 Agent Iteration Loops
 
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — Bilingual field guide to Loop Engineering, covering the prom…
 - [ralph-playbook](#2-claytonfarrralph-playbook-1k-) — Practical playbook for autonomous AI coding loops using Geof…
-- [ralph](#3-iannuttallralph-953-) — Minimal file-based agent loop for autonomous coding driven b…
-- [awesome-ralph](#4-snwfdhmpawesome-ralph-918-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
-- [ralph-loop-agent](#5-vercel-labsralph-loop-agent-830-) — Ralph loop agent wrapper for the Vercel AI SDK with continuo…
-- [skills](#9-coleam00skills-488-) — Cole Medin's practical software-delivery skills for coding a…
-- [awesome-loop-engineering](#10-chaoyue0307awesome-loop-engineering-57-) — Audited Loop Engineering resource map with 509 resources, 15…
-- [Loopsbench](#11-microsoftloopsbench-27-) — Microsoft's open-source benchmark and execution harness for …
+- [awesome-ralph](#3-snwfdhmpawesome-ralph-918-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
+- [ralph-loop-agent](#4-vercel-labsralph-loop-agent-831-) — Ralph loop agent wrapper for the Vercel AI SDK with continuo…
+- [skills](#8-coleam00skills-503-) — Cole Medin's practical software-delivery skills for coding a…
+- [awesome-loop-engineering](#9-chaoyue0307awesome-loop-engineering-57-) — Audited Loop Engineering resource map with 509 resources, 15…
+- [Loopsbench](#10-microsoftloopsbench-30-) — Microsoft's open-source benchmark and execution harness for …
 
 ### 🤖 Skills & Workflows
 
-- [skills](#9-coleam00skills-488-) — Cole Medin's practical software-delivery skills for coding a…
+- [skills](#8-coleam00skills-503-) — Cole Medin's practical software-delivery skills for coding a…
 
 ### ⚡ Optimization & Methodology
 
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — Bilingual field guide to Loop Engineering, covering the prom…
 - [ralph-playbook](#2-claytonfarrralph-playbook-1k-) — Practical playbook for autonomous AI coding loops using Geof…
-- [Orchard](#8-microsoftorchard-503-) — Microsoft's open-source agentic-modeling research framework,…
-- [Loopsbench](#11-microsoftloopsbench-27-) — Microsoft's open-source benchmark and execution harness for …
+- [Orchard](#7-microsoftorchard-511-) — Microsoft's open-source agentic-modeling research framework,…
+- [Loopsbench](#10-microsoftloopsbench-30-) — Microsoft's open-source benchmark and execution harness for …
 
 
 ---
@@ -202,4 +188,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-09-08*
+*Curated by wind8 | 2026-09-13*
