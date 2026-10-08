@@ -3,20 +3,20 @@
 **中文** | [English](./README.en.md) · [备选榜](./README.overflow.md)
 
 > GitHub 高星 Loop Engineering 项目精选 — Spec 驱动 · Agent 迭代循环 · SDD 工作流  
-> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-10-06
+> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-10-08
 
 ---
 
 ## 目录
 
 01. [obra/superpowers (296k ⭐)](#1-obrasuperpowers-296k-)
-02. [mattpocock/skills (277k ⭐)](#2-mattpocockskills-277k-)
-03. [affaan-m/ECC (274k ⭐)](#3-affaan-mecc-274k-)
+02. [mattpocock/skills (280k ⭐)](#2-mattpocockskills-280k-)
+03. [affaan-m/ECC (275k ⭐)](#3-affaan-mecc-275k-)
 04. [multica-ai/andrej-karpathy-skills (217k ⭐)](#4-multica-aiandrej-karpathy-skills-217k-)
-05. [github/spec-kit (140k ⭐)](#5-githubspec-kit-140k-)
-06. [addyosmani/agent-skills (102k ⭐)](#6-addyosmaniagent-skills-102k-)
+05. [github/spec-kit (141k ⭐)](#5-githubspec-kit-141k-)
+06. [addyosmani/agent-skills (103k ⭐)](#6-addyosmaniagent-skills-103k-)
 07. [karpathy/autoresearch (97k ⭐)](#7-karpathyautoresearch-97k-)
-08. [Leonxlnx/taste-skill (93k ⭐)](#8-leonxlnxtaste-skill-93k-)
+08. [Leonxlnx/taste-skill (94k ⭐)](#8-leonxlnxtaste-skill-94k-)
 09. [Fission-AI/OpenSpec (71k ⭐)](#9-fission-aiopenspec-71k-)
 10. [bmad-code-org/BMAD-METHOD (54k ⭐)](#10-bmad-code-orgbmad-method-54k-)
 11. [OthmanAdi/planning-with-files (27k ⭐)](#11-othmanadiplanning-with-files-27k-)
@@ -31,7 +31,7 @@
 20. [cursor/plugins (10k ⭐)](#20-cursorplugins-10k-)
 21. [frankbria/ralph-claude-code (9.7k ⭐)](#21-frankbriaralph-claude-code-97k-)
 22. [loopx-project/loopx (6.2k ⭐)](#22-loopx-projectloopx-62k-)
-23. [anthropics/claude-plugins-community (4.5k ⭐)](#23-anthropicsclaude-plugins-community-45k-)
+23. [anthropics/claude-plugins-community (4.6k ⭐)](#23-anthropicsclaude-plugins-community-46k-)
 24. [gotalab/cc-sdd (3.7k ⭐)](#24-gotalabcc-sdd-37k-)
 25. [Forward-Future/loopy (3.2k ⭐)](#25-forward-futureloopy-32k-)
 26. [mikeyobrien/ralph-orchestrator (3.2k ⭐)](#26-mikeyobrienralph-orchestrator-32k-)
@@ -42,9 +42,9 @@
 31. [777genius/agent-teams-ai (2.2k ⭐)](#31-777geniusagent-teams-ai-22k-)
 32. [maxritter/pilot-shell (2.1k ⭐)](#32-maxritterpilot-shell-21k-)
 33. [the-open-engine/zeroshot (1.9k ⭐)](#33-the-open-enginezeroshot-19k-)
-34. [Th0rgal/open-ralph-wiggum (1.9k ⭐)](#34-th0rgalopen-ralph-wiggum-19k-)
-35. [ghuntley/how-to-ralph-wiggum (1.8k ⭐)](#35-ghuntleyhow-to-ralph-wiggum-18k-)
-36. [uber/ADR (1.7k ⭐)](#36-uberadr-17k-)
+34. [uber/ADR (1.9k ⭐)](#34-uberadr-19k-)
+35. [Th0rgal/open-ralph-wiggum (1.9k ⭐)](#35-th0rgalopen-ralph-wiggum-19k-)
+36. [ghuntley/how-to-ralph-wiggum (1.8k ⭐)](#36-ghuntleyhow-to-ralph-wiggum-18k-)
 37. [spec-kitty/spec-kitty (1.7k ⭐)](#37-spec-kittyspec-kitty-17k-)
 38. [umputun/ralphex (1.5k ⭐)](#38-umputunralphex-15k-)
 39. [AnandChowdhary/continuous-claude (1.4k ⭐)](#39-anandchowdharycontinuous-claude-14k-)
@@ -59,7 +59,7 @@
 ## 1. obra/superpowers (296k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
-**🍴** Fork 26k | **🔄** Updated 2026-09-27  
+**🍴** Fork 26k | **🔄** Updated 2026-10-08  
 **👤** Jesse Vincent — Keyboardio 创始人，开源社区资深贡献者
 
 > 完整的 coding agent 软件开发方法论与技能框架。先推导 spec，再以 subagent 驱动 TDD 开发循环，让 agent 自主高效工作数小时。
@@ -68,10 +68,10 @@
 
 ---
 
-## 2. mattpocock/skills (277k ⭐)
+## 2. mattpocock/skills (280k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Fork 23k | **🔄** Updated 2026-10-05  
+**🍴** Fork 23k | **🔄** Updated 2026-10-07  
 **👤** Matt Pocock — TypeScript 教育 KOL，Total TypeScript 创始人
 
 > Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师。
@@ -80,7 +80,7 @@
 
 ---
 
-## 3. affaan-m/ECC (274k ⭐)
+## 3. affaan-m/ECC (275k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
 **🍴** Fork 41k | **🔄** Updated 2026-10-05  
@@ -104,10 +104,10 @@
 
 ---
 
-## 5. github/spec-kit (140k ⭐)
+## 5. github/spec-kit (141k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Fork 13k | **🔄** Updated 2026-10-05  
+**🍴** Fork 13k | **🔄** Updated 2026-10-07  
 **👤** GitHub 官方团队 — Spec-Driven Development 工具链维护方
 
 > Spec-Driven Development 入门工具包，帮助开发者快速上手 spec 驱动开发方法论。
@@ -116,7 +116,7 @@
 
 ---
 
-## 6. addyosmani/agent-skills (102k ⭐)
+## 6. addyosmani/agent-skills (103k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
 **🍴** Fork 11k | **🔄** Updated 2026-10-03  
@@ -140,10 +140,10 @@
 
 ---
 
-## 8. Leonxlnx/taste-skill (93k ⭐)
+## 8. Leonxlnx/taste-skill (94k ⭐)
 
 **🔗** https://github.com/Leonxlnx/taste-skill  
-**🍴** Fork 6.3k | **🔄** Updated 2026-09-26  
+**🍴** Fork 6.3k | **🔄** Updated 2026-10-07  
 **👤** Leon Lin — Taste Skill 创始人
 
 > 开源设计品味 Skill，为 AI coding agent 提供更好的布局、排版、间距与动效审美。
@@ -155,7 +155,7 @@
 ## 9. Fission-AI/OpenSpec (71k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Fork 4.9k | **🔄** Updated 2026-10-06  
+**🍴** Fork 4.9k | **🔄** Updated 2026-10-07  
 **👤** Fission-AI — SDD 框架开源团队
 
 > 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架。
@@ -167,7 +167,7 @@
 ## 10. bmad-code-org/BMAD-METHOD (54k ⭐)
 
 **🔗** https://github.com/bmad-code-org/BMAD-METHOD  
-**🍴** Fork 6.1k | **🔄** Updated 2026-10-06  
+**🍴** Fork 6.1k | **🔄** Updated 2026-10-07  
 **👤** BMAD 团队 — AI 驱动敏捷开发方法论开源组织
 
 > Breakthrough Method for Agile AI Driven Development，AI 驱动敏捷开发的突破性方法论。
@@ -179,7 +179,7 @@
 ## 11. OthmanAdi/planning-with-files (27k ⭐)
 
 **🔗** https://github.com/OthmanAdi/planning-with-files  
-**🍴** Fork 2.3k | **🔄** Updated 2026-10-01  
+**🍴** Fork 2.3k | **🔄** Updated 2026-10-06  
 **👤** Ahmad Othman Adi (OthmanAdi) — migRaven 教育者，planning-with-files 持久化文件规划 Skill 作者
 
 > 面向 AI coding agent 的持久化文件规划 Skill。用 Markdown 计划文件对抗上下文丢失与 /clear，附带确定性完成门禁，适合长周期 agentic 任务。
@@ -191,7 +191,7 @@
 ## 12. EveryInc/compound-engineering-plugin (25k ⭐)
 
 **🔗** https://github.com/EveryInc/compound-engineering-plugin  
-**🍴** Fork 2.1k | **🔄** Updated 2026-10-06  
+**🍴** Fork 2.1k | **🔄** Updated 2026-10-08  
 **👤** Every — Compound Engineering 方法与插件团队
 
 > Every 的 Compound Engineering 官方插件，以可复用 Skills 将研究、规划、实现、审查和经验沉淀组织为持续复利的工程工作流，支持 Claude Code、Codex 与 Cursor。
@@ -215,7 +215,7 @@
 ## 14. PrimeIntellect-ai/prime-agent (22k ⭐)
 
 **🔗** https://github.com/PrimeIntellect-ai/prime-agent  
-**🍴** Fork 2.4k | **🔄** Updated 2026-10-06  
+**🍴** Fork 2.4k | **🔄** Updated 2026-10-08  
 **👤** Prime Intellect — Prime Agent 与开放 Agent 研究基础设施团队
 
 > Prime Intellect 开源的自改进 coding 与 research Agent，以 Recursive Language Model 和 Continual Harness 组织持久 REPL、子 Agent、记忆、Skills 与可回滚的经验精炼，面向长周期自主任务。
@@ -227,7 +227,7 @@
 ## 15. pydantic/pydantic-ai (20k ⭐)
 
 **🔗** https://github.com/pydantic/pydantic-ai  
-**🍴** Fork 2.9k | **🔄** Updated 2026-10-06  
+**🍴** Fork 2.9k | **🔄** Updated 2026-10-08  
 **👤** Pydantic — Pydantic AI 与 Pydantic AI Harness 团队
 
 > Pydantic 的类型化 Python AI SDK 与 Agent Harness，统一支持多模型 Agent、实时语音、图像、embedding 和结构化输出，并以可组合能力提供记忆、子 Agent、上下文管理与长周期 coding workflow。
@@ -251,7 +251,7 @@
 ## 17. mindfold-ai/Trellis (15k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Fork 851 | **🔄** Updated 2026-09-29  
+**🍴** Fork 852 | **🔄** Updated 2026-09-29  
 **👤** mindfold-ai — Trellis agent harness 团队
 
 > 高性能 Agent Harness 运行时，提供完整 agentic 工作流与多工具集成，文档见 docs.trytrellis.app。
@@ -263,7 +263,7 @@
 ## 18. cobusgreyling/loop-engineering (11k ⭐)
 
 **🔗** https://github.com/cobusgreyling/loop-engineering  
-**🍴** Fork 1.5k | **🔄** Updated 2026-10-06  
+**🍴** Fork 1.5k | **🔄** Updated 2026-10-08  
 **👤** Cobus Greyling — AI 与语言技术博主，Loop Engineering 方法论作者
 
 > Loop Engineering 实践模式与 CLI 工具集，帮你设计「代替你反复 prompt agent」的自主循环系统（受 Addy Osmani、Boris Cherny 启发），含 loop-init / loop-audit / loop-cost 等脚手架与 Loop Ready 评分。
@@ -275,7 +275,7 @@
 ## 19. open-gsd/gsd-core (10k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Fork 732 | **🔄** Updated 2026-10-05  
+**🍴** Fork 739 | **🔄** Updated 2026-10-07  
 **👤** open-gsd — GSD 工作流开源团队
 
 > Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环。
@@ -287,7 +287,7 @@
 ## 20. cursor/plugins (10k ⭐)
 
 **🔗** https://github.com/cursor/plugins  
-**🍴** Fork 942 | **🔄** Updated 2026-10-06  
+**🍴** Fork 974 | **🔄** Updated 2026-10-08  
 **👤** Cursor — Cursor 插件规范与官方 marketplace 团队
 
 > Cursor 官方插件规范与 marketplace 仓库，以独立 manifest 组合 Skills、Rules、Agent 与 MCP 配置，覆盖 Spec 驱动开发、持续学习、代码审查、浏览器验证和多 Agent 编排等工程循环。
@@ -299,7 +299,7 @@
 ## 21. frankbria/ralph-claude-code (9.7k ⭐)
 
 **🔗** https://github.com/frankbria/ralph-claude-code  
-**🍴** Fork 725 | **🔄** Updated 2026-10-03  
+**🍴** Fork 725 | **🔄** Updated 2026-10-08  
 **👤** Frank Bria — ralph-claude-code 自主开发循环作者
 
 > 面向 Claude Code 的自主 AI 开发循环，含智能退出检测，可持续运行直至任务完成。
@@ -311,7 +311,7 @@
 ## 22. loopx-project/loopx (6.2k ⭐)
 
 **🔗** https://github.com/loopx-project/loopx  
-**🍴** Fork 596 | **🔄** Updated 2026-10-06  
+**🍴** Fork 596 | **🔄** Updated 2026-10-08  
 **👤** 黄睿腾（huangruiteng）— 字节跳动 AML 工程师，loopx 作者
 
 > 面向长周期 AI Agent 团队的轻量状态内核，提供持久目标、配额感知自动唤醒、可执行待办、证据日志与可验证交接，兼容 Codex、Claude Code 等多种 Agent Loop。
@@ -320,10 +320,10 @@
 
 ---
 
-## 23. anthropics/claude-plugins-community (4.5k ⭐)
+## 23. anthropics/claude-plugins-community (4.6k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-community  
-**🍴** Fork 322 | **🔄** Updated 2026-10-05  
+**🍴** Fork 325 | **🔄** Updated 2026-10-05  
 **👤** Anthropic — Claude 社区插件目录维护团队
 
 > Claude Cowork 与 Claude Code 社区插件 marketplace 的只读镜像，收录并持续同步通过提交、安全扫描和分发审核的 Skills 与工作流插件，为可复用 Agent Loop 提供社区扩展入口。
@@ -347,7 +347,7 @@
 ## 25. Forward-Future/loopy (3.2k ⭐)
 
 **🔗** https://github.com/Forward-Future/loopy  
-**🍴** Fork 281 | **🔄** Updated 2026-09-11  
+**🍴** Fork 280 | **🔄** Updated 2026-09-11  
 **👤** Forward Future — Loop Library 与 Loopy Skill 维护团队
 
 > 可复用 Agent Loop 目录与配套 Skill，帮助 agent 发现、审计、设计、执行和复盘带反馈的工作流。每个 loop 明确定义验收检查、下一步动作与停止条件。
@@ -371,7 +371,7 @@
 ## 27. rpamis/comet (3.2k ⭐)
 
 **🔗** https://github.com/rpamis/comet  
-**🍴** Fork 299 | **🔄** Updated 2026-10-05  
+**🍴** Fork 299 | **🔄** Updated 2026-10-08  
 **👤** rpamis — Comet 长周期 Agent 工作流平台维护团队
 
 > 可恢复的长周期 coding workflow 与 Skill 平台，把 OpenSpec、Superpowers、执行、验证、评估和发布连接成闭环。以状态机和 phase guard 保存进度，并用证据约束阶段退出。
@@ -407,7 +407,7 @@
 ## 30. subsy/ralph-tui (2.5k ⭐)
 
 **🔗** https://github.com/subsy/ralph-tui  
-**🍴** Fork 241 | **🔄** Updated 2026-09-04  
+**🍴** Fork 240 | **🔄** Updated 2026-09-04  
 **👤** subsy — Ralph TUI agent 循环编排工具作者
 
 > AI Agent 循环编排 TUI：连接 Claude Code、OpenCode、Cursor CLI 等 agent 与任务列表，逐条自主执行并可视化进度。
@@ -419,7 +419,7 @@
 ## 31. 777genius/agent-teams-ai (2.2k ⭐)
 
 **🔗** https://github.com/777genius/agent-teams-ai  
-**🍴** Fork 370 | **🔄** Updated 2026-10-06  
+**🍴** Fork 370 | **🔄** Updated 2026-10-08  
 **👤** Ilya（777genius）— Agent Teams AI 作者，专注多 Agent 协作工具
 
 > 多 Agent 团队桌面应用，通过任务看板、Agent 间通信和交叉审查组织自主协作。支持 Codex、Claude Code、OpenCode、Cursor 等多种 coding agent 与模型提供方。
@@ -431,7 +431,7 @@
 ## 32. maxritter/pilot-shell (2.1k ⭐)
 
 **🔗** https://github.com/maxritter/pilot-shell  
-**🍴** Fork 178 | **🔄** Updated 2026-10-06  
+**🍴** Fork 178 | **🔄** Updated 2026-10-08  
 **👤** Max Ritter — pilot-shell 生产级 agent 工作流作者
 
 > 工程师向 Claude Code/Codex 工作流 Shell：Spec 规划、强制 TDD、持久记忆与多层质量门禁，让 agent 达到生产就绪。
@@ -443,7 +443,7 @@
 ## 33. the-open-engine/zeroshot (1.9k ⭐)
 
 **🔗** https://github.com/the-open-engine/zeroshot  
-**🍴** Fork 180 | **🔄** Updated 2026-10-06  
+**🍴** Fork 181 | **🔄** Updated 2026-10-08  
 **👤** The Open Engine Company — Zeroshot 自主工程编排团队
 
 > 自主软件工程多 Agent 编排 CLI，将实现者与独立 verifier 分离。验证失败会返回可复现问题并继续迭代，运行状态写入持久化 ledger 以支持恢复。
@@ -452,7 +452,19 @@
 
 ---
 
-## 34. Th0rgal/open-ralph-wiggum (1.9k ⭐)
+## 34. uber/ADR (1.9k ⭐)
+
+**🔗** https://github.com/uber/ADR  
+**🍴** Fork 197 | **🔄** Updated 2026-10-07  
+**👤** Uber Open Source — ADR 企业 Agent 安全系统团队
+
+> Uber 开源的企业 Agent 安全系统，通过遥测观测、安全基准和双层威胁检测分析 Cursor、Claude Code、Codex 等 Agent 的活动；仓库包含 ADR Sensor、ADR-Bench 与 ADR Detector。
+
+**匹配能力**：🤖 Agent 集成
+
+---
+
+## 35. Th0rgal/open-ralph-wiggum (1.9k ⭐)
 
 **🔗** https://github.com/Th0rgal/open-ralph-wiggum  
 **🍴** Fork 144 | **🔄** Updated 2026-06-02  
@@ -464,7 +476,7 @@
 
 ---
 
-## 35. ghuntley/how-to-ralph-wiggum (1.8k ⭐)
+## 36. ghuntley/how-to-ralph-wiggum (1.8k ⭐)
 
 **🔗** https://github.com/ghuntley/how-to-ralph-wiggum  
 **🍴** Fork 146 | **🔄** Updated 2026-01-11  
@@ -476,22 +488,10 @@
 
 ---
 
-## 36. uber/ADR (1.7k ⭐)
-
-**🔗** https://github.com/uber/ADR  
-**🍴** Fork 179 | **🔄** Updated 2026-10-05  
-**👤** Uber Open Source — ADR 企业 Agent 安全系统团队
-
-> Uber 开源的企业 Agent 安全系统，通过遥测观测、安全基准和双层威胁检测分析 Cursor、Claude Code、Codex 等 Agent 的活动；仓库包含 ADR Sensor、ADR-Bench 与 ADR Detector。
-
-**匹配能力**：🤖 Agent 集成
-
----
-
 ## 37. spec-kitty/spec-kitty (1.7k ⭐)
 
 **🔗** https://github.com/spec-kitty/spec-kitty  
-**🍴** Fork 177 | **🔄** Updated 2026-10-06  
+**🍴** Fork 177 | **🔄** Updated 2026-10-08  
 **👤** Spec Kitty — spec-kitty Spec 驱动开发工具维护团队
 
 > 面向严肃软件研发的 Spec 驱动开发工具，支持 Claude、Cursor、Gemini 与 Codex，并集成 Kanban、Git worktree 和自动合并流程。
@@ -527,7 +527,7 @@
 ## 40. open-gsd/gsd-pi (1.3k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
-**🍴** Fork 107 | **🔄** Updated 2026-10-06  
+**🍴** Fork 108 | **🔄** Updated 2026-10-07  
 **👤** open-gsd — GSD-Pi 维护团队
 
 > GSD meta-prompting 与 Spec 驱动开发系统（Pi 版），支持 agent 长时间自主运行并保持全局上下文。
@@ -539,7 +539,7 @@
 ## 41. modu-ai/moai-adk (1.2k ⭐)
 
 **🔗** https://github.com/modu-ai/moai-adk  
-**🍴** Fork 226 | **🔄** Updated 2026-10-06  
+**🍴** Fork 226 | **🔄** Updated 2026-10-08  
 **👤** modu-ai — moai-adk Agentic 开发套件团队
 
 > SPEC 优先 Agentic 开发套件：24 个 AI agent + 52 个 skills，含 TDD/DDD 质量门禁，Go CLI、零依赖。
@@ -563,7 +563,7 @@
 
 ### 📋 Spec 驱动开发
 
-- [spec-kit](#5-githubspec-kit-140k-) — Spec-Driven Development 入门工具包，帮助开发者快速上手 spec 驱动开发方法论
+- [spec-kit](#5-githubspec-kit-141k-) — Spec-Driven Development 入门工具包，帮助开发者快速上手 spec 驱动开发方法论
 - [OpenSpec](#9-fission-aiopenspec-71k-) — 面向 AI coding assistant 的 Spec-Driven Development（SDD）框架
 - [BMAD-METHOD](#10-bmad-code-orgbmad-method-54k-) — Breakthrough Method for Agile AI Driven Development，AI 驱动敏捷开…
 - [gsd-core](#19-open-gsdgsd-core-10k-) — Git. Ship. Done 工作流 Harness 核心，Spec 驱动的轻量 agentic 交付闭环
@@ -579,36 +579,36 @@
 - [loop-engineering](#18-cobusgreylingloop-engineering-11k-) — Loop Engineering 实践模式与 CLI 工具集，帮你设计「代替你反复 prompt agent」的自主循环…
 - [ralph-claude-code](#21-frankbriaralph-claude-code-97k-) — 面向 Claude Code 的自主 AI 开发循环，含智能退出检测，可持续运行直至任务完成
 - [loopx](#22-loopx-projectloopx-62k-) — 面向长周期 AI Agent 团队的轻量状态内核，提供持久目标、配额感知自动唤醒、可执行待办、证据日志与可验证交接，兼容…
-- [claude-plugins-community](#23-anthropicsclaude-plugins-community-45k-) — Claude Cowork 与 Claude Code 社区插件 marketplace 的只读镜像，收录并持续同步通过…
+- [claude-plugins-community](#23-anthropicsclaude-plugins-community-46k-) — Claude Cowork 与 Claude Code 社区插件 marketplace 的只读镜像，收录并持续同步通过…
 - [loopy](#25-forward-futureloopy-32k-) — 可复用 Agent Loop 目录与配套 Skill，帮助 agent 发现、审计、设计、执行和复盘带反馈的工作流
 - [ralph-orchestrator](#26-mikeyobrienralph-orchestrator-32k-) — Ralph Wiggum 自主 AI agent 编排的改进实现，支持多后端与长周期任务循环直至 spec 完成
 - [comet](#27-rpamiscomet-32k-) — 可恢复的长周期 coding workflow 与 Skill 平台，把 OpenSpec、Superpowers、执行…
 - [ralphy](#28-michaelshimelesralphy-3k-) — Ralph Wiggum 式自主 bash 循环，可驱动 Claude Code、Codex、Cursor 等 agen…
 - [ralph-tui](#30-subsyralph-tui-25k-) — AI Agent 循环编排 TUI：连接 Claude Code、OpenCode、Cursor CLI 等 agent…
-- [open-ralph-wiggum](#34-th0rgalopen-ralph-wiggum-19k-) — OpenCode / Claude Code / Codex 上的 Ralph 循环 CLI：`ralph "promp…
-- [how-to-ralph-wiggum](#35-ghuntleyhow-to-ralph-wiggum-18k-) — Ralph Wiggum 方法论主文档：从 idea → spec → IMPLEMENTATION_PLAN → 自主…
+- [open-ralph-wiggum](#35-th0rgalopen-ralph-wiggum-19k-) — OpenCode / Claude Code / Codex 上的 Ralph 循环 CLI：`ralph "promp…
+- [how-to-ralph-wiggum](#36-ghuntleyhow-to-ralph-wiggum-18k-) — Ralph Wiggum 方法论主文档：从 idea → spec → IMPLEMENTATION_PLAN → 自主…
 - [ralphex](#38-umputunralphex-15k-) — 扩展版 Ralph 循环 CLI，面向自主 AI 驱动的 plan 执行，支持多 agent 后端与完成信号检测
 - [continuous-claude](#39-anandchowdharycontinuous-claude-14k-) — 带 PR 的 Ralph 循环：Claude Code 持续自主运行、创建 PR、等待 CI 检查并合并
 - [loop-engineering-orange-book](#42-alchaincyfloop-engineering-orange-book-11k-) — 中英双语 Loop Engineering 通俗指南，解释 prompt、context、harness 与外层 loo…
 
 ### 🤖 Skills 与工作流
 
-- [skills](#2-mattpocockskills-277k-) — Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师
-- [ECC](#3-affaan-mecc-274k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
+- [skills](#2-mattpocockskills-280k-) — Matt Pocock 的个人 skills 目录，直接从 .claude 目录整理，面向真正的工程师
+- [ECC](#3-affaan-mecc-275k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
 - [andrej-karpathy-skills](#4-multica-aiandrej-karpathy-skills-217k-) — 基于 Andrej Karpathy 对 LLM 编程陷阱的观察整理的单文件 CLAUDE.md 指南，以「先思考再编码…
-- [agent-skills](#6-addyosmaniagent-skills-102k-) — 生产级 AI coding agent 工程技能集合，覆盖现代工程实践关键场景
-- [taste-skill](#8-leonxlnxtaste-skill-93k-) — 开源设计品味 Skill，为 AI coding agent 提供更好的布局、排版、间距与动效审美
+- [agent-skills](#6-addyosmaniagent-skills-103k-) — 生产级 AI coding agent 工程技能集合，覆盖现代工程实践关键场景
+- [taste-skill](#8-leonxlnxtaste-skill-94k-) — 开源设计品味 Skill，为 AI coding agent 提供更好的布局、排版、间距与动效审美
 - [compound-engineering-plugin](#12-everyinccompound-engineering-plugin-25k-) — Every 的 Compound Engineering 官方插件，以可复用 Skills 将研究、规划、实现、审查和经…
 - [prime-agent](#14-primeintellect-aiprime-agent-22k-) — Prime Intellect 开源的自改进 coding 与 research Agent，以 Recursive L…
 - [stop-slop](#16-hardikpandyastop-slop-18k-) — 去除 AI 写作痕迹的技能文件，识别并移除 LLM 可预测的写作模式
 - [plugins](#20-cursorplugins-10k-) — Cursor 官方插件规范与 marketplace 仓库，以独立 manifest 组合 Skills、Rules、A…
-- [claude-plugins-community](#23-anthropicsclaude-plugins-community-45k-) — Claude Cowork 与 Claude Code 社区插件 marketplace 的只读镜像，收录并持续同步通过…
+- [claude-plugins-community](#23-anthropicsclaude-plugins-community-46k-) — Claude Cowork 与 Claude Code 社区插件 marketplace 的只读镜像，收录并持续同步通过…
 - [cc-sdd](#24-gotalabcc-sdd-37k-) — 将已批准 spec 转化为长周期自主实现的最小 SDD Harness，含 Agent Skills，兼容 Claude…
 - [moai-adk](#41-modu-aimoai-adk-12k-) — SPEC 优先 Agentic 开发套件：24 个 AI agent + 52 个 skills，含 TDD/DDD 质…
 
 ### ⚡ 优化与方法论
 
-- [ECC](#3-affaan-mecc-274k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
+- [ECC](#3-affaan-mecc-275k-) — Agent Harness 性能优化全栈系统，涵盖 Skills、本能、记忆、安全与研究优先开发流程，面向 Claude…
 - [autoresearch](#7-karpathyautoresearch-97k-) — 单 GPU nanochat 训练的自主 AI 研究循环：agent 修改 train.py、跑 5 分钟实验、用 va…
 - [planning-with-files](#11-othmanadiplanning-with-files-27k-) — 面向 AI coding agent 的持久化文件规划 Skill
 - [prime-agent](#14-primeintellect-aiprime-agent-22k-) — Prime Intellect 开源的自改进 coding 与 research Agent，以 Recursive L…
@@ -620,7 +620,7 @@
 - [agent-teams-ai](#31-777geniusagent-teams-ai-22k-) — 多 Agent 团队桌面应用，通过任务看板、Agent 间通信和交叉审查组织自主协作
 - [pilot-shell](#32-maxritterpilot-shell-21k-) — 工程师向 Claude Code/Codex 工作流 Shell：Spec 规划、强制 TDD、持久记忆与多层质量门禁，…
 - [zeroshot](#33-the-open-enginezeroshot-19k-) — 自主软件工程多 Agent 编排 CLI，将实现者与独立 verifier 分离
-- [ADR](#36-uberadr-17k-) — Uber 开源的企业 Agent 安全系统，通过遥测观测、安全基准和双层威胁检测分析 Cursor、Claude Cod…
+- [ADR](#34-uberadr-19k-) — Uber 开源的企业 Agent 安全系统，通过遥测观测、安全基准和双层威胁检测分析 Cursor、Claude Cod…
 - [loop-engineering-orange-book](#42-alchaincyfloop-engineering-orange-book-11k-) — 中英双语 Loop Engineering 通俗指南，解释 prompt、context、harness 与外层 loo…
 
 
@@ -641,4 +641,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-10-06*
+*由 wind8 整理 | 2026-10-08*
