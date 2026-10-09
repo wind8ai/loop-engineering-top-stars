@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-10-08
+> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-10-09
 
 ---
 
@@ -12,10 +12,10 @@
 01. [ClaytonFarr/ralph-playbook (1k ⭐)](#1-claytonfarrralph-playbook-1k-)
 02. [snwfdhmp/awesome-ralph (927 ⭐)](#2-snwfdhmpawesome-ralph-927-)
 03. [vercel-labs/ralph-loop-agent (840 ⭐)](#3-vercel-labsralph-loop-agent-840-)
-04. [shotgun-sh/shotgun (688 ⭐)](#4-shotgun-shshotgun-688-)
-05. [coleam00/skills (670 ⭐)](#5-coleam00skills-670-)
+04. [shotgun-sh/shotgun (689 ⭐)](#4-shotgun-shshotgun-689-)
+05. [coleam00/skills (672 ⭐)](#5-coleam00skills-672-)
 06. [breezewish/CodexPotter (629 ⭐)](#6-breezewishcodexpotter-629-)
-07. [microsoft/Orchard-Agentic (537 ⭐)](#7-microsoftorchard-agentic-537-)
+07. [microsoft/Orchard-Agentic (546 ⭐)](#7-microsoftorchard-agentic-546-)
 08. [ChaoYue0307/awesome-loop-engineering (60 ⭐)](#8-chaoyue0307awesome-loop-engineering-60-)
 09. [microsoft/Loopsbench (33 ⭐)](#9-microsoftloopsbench-33-)
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 4. shotgun-sh/shotgun (688 ⭐)
+## 4. shotgun-sh/shotgun (689 ⭐)
 
 **🔗** https://github.com/shotgun-sh/shotgun  
 **🍴** Fork 38 | **🔄** Updated 2026-06-02  
@@ -69,10 +69,10 @@
 
 ---
 
-## 5. coleam00/skills (670 ⭐)
+## 5. coleam00/skills (672 ⭐)
 
 **🔗** https://github.com/coleam00/skills  
-**🍴** Fork 183 | **🔄** Updated 2026-10-07  
+**🍴** Fork 184 | **🔄** Updated 2026-10-07  
 **👤** Cole Medin — Dynamous 生成式 AI 专家与 Agentic Coding 课程作者
 
 > Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan → implement → validate → review → commit → PR 的 PIV 循环为核心，并提供 worktree 并行、代码评审和构建 AI Layer 的元 Skills。
@@ -93,10 +93,10 @@
 
 ---
 
-## 7. microsoft/Orchard-Agentic (537 ⭐)
+## 7. microsoft/Orchard-Agentic (546 ⭐)
 
 **🔗** https://github.com/microsoft/Orchard-Agentic  
-**🍴** Fork 43 | **🔄** Updated 2026-10-05  
+**🍴** Fork 43 | **🔄** Updated 2026-10-08  
 **👤** Microsoft — Orchard Agentic Modeling 与环境基础设施团队
 
 > Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard Env 作为跨 Harness、训练器与任务领域的共享沙箱底座，承载 SWE、GUI 与个人助理场景的轨迹蒸馏、RL rollout 和评测流程。
@@ -140,13 +140,13 @@
 
 ### 🤖 Skills 与工作流
 
-- [skills](#5-coleam00skills-670-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
+- [skills](#5-coleam00skills-672-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
 
 ### ⚡ 优化与方法论
 
-- [shotgun](#4-shotgun-shshotgun-688-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
+- [shotgun](#4-shotgun-shshotgun-689-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
 - [CodexPotter](#6-breezewishcodexpotter-629-) — 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐
-- [Orchard-Agentic](#7-microsoftorchard-agentic-537-) — Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard …
+- [Orchard-Agentic](#7-microsoftorchard-agentic-546-) — Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard …
 - [Loopsbench](#9-microsoftloopsbench-33-) — Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、…
 
 
@@ -167,4 +167,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-10-08*
+*由 wind8 整理 | 2026-10-09*
