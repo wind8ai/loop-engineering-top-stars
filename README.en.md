@@ -3,34 +3,34 @@
 [中文](./README.md) | **English** · [Overflow](./README.en.overflow.md)
 
 > Curated Loop Engineering Projects — Spec-Driven Loops, Agent Iteration & SDD Workflows  
-> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-10-18
+> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-10-20
 
 ---
 
 ## Contents
 
-01. [obra/superpowers (301k ⭐)](#1-obrasuperpowers-301k-)
-02. [mattpocock/skills (295k ⭐)](#2-mattpocockskills-295k-)
-03. [affaan-m/ECC (283k ⭐)](#3-affaan-mecc-283k-)
+01. [obra/superpowers (302k ⭐)](#1-obrasuperpowers-302k-)
+02. [mattpocock/skills (298k ⭐)](#2-mattpocockskills-298k-)
+03. [affaan-m/ECC (284k ⭐)](#3-affaan-mecc-284k-)
 04. [multica-ai/andrej-karpathy-skills (221k ⭐)](#4-multica-aiandrej-karpathy-skills-221k-)
 05. [github/spec-kit (142k ⭐)](#5-githubspec-kit-142k-)
-06. [addyosmani/agent-skills (108k ⭐)](#6-addyosmaniagent-skills-108k-)
-07. [Leonxlnx/taste-skill (98k ⭐)](#7-leonxlnxtaste-skill-98k-)
+06. [addyosmani/agent-skills (109k ⭐)](#6-addyosmaniagent-skills-109k-)
+07. [Leonxlnx/taste-skill (99k ⭐)](#7-leonxlnxtaste-skill-99k-)
 08. [karpathy/autoresearch (98k ⭐)](#8-karpathyautoresearch-98k-)
 09. [Fission-AI/OpenSpec (72k ⭐)](#9-fission-aiopenspec-72k-)
 10. [bmad-code-org/BMAD-METHOD (54k ⭐)](#10-bmad-code-orgbmad-method-54k-)
-11. [OthmanAdi/planning-with-files (27k ⭐)](#11-othmanadiplanning-with-files-27k-)
+11. [OthmanAdi/planning-with-files (28k ⭐)](#11-othmanadiplanning-with-files-28k-)
 12. [EveryInc/compound-engineering-plugin (26k ⭐)](#12-everyinccompound-engineering-plugin-26k-)
 13. [PrimeIntellect-ai/prime-agent (22k ⭐)](#13-primeintellect-aiprime-agent-22k-)
 14. [snarktank/ralph (22k ⭐)](#14-snarktankralph-22k-)
 15. [pydantic/pydantic-ai (21k ⭐)](#15-pydanticpydantic-ai-21k-)
 16. [hardikpandya/stop-slop (18k ⭐)](#16-hardikpandyastop-slop-18k-)
 17. [mindfold-ai/Trellis (15k ⭐)](#17-mindfold-aitrellis-15k-)
-18. [cursor/plugins (12k ⭐)](#18-cursorplugins-12k-)
+18. [cursor/plugins (13k ⭐)](#18-cursorplugins-13k-)
 19. [cobusgreyling/loop-engineering (12k ⭐)](#19-cobusgreylingloop-engineering-12k-)
 20. [open-gsd/gsd-core (11k ⭐)](#20-open-gsdgsd-core-11k-)
 21. [frankbria/ralph-claude-code (9.7k ⭐)](#21-frankbriaralph-claude-code-97k-)
-22. [kunchenguid/firstmate (8k ⭐)](#22-kunchenguidfirstmate-8k-)
+22. [kunchenguid/firstmate (8.1k ⭐)](#22-kunchenguidfirstmate-81k-)
 23. [loopx-project/loopx (6.4k ⭐)](#23-loopx-projectloopx-64k-)
 24. [anthropics/claude-plugins-community (4.7k ⭐)](#24-anthropicsclaude-plugins-community-47k-)
 25. [gotalab/cc-sdd (3.7k ⭐)](#25-gotalabcc-sdd-37k-)
@@ -56,7 +56,7 @@
 
 ---
 
-## 1. obra/superpowers (301k ⭐)
+## 1. obra/superpowers (302k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
 **🍴** Forks 27k | **🔄** Updated 2026-10-10  
@@ -68,10 +68,10 @@
 
 ---
 
-## 2. mattpocock/skills (295k ⭐)
+## 2. mattpocock/skills (298k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Forks 25k | **🔄** Updated 2026-10-13  
+**🍴** Forks 25k | **🔄** Updated 2026-10-19  
 **👤** Matt Pocock — TypeScript educator and Total TypeScript founder
 
 > Matt Pocock's personal skills collection, straight from his .claude directory for real engineers.
@@ -80,10 +80,10 @@
 
 ---
 
-## 3. affaan-m/ECC (283k ⭐)
+## 3. affaan-m/ECC (284k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Forks 42k | **🔄** Updated 2026-10-15  
+**🍴** Forks 42k | **🔄** Updated 2026-10-20  
 **👤** Affaan Mustafa — Anthropic hackathon winner and PMX founding engineer
 
 > Agent harness performance optimization system — skills, instincts, memory, security, and research-first development.
@@ -107,7 +107,7 @@
 ## 5. github/spec-kit (142k ⭐)
 
 **🔗** https://github.com/github/spec-kit  
-**🍴** Forks 13k | **🔄** Updated 2026-10-16  
+**🍴** Forks 13k | **🔄** Updated 2026-10-19  
 **👤** GitHub official team — maintainers of the Spec-Driven Development toolkit
 
 > Toolkit to help you get started with Spec-Driven Development.
@@ -116,7 +116,7 @@
 
 ---
 
-## 6. addyosmani/agent-skills (108k ⭐)
+## 6. addyosmani/agent-skills (109k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
 **🍴** Forks 11k | **🔄** Updated 2026-10-13  
@@ -128,10 +128,10 @@
 
 ---
 
-## 7. Leonxlnx/taste-skill (98k ⭐)
+## 7. Leonxlnx/taste-skill (99k ⭐)
 
 **🔗** https://github.com/Leonxlnx/taste-skill  
-**🍴** Forks 6.7k | **🔄** Updated 2026-10-14  
+**🍴** Forks 6.8k | **🔄** Updated 2026-10-19  
 **👤** Leon Lin — founder of Taste Skill
 
 > Design taste skill that stops AI from generating boring, generic UI slop.
@@ -155,7 +155,7 @@
 ## 9. Fission-AI/OpenSpec (72k ⭐)
 
 **🔗** https://github.com/Fission-AI/OpenSpec  
-**🍴** Forks 4.9k | **🔄** Updated 2026-10-17  
+**🍴** Forks 4.9k | **🔄** Updated 2026-10-19  
 **👤** Fission-AI — open-source SDD framework team
 
 > Spec-driven development (SDD) for AI coding assistants.
@@ -167,7 +167,7 @@
 ## 10. bmad-code-org/BMAD-METHOD (54k ⭐)
 
 **🔗** https://github.com/bmad-code-org/BMAD-METHOD  
-**🍴** Forks 6.1k | **🔄** Updated 2026-10-18  
+**🍴** Forks 6.1k | **🔄** Updated 2026-10-19  
 **👤** BMAD team — open-source org for AI-driven agile development
 
 > Breakthrough Method for Agile AI Driven Development.
@@ -176,7 +176,7 @@
 
 ---
 
-## 11. OthmanAdi/planning-with-files (27k ⭐)
+## 11. OthmanAdi/planning-with-files (28k ⭐)
 
 **🔗** https://github.com/OthmanAdi/planning-with-files  
 **🍴** Forks 2.3k | **🔄** Updated 2026-10-17  
@@ -191,7 +191,7 @@
 ## 12. EveryInc/compound-engineering-plugin (26k ⭐)
 
 **🔗** https://github.com/EveryInc/compound-engineering-plugin  
-**🍴** Forks 2.1k | **🔄** Updated 2026-10-17  
+**🍴** Forks 2.1k | **🔄** Updated 2026-10-19  
 **👤** Every — team behind the Compound Engineering methodology and plugin
 
 > Every's official Compound Engineering plugin, packaging research, planning, implementation, review, and learning into reusable skills for Claude Code, Codex, Cursor, and other agents.
@@ -203,7 +203,7 @@
 ## 13. PrimeIntellect-ai/prime-agent (22k ⭐)
 
 **🔗** https://github.com/PrimeIntellect-ai/prime-agent  
-**🍴** Forks 2.5k | **🔄** Updated 2026-10-17  
+**🍴** Forks 2.5k | **🔄** Updated 2026-10-20  
 **👤** Prime Intellect — team behind Prime Agent and open agent-research infrastructure
 
 > Prime Intellect's open-source self-improving coding and research agent, combining a Recursive Language Model with a Continual Harness for persistent REPL state, subagents, memory, skills, and reviewable refinement across long-running tasks.
@@ -227,7 +227,7 @@
 ## 15. pydantic/pydantic-ai (21k ⭐)
 
 **🔗** https://github.com/pydantic/pydantic-ai  
-**🍴** Forks 2.9k | **🔄** Updated 2026-10-18  
+**🍴** Forks 3k | **🔄** Updated 2026-10-20  
 **👤** Pydantic — team behind Pydantic AI and Pydantic AI Harness
 
 > Pydantic's typed Python AI SDK and agent harness for multi-model agents, realtime voice, images, embeddings, and structured output, with composable memory, subagents, context management, and long-running coding workflows.
@@ -251,7 +251,7 @@
 ## 17. mindfold-ai/Trellis (15k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Forks 862 | **🔄** Updated 2026-09-29  
+**🍴** Forks 864 | **🔄** Updated 2026-09-29  
 **👤** mindfold-ai — Trellis agent harness team
 
 > High-performance agent harness runtime for complete agentic workflows and multi-tool integration.
@@ -260,10 +260,10 @@
 
 ---
 
-## 18. cursor/plugins (12k ⭐)
+## 18. cursor/plugins (13k ⭐)
 
 **🔗** https://github.com/cursor/plugins  
-**🍴** Forks 1.2k | **🔄** Updated 2026-10-17  
+**🍴** Forks 1.3k | **🔄** Updated 2026-10-20  
 **👤** Cursor — team behind the Cursor plugin specification and official marketplace
 
 > Cursor's official plugin specification and marketplace, packaging skills, rules, agents, and MCP configuration for engineering loops such as spec-driven development, continual learning, code review, browser verification, and multi-agent orchestration.
@@ -275,7 +275,7 @@
 ## 19. cobusgreyling/loop-engineering (12k ⭐)
 
 **🔗** https://github.com/cobusgreyling/loop-engineering  
-**🍴** Forks 1.7k | **🔄** Updated 2026-10-17  
+**🍴** Forks 1.8k | **🔄** Updated 2026-10-20  
 **👤** Cobus Greyling — AI and language technology writer; creator of Loop Engineering
 
 > Practical patterns, starters and CLI tools for loop engineering with AI coding agents — design systems that prompt and orchestrate agents, with loop-init, loop-audit, loop-cost and Loop Ready scoring.
@@ -287,7 +287,7 @@
 ## 20. open-gsd/gsd-core (11k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-core  
-**🍴** Forks 759 | **🔄** Updated 2026-10-18  
+**🍴** Forks 764 | **🔄** Updated 2026-10-20  
 **👤** open-gsd — maintainers of the GSD workflow harness
 
 > Git. Ship. Done — core spec-driven agentic delivery harness.
@@ -299,7 +299,7 @@
 ## 21. frankbria/ralph-claude-code (9.7k ⭐)
 
 **🔗** https://github.com/frankbria/ralph-claude-code  
-**🍴** Forks 742 | **🔄** Updated 2026-10-17  
+**🍴** Forks 750 | **🔄** Updated 2026-10-17  
 **👤** Frank Bria — author of the ralph-claude-code autonomous dev loop
 
 > Autonomous AI development loop for Claude Code with intelligent exit detection.
@@ -308,7 +308,7 @@
 
 ---
 
-## 22. kunchenguid/firstmate (8k ⭐)
+## 22. kunchenguid/firstmate (8.1k ⭐)
 
 **🔗** https://github.com/kunchenguid/firstmate  
 **🍴** Forks 2.6k | **🔄** Updated 2026-10-18  
@@ -323,7 +323,7 @@
 ## 23. loopx-project/loopx (6.4k ⭐)
 
 **🔗** https://github.com/loopx-project/loopx  
-**🍴** Forks 604 | **🔄** Updated 2026-10-18  
+**🍴** Forks 607 | **🔄** Updated 2026-10-20  
 **👤** Huang Ruiteng (huangruiteng) — ByteDance AML engineer and creator of loopx
 
 > Lightweight state kernel for long-running AI agent teams, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs across Codex, Claude Code, and other loops.
@@ -335,7 +335,7 @@
 ## 24. anthropics/claude-plugins-community (4.7k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-community  
-**🍴** Forks 335 | **🔄** Updated 2026-10-17  
+**🍴** Forks 343 | **🔄** Updated 2026-10-19  
 **👤** Anthropic — maintainers of the Claude community plugin directory
 
 > Read-only mirror of the community plugin marketplace for Claude Cowork and Claude Code, continuously syncing reviewed skills and workflow plugins as a community extension point for reusable agent loops.
@@ -359,7 +359,7 @@
 ## 26. rpamis/comet (3.2k ⭐)
 
 **🔗** https://github.com/rpamis/comet  
-**🍴** Forks 304 | **🔄** Updated 2026-10-18  
+**🍴** Forks 304 | **🔄** Updated 2026-10-20  
 **👤** rpamis — maintainers of the Comet long-running agent workflow platform
 
 > Resumable long-running coding workflow and skill platform connecting OpenSpec, Superpowers, execution, verification, evaluation, and release through state machines and phase guards.
@@ -371,7 +371,7 @@
 ## 27. Forward-Future/loopy (3.2k ⭐)
 
 **🔗** https://github.com/Forward-Future/loopy  
-**🍴** Forks 281 | **🔄** Updated 2026-09-11  
+**🍴** Forks 282 | **🔄** Updated 2026-09-11  
 **👤** Forward Future — maintainers of Loop Library and the Loopy skill
 
 > Library and companion skill for discovering, auditing, designing, running, and debriefing reusable agent loops with explicit checks, next actions, and stop conditions.
@@ -383,7 +383,7 @@
 ## 28. mikeyobrien/ralph-orchestrator (3.2k ⭐)
 
 **🔗** https://github.com/mikeyobrien/ralph-orchestrator  
-**🍴** Forks 313 | **🔄** Updated 2026-10-15  
+**🍴** Forks 319 | **🔄** Updated 2026-10-15  
 **👤** Mike O'Brien — author of ralph-orchestrator autonomous agent orchestration
 
 > Improved Ralph Wiggum implementation for autonomous AI agent orchestration until specs are fulfilled.
@@ -431,7 +431,7 @@
 ## 32. 777genius/agent-teams-ai (2.3k ⭐)
 
 **🔗** https://github.com/777genius/agent-teams-ai  
-**🍴** Forks 376 | **🔄** Updated 2026-10-17  
+**🍴** Forks 377 | **🔄** Updated 2026-10-19  
 **👤** Ilya (777genius) — creator of Agent Teams AI and multi-agent collaboration tooling
 
 > Desktop app for autonomous multi-agent teams with task boards, inter-agent messaging, and peer review across Codex, Claude Code, OpenCode, Cursor, and other providers.
@@ -443,7 +443,7 @@
 ## 33. maxritter/pilot-shell (2.1k ⭐)
 
 **🔗** https://github.com/maxritter/pilot-shell  
-**🍴** Forks 179 | **🔄** Updated 2026-10-18  
+**🍴** Forks 179 | **🔄** Updated 2026-10-20  
 **👤** Max Ritter — author of pilot-shell production agent workflows
 
 > Spec-driven planning, enforced TDD, persistent memory, and quality gates for production-ready Claude Code and Codex agents.
@@ -455,7 +455,7 @@
 ## 34. uber/ADR (2.1k ⭐)
 
 **🔗** https://github.com/uber/ADR  
-**🍴** Forks 232 | **🔄** Updated 2026-10-16  
+**🍴** Forks 241 | **🔄** Updated 2026-10-19  
 **👤** Uber Open Source — team behind the ADR enterprise agent-security system
 
 > Uber's open-source enterprise agent-security system for observability, security benchmarking, and threat detection across Cursor, Claude Code, Codex, and other agents, including ADR Sensor, ADR-Bench, and ADR Detector.
@@ -467,7 +467,7 @@
 ## 35. the-open-engine/zeroshot (2k ⭐)
 
 **🔗** https://github.com/the-open-engine/zeroshot  
-**🍴** Forks 188 | **🔄** Updated 2026-10-17  
+**🍴** Forks 189 | **🔄** Updated 2026-10-19  
 **👤** The Open Engine Company — team behind Zeroshot autonomous engineering orchestration
 
 > Multi-agent orchestration CLI for autonomous software engineering, separating executors from independent verifiers and iterating on reproducible failures with a persistent run ledger.
@@ -503,7 +503,7 @@
 ## 38. spec-kitty/spec-kitty (1.7k ⭐)
 
 **🔗** https://github.com/spec-kitty/spec-kitty  
-**🍴** Forks 182 | **🔄** Updated 2026-10-17  
+**🍴** Forks 184 | **🔄** Updated 2026-10-20  
 **👤** Spec Kitty — maintainers of the spec-kitty spec-driven development toolkit
 
 > Spec-driven development toolkit for Claude, Cursor, Gemini, and Codex, with an integrated Kanban dashboard, Git worktrees, and automated merge workflows.
@@ -515,7 +515,7 @@
 ## 39. umputun/ralphex (1.5k ⭐)
 
 **🔗** https://github.com/umputun/ralphex  
-**🍴** Forks 131 | **🔄** Updated 2026-10-13  
+**🍴** Forks 130 | **🔄** Updated 2026-10-13  
 **👤** Umputun — author of ralphex extended Ralph loop
 
 > Extended Ralph loop CLI for autonomous AI-driven plan execution with multi-agent backends.
@@ -527,7 +527,7 @@
 ## 40. AnandChowdhary/continuous-claude (1.4k ⭐)
 
 **🔗** https://github.com/AnandChowdhary/continuous-claude  
-**🍴** Forks 101 | **🔄** Updated 2026-09-27  
+**🍴** Forks 106 | **🔄** Updated 2026-09-27  
 **👤** Anand Chowdhary — Pabio cofounder and author of continuous-claude
 
 > Ralph loop with PRs — run Claude Code continuously, autonomously creating PRs, waiting for checks, and merging.
@@ -539,7 +539,7 @@
 ## 41. open-gsd/gsd-pi (1.3k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
-**🍴** Forks 110 | **🔄** Updated 2026-10-17  
+**🍴** Forks 112 | **🔄** Updated 2026-10-19  
 **👤** open-gsd — GSD-Pi maintainers
 
 > GSD meta-prompting and spec-driven development (Pi edition) for long-running autonomous agents with big-picture awareness.
@@ -551,7 +551,7 @@
 ## 42. modu-ai/moai-adk (1.2k ⭐)
 
 **🔗** https://github.com/modu-ai/moai-adk  
-**🍴** Forks 226 | **🔄** Updated 2026-10-17  
+**🍴** Forks 226 | **🔄** Updated 2026-10-20  
 **👤** modu-ai — moai-adk agentic development kit team
 
 > SPEC-first agentic development kit — 24 AI agents, 52 skills, TDD/DDD quality gates, Go CLI with zero deps.
@@ -563,11 +563,11 @@
 
 ### 📋 Spec-Driven Development
 
-- [superpowers](#1-obrasuperpowers-301k-) — Agentic skills framework and software development methodolog…
+- [superpowers](#1-obrasuperpowers-302k-) — Agentic skills framework and software development methodolog…
 - [spec-kit](#5-githubspec-kit-142k-) — Toolkit to help you get started with Spec-Driven Development
 - [OpenSpec](#9-fission-aiopenspec-72k-) — Spec-driven development (SDD) for AI coding assistants
 - [BMAD-METHOD](#10-bmad-code-orgbmad-method-54k-) — Breakthrough Method for Agile AI Driven Development
-- [plugins](#18-cursorplugins-12k-) — Cursor's official plugin specification and marketplace, pack…
+- [plugins](#18-cursorplugins-13k-) — Cursor's official plugin specification and marketplace, pack…
 - [gsd-core](#20-open-gsdgsd-core-11k-) — Git
 - [cc-sdd](#25-gotalabcc-sdd-37k-) — Minimal SDD harness that turns approved specs into long-runn…
 - [comet](#26-rpamiscomet-32k-) — Resumable long-running coding workflow and skill platform co…
@@ -579,10 +579,10 @@
 
 ### 🔁 Agent Iteration Loops
 
-- [superpowers](#1-obrasuperpowers-301k-) — Agentic skills framework and software development methodolog…
+- [superpowers](#1-obrasuperpowers-302k-) — Agentic skills framework and software development methodolog…
 - [autoresearch](#8-karpathyautoresearch-98k-) — Autonomous AI research loop for single-GPU nanochat training…
 - [ralph](#14-snarktankralph-22k-) — Autonomous AI agent loop that runs repeatedly until all PRD …
-- [plugins](#18-cursorplugins-12k-) — Cursor's official plugin specification and marketplace, pack…
+- [plugins](#18-cursorplugins-13k-) — Cursor's official plugin specification and marketplace, pack…
 - [loop-engineering](#19-cobusgreylingloop-engineering-12k-) — Practical patterns, starters and CLI tools for loop engineer…
 - [ralph-claude-code](#21-frankbriaralph-claude-code-97k-) — Autonomous AI development loop for Claude Code with intellig…
 - [loopx](#23-loopx-projectloopx-64k-) — Lightweight state kernel for long-running AI agent teams, wi…
@@ -603,25 +603,25 @@
 
 ### 🤖 Skills & Workflows
 
-- [superpowers](#1-obrasuperpowers-301k-) — Agentic skills framework and software development methodolog…
-- [skills](#2-mattpocockskills-295k-) — Matt Pocock's personal skills collection, straight from his
-- [ECC](#3-affaan-mecc-283k-) — Agent harness performance optimization system — skills, inst…
+- [superpowers](#1-obrasuperpowers-302k-) — Agentic skills framework and software development methodolog…
+- [skills](#2-mattpocockskills-298k-) — Matt Pocock's personal skills collection, straight from his
+- [ECC](#3-affaan-mecc-284k-) — Agent harness performance optimization system — skills, inst…
 - [andrej-karpathy-skills](#4-multica-aiandrej-karpathy-skills-221k-) — A single CLAUDE
-- [agent-skills](#6-addyosmaniagent-skills-108k-) — Production-grade engineering skills for AI coding agents
-- [taste-skill](#7-leonxlnxtaste-skill-98k-) — Design taste skill that stops AI from generating boring, gen…
+- [agent-skills](#6-addyosmaniagent-skills-109k-) — Production-grade engineering skills for AI coding agents
+- [taste-skill](#7-leonxlnxtaste-skill-99k-) — Design taste skill that stops AI from generating boring, gen…
 - [compound-engineering-plugin](#12-everyinccompound-engineering-plugin-26k-) — Every's official Compound Engineering plugin, packaging rese…
 - [prime-agent](#13-primeintellect-aiprime-agent-22k-) — Prime Intellect's open-source self-improving coding and rese…
 - [stop-slop](#16-hardikpandyastop-slop-18k-) — A skill file for removing AI tells from prose
-- [plugins](#18-cursorplugins-12k-) — Cursor's official plugin specification and marketplace, pack…
-- [firstmate](#22-kunchenguidfirstmate-8k-) — A portable agent distribution for coordinating parallel codi…
+- [plugins](#18-cursorplugins-13k-) — Cursor's official plugin specification and marketplace, pack…
+- [firstmate](#22-kunchenguidfirstmate-81k-) — A portable agent distribution for coordinating parallel codi…
 - [claude-plugins-community](#24-anthropicsclaude-plugins-community-47k-) — Read-only mirror of the community plugin marketplace for Cla…
 - [moai-adk](#42-modu-aimoai-adk-12k-) — SPEC-first agentic development kit — 24 AI agents, 52 skills…
 
 ### ⚡ Optimization & Methodology
 
-- [superpowers](#1-obrasuperpowers-301k-) — Agentic skills framework and software development methodolog…
-- [ECC](#3-affaan-mecc-283k-) — Agent harness performance optimization system — skills, inst…
-- [planning-with-files](#11-othmanadiplanning-with-files-27k-) — Persistent file-based planning for AI coding agents — crash-…
+- [superpowers](#1-obrasuperpowers-302k-) — Agentic skills framework and software development methodolog…
+- [ECC](#3-affaan-mecc-284k-) — Agent harness performance optimization system — skills, inst…
+- [planning-with-files](#11-othmanadiplanning-with-files-28k-) — Persistent file-based planning for AI coding agents — crash-…
 - [prime-agent](#13-primeintellect-aiprime-agent-22k-) — Prime Intellect's open-source self-improving coding and rese…
 - [pydantic-ai](#15-pydanticpydantic-ai-21k-) — Pydantic's typed Python AI SDK and agent harness for multi-m…
 - [Trellis](#17-mindfold-aitrellis-15k-) — High-performance agent harness runtime for complete agentic …
@@ -648,4 +648,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-10-18*
+*Curated by wind8 | 2026-10-20*

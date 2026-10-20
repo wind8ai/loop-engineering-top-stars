@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-10-18
+> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-10-20
 
 ---
 
@@ -13,10 +13,10 @@
 02. [ClaytonFarr/ralph-playbook (1k ⭐)](#2-claytonfarrralph-playbook-1k-)
 03. [snwfdhmp/awesome-ralph (929 ⭐)](#3-snwfdhmpawesome-ralph-929-)
 04. [vercel-labs/ralph-loop-agent (842 ⭐)](#4-vercel-labsralph-loop-agent-842-)
-05. [coleam00/skills (708 ⭐)](#5-coleam00skills-708-)
-06. [shotgun-sh/shotgun (685 ⭐)](#6-shotgun-shshotgun-685-)
+05. [coleam00/skills (710 ⭐)](#5-coleam00skills-710-)
+06. [shotgun-sh/shotgun (686 ⭐)](#6-shotgun-shshotgun-686-)
 07. [breezewish/CodexPotter (630 ⭐)](#7-breezewishcodexpotter-630-)
-08. [microsoft/Orchard-Agentic (551 ⭐)](#8-microsoftorchard-agentic-551-)
+08. [microsoft/Orchard-Agentic (552 ⭐)](#8-microsoftorchard-agentic-552-)
 09. [ChaoYue0307/awesome-loop-engineering (60 ⭐)](#9-chaoyue0307awesome-loop-engineering-60-)
 10. [microsoft/Loopsbench (33 ⭐)](#10-microsoftloopsbench-33-)
 11. [wind8ai/llm-dualoop (7 ⭐)](#11-wind8aillm-dualoop-7-)
@@ -50,7 +50,7 @@
 ## 3. snwfdhmp/awesome-ralph (929 ⭐)
 
 **🔗** https://github.com/snwfdhmp/awesome-ralph  
-**🍴** Fork 77 | **🔄** Updated 2026-02-03  
+**🍴** Fork 76 | **🔄** Updated 2026-02-03  
 **👤** snwfdhmp — awesome-ralph 策展维护者
 
 > Ralph / Ralph Wiggum AI coding 循环生态 curated list，收录工具、教程与实现参考。
@@ -71,7 +71,7 @@
 
 ---
 
-## 5. coleam00/skills (708 ⭐)
+## 5. coleam00/skills (710 ⭐)
 
 **🔗** https://github.com/coleam00/skills  
 **🍴** Fork 186 | **🔄** Updated 2026-10-07  
@@ -83,10 +83,10 @@
 
 ---
 
-## 6. shotgun-sh/shotgun (685 ⭐)
+## 6. shotgun-sh/shotgun (686 ⭐)
 
 **🔗** https://github.com/shotgun-sh/shotgun  
-**🍴** Fork 42 | **🔄** Updated 2026-06-02  
+**🍴** Fork 43 | **🔄** Updated 2026-06-02  
 **👤** shotgun-sh — Shotgun SDD 工具团队
 
 > Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道。
@@ -107,7 +107,7 @@
 
 ---
 
-## 8. microsoft/Orchard-Agentic (551 ⭐)
+## 8. microsoft/Orchard-Agentic (552 ⭐)
 
 **🔗** https://github.com/microsoft/Orchard-Agentic  
 **🍴** Fork 43 | **🔄** Updated 2026-10-09  
@@ -134,7 +134,7 @@
 ## 10. microsoft/Loopsbench (33 ⭐)
 
 **🔗** https://github.com/microsoft/Loopsbench  
-**🍴** Fork 5 | **🔄** Updated 2026-10-17  
+**🍴** Fork 5 | **🔄** Updated 2026-10-19  
 **👤** Microsoft — LoopsBench 长周期 Agent 评测团队
 
 > Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、Docker 环境和 verifier 衡量 coding agent 的规划、实现、测试与恢复能力。
@@ -168,14 +168,14 @@
 
 ### 🤖 Skills 与工作流
 
-- [skills](#5-coleam00skills-708-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
+- [skills](#5-coleam00skills-710-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
 
 ### ⚡ 优化与方法论
 
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — 中英双语 Loop Engineering 通俗指南，解释 prompt、context、harness 与外层 loo…
-- [shotgun](#6-shotgun-shshotgun-685-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
+- [shotgun](#6-shotgun-shshotgun-686-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
 - [CodexPotter](#7-breezewishcodexpotter-630-) — 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐
-- [Orchard-Agentic](#8-microsoftorchard-agentic-551-) — Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard …
+- [Orchard-Agentic](#8-microsoftorchard-agentic-552-) — Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard …
 - [Loopsbench](#10-microsoftloopsbench-33-) — Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、…
 
 
@@ -196,4 +196,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-10-18*
+*由 wind8 整理 | 2026-10-20*
