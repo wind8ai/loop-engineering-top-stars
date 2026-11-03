@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-11-01
+> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-11-03
 
 ---
 
@@ -12,13 +12,13 @@
 01. [alchaincyf/loop-engineering-orange-book (1.1k ⭐)](#1-alchaincyfloop-engineering-orange-book-11k-)
 02. [ClaytonFarr/ralph-playbook (1k ⭐)](#2-claytonfarrralph-playbook-1k-)
 03. [snwfdhmp/awesome-ralph (932 ⭐)](#3-snwfdhmpawesome-ralph-932-)
-04. [vercel-labs/ralph-loop-agent (843 ⭐)](#4-vercel-labsralph-loop-agent-843-)
-05. [coleam00/skills (725 ⭐)](#5-coleam00skills-725-)
+04. [vercel-labs/ralph-loop-agent (846 ⭐)](#4-vercel-labsralph-loop-agent-846-)
+05. [coleam00/skills (727 ⭐)](#5-coleam00skills-727-)
 06. [shotgun-sh/shotgun (682 ⭐)](#6-shotgun-shshotgun-682-)
-07. [breezewish/CodexPotter (633 ⭐)](#7-breezewishcodexpotter-633-)
-08. [microsoft/Orchard-Agentic (555 ⭐)](#8-microsoftorchard-agentic-555-)
+07. [breezewish/CodexPotter (634 ⭐)](#7-breezewishcodexpotter-634-)
+08. [microsoft/Orchard-Agentic (556 ⭐)](#8-microsoftorchard-agentic-556-)
 09. [ChaoYue0307/awesome-loop-engineering (59 ⭐)](#9-chaoyue0307awesome-loop-engineering-59-)
-10. [microsoft/Loopsbench (34 ⭐)](#10-microsoftloopsbench-34-)
+10. [microsoft/Loopsbench (35 ⭐)](#10-microsoftloopsbench-35-)
 11. [wind8ai/llm-dualoop (7 ⭐)](#11-wind8aillm-dualoop-7-)
 
 ---
@@ -59,10 +59,10 @@
 
 ---
 
-## 4. vercel-labs/ralph-loop-agent (843 ⭐)
+## 4. vercel-labs/ralph-loop-agent (846 ⭐)
 
 **🔗** https://github.com/vercel-labs/ralph-loop-agent  
-**🍴** Fork 84 | **🔄** Updated 2026-09-16  
+**🍴** Fork 85 | **🔄** Updated 2026-09-16  
 **👤** Vercel Labs — ralph-loop-agent 维护团队
 
 > Vercel AI SDK 上的 Ralph loop agent 封装，提供持续自主运行与验证回调。
@@ -71,10 +71,10 @@
 
 ---
 
-## 5. coleam00/skills (725 ⭐)
+## 5. coleam00/skills (727 ⭐)
 
 **🔗** https://github.com/coleam00/skills  
-**🍴** Fork 190 | **🔄** Updated 2026-10-30  
+**🍴** Fork 190 | **🔄** Updated 2026-11-02  
 **👤** Cole Medin — Dynamous 生成式 AI 专家与 Agentic Coding 课程作者
 
 > Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan → implement → validate → review → commit → PR 的 PIV 循环为核心，并提供 worktree 并行、代码评审和构建 AI Layer 的元 Skills。
@@ -95,7 +95,7 @@
 
 ---
 
-## 7. breezewish/CodexPotter (633 ⭐)
+## 7. breezewish/CodexPotter (634 ⭐)
 
 **🔗** https://github.com/breezewish/CodexPotter  
 **🍴** Fork 55 | **🔄** Updated 2026-09-01  
@@ -107,10 +107,10 @@
 
 ---
 
-## 8. microsoft/Orchard-Agentic (555 ⭐)
+## 8. microsoft/Orchard-Agentic (556 ⭐)
 
 **🔗** https://github.com/microsoft/Orchard-Agentic  
-**🍴** Fork 43 | **🔄** Updated 2026-10-09  
+**🍴** Fork 43 | **🔄** Updated 2026-11-01  
 **👤** Microsoft — Orchard Agentic Modeling 与环境基础设施团队
 
 > Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard Env 作为跨 Harness、训练器与任务领域的共享沙箱底座，承载 SWE、GUI 与个人助理场景的轨迹蒸馏、RL rollout 和评测流程。
@@ -131,7 +131,7 @@
 
 ---
 
-## 10. microsoft/Loopsbench (34 ⭐)
+## 10. microsoft/Loopsbench (35 ⭐)
 
 **🔗** https://github.com/microsoft/Loopsbench  
 **🍴** Fork 5 | **🔄** Updated 2026-10-31  
@@ -161,22 +161,22 @@
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — 中英双语 Loop Engineering 通俗指南，解释 prompt、context、harness 与外层 loo…
 - [ralph-playbook](#2-claytonfarrralph-playbook-1k-) — 基于 Geoff Huntley Ralph 方法论的自主 AI coding 循环实操 playbook，覆盖 spe…
 - [awesome-ralph](#3-snwfdhmpawesome-ralph-932-) — Ralph / Ralph Wiggum AI coding 循环生态 curated list，收录工具、教程与实现参…
-- [ralph-loop-agent](#4-vercel-labsralph-loop-agent-843-) — Vercel AI SDK 上的 Ralph loop agent 封装，提供持续自主运行与验证回调
+- [ralph-loop-agent](#4-vercel-labsralph-loop-agent-846-) — Vercel AI SDK 上的 Ralph loop agent 封装，提供持续自主运行与验证回调
 - [awesome-loop-engineering](#9-chaoyue0307awesome-loop-engineering-59-) — 经审计的 Loop Engineering 资源图谱，整理 509 项资源、15 种运行模式、可复用 loop cont…
-- [Loopsbench](#10-microsoftloopsbench-34-) — Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、…
+- [Loopsbench](#10-microsoftloopsbench-35-) — Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、…
 - [llm-dualoop](#11-wind8aillm-dualoop-7-) — 将反馈闭环工作法与 LLM Wiki 结合的双环知识工作方法：一条循环推进任务，另一条沉淀和修正可复用认知
 
 ### 🤖 Skills 与工作流
 
-- [skills](#5-coleam00skills-725-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
+- [skills](#5-coleam00skills-727-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
 
 ### ⚡ 优化与方法论
 
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — 中英双语 Loop Engineering 通俗指南，解释 prompt、context、harness 与外层 loo…
 - [shotgun](#6-shotgun-shshotgun-682-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
-- [CodexPotter](#7-breezewishcodexpotter-633-) — 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐
-- [Orchard-Agentic](#8-microsoftorchard-agentic-555-) — Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard …
-- [Loopsbench](#10-microsoftloopsbench-34-) — Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、…
+- [CodexPotter](#7-breezewishcodexpotter-634-) — 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐
+- [Orchard-Agentic](#8-microsoftorchard-agentic-556-) — Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard …
+- [Loopsbench](#10-microsoftloopsbench-35-) — Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、…
 
 
 ---
@@ -196,4 +196,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-11-01*
+*由 wind8 整理 | 2026-11-03*
