@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-11-03
+> 来源：[wind8ai 的 loop-engineering 列表](https://github.com/stars/wind8ai/lists/loop-engineering) · 更新：2026-11-05
 
 ---
 
@@ -13,9 +13,9 @@
 02. [ClaytonFarr/ralph-playbook (1k ⭐)](#2-claytonfarrralph-playbook-1k-)
 03. [snwfdhmp/awesome-ralph (932 ⭐)](#3-snwfdhmpawesome-ralph-932-)
 04. [vercel-labs/ralph-loop-agent (846 ⭐)](#4-vercel-labsralph-loop-agent-846-)
-05. [coleam00/skills (727 ⭐)](#5-coleam00skills-727-)
-06. [shotgun-sh/shotgun (682 ⭐)](#6-shotgun-shshotgun-682-)
-07. [breezewish/CodexPotter (634 ⭐)](#7-breezewishcodexpotter-634-)
+05. [coleam00/skills (728 ⭐)](#5-coleam00skills-728-)
+06. [shotgun-sh/shotgun (683 ⭐)](#6-shotgun-shshotgun-683-)
+07. [breezewish/CodexPotter (635 ⭐)](#7-breezewishcodexpotter-635-)
 08. [microsoft/Orchard-Agentic (556 ⭐)](#8-microsoftorchard-agentic-556-)
 09. [ChaoYue0307/awesome-loop-engineering (59 ⭐)](#9-chaoyue0307awesome-loop-engineering-59-)
 10. [microsoft/Loopsbench (35 ⭐)](#10-microsoftloopsbench-35-)
@@ -26,7 +26,7 @@
 ## 1. alchaincyf/loop-engineering-orange-book (1.1k ⭐)
 
 **🔗** https://github.com/alchaincyf/loop-engineering-orange-book  
-**🍴** Fork 109 | **🔄** Updated 2026-10-20  
+**🍴** Fork 110 | **🔄** Updated 2026-10-20  
 **👤** 花叔（alchaincyf）— AI Native Coder，Loop Engineering 橙皮书作者
 
 > 中英双语 Loop Engineering 通俗指南，解释 prompt、context、harness 与外层 loop 的关系，以及循环设计、验证、成本和落地方法。
@@ -71,7 +71,7 @@
 
 ---
 
-## 5. coleam00/skills (727 ⭐)
+## 5. coleam00/skills (728 ⭐)
 
 **🔗** https://github.com/coleam00/skills  
 **🍴** Fork 190 | **🔄** Updated 2026-11-02  
@@ -83,7 +83,7 @@
 
 ---
 
-## 6. shotgun-sh/shotgun (682 ⭐)
+## 6. shotgun-sh/shotgun (683 ⭐)
 
 **🔗** https://github.com/shotgun-sh/shotgun  
 **🍴** Fork 37 | **🔄** Updated 2026-06-02  
@@ -95,7 +95,7 @@
 
 ---
 
-## 7. breezewish/CodexPotter (634 ⭐)
+## 7. breezewish/CodexPotter (635 ⭐)
 
 **🔗** https://github.com/breezewish/CodexPotter  
 **🍴** Fork 55 | **🔄** Updated 2026-09-01  
@@ -122,7 +122,7 @@
 ## 9. ChaoYue0307/awesome-loop-engineering (59 ⭐)
 
 **🔗** https://github.com/ChaoYue0307/awesome-loop-engineering  
-**🍴** Fork 8 | **🔄** Updated 2026-10-26  
+**🍴** Fork 8 | **🔄** Updated 2026-11-03  
 **👤** Chaoyue He — 南洋理工大学开发者，awesome-loop-engineering 策展维护者
 
 > 经审计的 Loop Engineering 资源图谱，整理 509 项资源、15 种运行模式、可复用 loop contract、可运行模板与交互式 Resource Atlas。
@@ -168,13 +168,13 @@
 
 ### 🤖 Skills 与工作流
 
-- [skills](#5-coleam00skills-727-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
+- [skills](#5-coleam00skills-728-) — Cole Medin 日常用于 coding agent 软件交付的 Skills 集合，以 prime → plan …
 
 ### ⚡ 优化与方法论
 
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — 中英双语 Loop Engineering 通俗指南，解释 prompt、context、harness 与外层 loo…
-- [shotgun](#6-shotgun-shshotgun-682-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
-- [CodexPotter](#7-breezewishcodexpotter-634-) — 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐
+- [shotgun](#6-shotgun-shshotgun-683-) — Spec 驱动开发工具：生成 codebase-aware spec，防止 AI coding agent 偏离轨道
+- [CodexPotter](#7-breezewishcodexpotter-635-) — 增强 Codex `/goal` 的 spec/goal 驱动工作流，帮助 agent 在长任务中保持目标对齐
 - [Orchard-Agentic](#8-microsoftorchard-agentic-556-) — Microsoft 开源的 Agentic Modeling 研究框架，以 Kubernetes 原生 Orchard …
 - [Loopsbench](#10-microsoftloopsbench-35-) — Microsoft 开源的长周期终端任务 Agent benchmark 与执行 Harness，用模块依赖、单元验收、…
 
@@ -196,4 +196,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-11-03*
+*由 wind8 整理 | 2026-11-05*
