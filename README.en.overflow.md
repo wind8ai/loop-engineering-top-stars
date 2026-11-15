@@ -3,7 +3,7 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Star List entries beyond the formal cap of 42, ranked by total GitHub Stars  
-> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-11-13
+> Source: [wind8ai loop-engineering list](https://github.com/stars/wind8ai/lists/loop-engineering) · Updated: 2026-11-15
 
 ---
 
@@ -11,12 +11,12 @@
 
 01. [alchaincyf/loop-engineering-orange-book (1.1k ⭐)](#1-alchaincyfloop-engineering-orange-book-11k-)
 02. [ClaytonFarr/ralph-playbook (1k ⭐)](#2-claytonfarrralph-playbook-1k-)
-03. [snwfdhmp/awesome-ralph (935 ⭐)](#3-snwfdhmpawesome-ralph-935-)
+03. [snwfdhmp/awesome-ralph (936 ⭐)](#3-snwfdhmpawesome-ralph-936-)
 04. [vercel-labs/ralph-loop-agent (846 ⭐)](#4-vercel-labsralph-loop-agent-846-)
 05. [coleam00/skills (736 ⭐)](#5-coleam00skills-736-)
 06. [shotgun-sh/shotgun (683 ⭐)](#6-shotgun-shshotgun-683-)
 07. [breezewish/CodexPotter (636 ⭐)](#7-breezewishcodexpotter-636-)
-08. [microsoft/Orchard-Agentic (561 ⭐)](#8-microsoftorchard-agentic-561-)
+08. [microsoft/Orchard-Agentic (562 ⭐)](#8-microsoftorchard-agentic-562-)
 09. [ChaoYue0307/awesome-loop-engineering (59 ⭐)](#9-chaoyue0307awesome-loop-engineering-59-)
 10. [microsoft/Loopsbench (36 ⭐)](#10-microsoftloopsbench-36-)
 11. [wind8ai/llm-dualoop (7 ⭐)](#11-wind8aillm-dualoop-7-)
@@ -47,10 +47,10 @@
 
 ---
 
-## 3. snwfdhmp/awesome-ralph (935 ⭐)
+## 3. snwfdhmp/awesome-ralph (936 ⭐)
 
 **🔗** https://github.com/snwfdhmp/awesome-ralph  
-**🍴** Forks 77 | **🔄** Updated 2026-11-08  
+**🍴** Forks 78 | **🔄** Updated 2026-11-08  
 **👤** snwfdhmp — curator of awesome-ralph
 
 > Curated list of Ralph / Ralph Wiggum AI coding loop tools, tutorials, and implementations.
@@ -74,7 +74,7 @@
 ## 5. coleam00/skills (736 ⭐)
 
 **🔗** https://github.com/coleam00/skills  
-**🍴** Forks 192 | **🔄** Updated 2026-11-12  
+**🍴** Forks 192 | **🔄** Updated 2026-11-14  
 **👤** Cole Medin — generative AI specialist at Dynamous and creator of the Agentic Coding course
 
 > Cole Medin's practical software-delivery skills for coding agents, centered on the prime-plan-implement-validate-review-commit-PR PIV loop with worktree parallelism, review workflows, and meta-skills for building an AI layer.
@@ -107,10 +107,10 @@
 
 ---
 
-## 8. microsoft/Orchard-Agentic (561 ⭐)
+## 8. microsoft/Orchard-Agentic (562 ⭐)
 
 **🔗** https://github.com/microsoft/Orchard-Agentic  
-**🍴** Forks 43 | **🔄** Updated 2026-11-07  
+**🍴** Forks 44 | **🔄** Updated 2026-11-07  
 **👤** Microsoft — team behind Orchard agentic modeling and environment infrastructure
 
 > Microsoft's open-source agentic-modeling research framework, using the Kubernetes-native Orchard Env as a shared sandbox substrate across harnesses, trainers, and task domains for trajectory distillation, RL rollouts, and evaluation in SWE, GUI, and assistant workflows.
@@ -166,7 +166,7 @@
 
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — Bilingual field guide to Loop Engineering, covering the prom…
 - [ralph-playbook](#2-claytonfarrralph-playbook-1k-) — Practical playbook for autonomous AI coding loops using Geof…
-- [awesome-ralph](#3-snwfdhmpawesome-ralph-935-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
+- [awesome-ralph](#3-snwfdhmpawesome-ralph-936-) — Curated list of Ralph / Ralph Wiggum AI coding loop tools, t…
 - [ralph-loop-agent](#4-vercel-labsralph-loop-agent-846-) — Ralph loop agent wrapper for the Vercel AI SDK with continuo…
 - [skills](#5-coleam00skills-736-) — Cole Medin's practical software-delivery skills for coding a…
 - [awesome-loop-engineering](#9-chaoyue0307awesome-loop-engineering-59-) — Audited Loop Engineering resource map with 509 resources, 15…
@@ -181,7 +181,7 @@
 
 - [loop-engineering-orange-book](#1-alchaincyfloop-engineering-orange-book-11k-) — Bilingual field guide to Loop Engineering, covering the prom…
 - [ralph-playbook](#2-claytonfarrralph-playbook-1k-) — Practical playbook for autonomous AI coding loops using Geof…
-- [Orchard-Agentic](#8-microsoftorchard-agentic-561-) — Microsoft's open-source agentic-modeling research framework,…
+- [Orchard-Agentic](#8-microsoftorchard-agentic-562-) — Microsoft's open-source agentic-modeling research framework,…
 - [Loopsbench](#10-microsoftloopsbench-36-) — Microsoft's open-source benchmark and execution harness for …
 
 
@@ -202,4 +202,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-11-13*
+*Curated by wind8 | 2026-11-15*
